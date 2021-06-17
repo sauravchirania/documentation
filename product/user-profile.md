@@ -12,6 +12,8 @@ On your **Profile** page, you are able to customize the following:
 
 ### Cover image
 
+The optimal size for a cover image is 2736x650. 
+
 ![](../.gitbook/assets/screen-shot-2021-03-23-at-8.07.27-pm.jpg)
 
 Click on **Edit cover** to access to upload a new cover image.
