@@ -32,7 +32,7 @@ Click on **Edit main color** in the header area to set the color.
 
 ## Set Cover Image
 
-To change your cover image, click on **Edit cover**. By clicking on the image, you are able to move it around. You can also zoom in and out as you like.
+To change your cover image, click on **Edit cover**. By clicking on the image, you are able to move it around. You can also zoom in and out as you like. The optimal image size for a cover image is 2736x650. 
 
 ![](../.gitbook/assets/cover-image.gif)
 
