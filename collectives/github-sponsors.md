@@ -1,22 +1,28 @@
+---
+description: Guide to connecting Github Sponsors for Organizations to your Collective
+---
+
 # Setting up GitHub Sponsors
 
-**This document is a guide to connecting Github Sponsors for Organizations to your Collective. This option is currently only available for Collectives fiscally hosted by the** [**Open Source Collective**](https://opencollective.com/opensource) **\(not Open Collective Europe or other fiscal hosts\), which will hold the funds on behalf of your project.**
-
-_Note: Transaction data about the funds you receive through GitHub Sponsors will be shared with Open Source Collective in order to credit your budget._
-
 {% hint style="warning" %}
-This guide is **only** for projects using **Open Source Collective** as their fiscal host. Before signing up using this guide, confirm that your Collective has a fiscal host, and the fiscal host is **Open Source Collective**. You can see this on your Collective's home page:
+This guide is **only** for projects using [**Open Source Collective**](https://opencollective.com/opensource) as their fiscal host. Before signing up using this guide, confirm that your Collective has a fiscal host, and the fiscal host is **Open Source Collective**. You can see this on your Collective's home page:
 
 ![](../.gitbook/assets/sponsors-fiscal-host.png)
 
 If you have another fiscal host you will need to choose Fiscal Host: Other when signing up for GitHub Sponsors and work with your fiscal host to get their bank account and tax information.
 {% endhint %}
 
+_Note: Transaction data about the funds you receive through GitHub Sponsors will be shared with Open Source Collective in order to credit your budget._
+
 Open Source Collective projects can use Open Collective to receive GitHub Sponsors funds by following these steps:
 
 1. Confirm that you have a **GitHub organization** \(not an individual user account\). You can create a GitHub organization by following [this guide](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch).
-2. [Create a Collective](https://opencollective.com/opensource/apply) for your open source project if you don't already have one. You will need to use Open Source Collective as your fiscal host.  _Note: Open Collective also has a thing called "Organizations" but this is unrelated. You need an Organization on the GitHub side and a Collective on the Open Collective side. Sorry for the confusing terms!_
-3. Visit [github.com/sponsors](http://github.com/sponsors) and sign your Github organization up for the Sponsors waitlist.  ✔️ Select: "This organization is using a fiscal host" and select Open Source Collective from the menu.  ✔️ For non-profit status, answer: “Yes, this organization has nonprofit status but cannot receive tax-deductible donations from individuals \(e.g., 501c6\)”
+2. [Create a Collective](https://opencollective.com/opensource/apply) for your open source project if you don't already have one. You will need to use [Open Source Collective](https://opencollective.com/opensource) as your fiscal host. _Note: Open Collective also has a thing called "Organizations" but this is unrelated. You need an Organization on the GitHub side and a Collective on the Open Collective side._ 
+3. Visit [github.com/sponsors](http://github.com/sponsors) and sign your Github organization up for the Sponsors waitlist.  
+
+✔️ Select: "This organization is using a fiscal host" and select Open Source Collective from the menu.  
+
+✔️ For non-profit status, answer: “Yes, this organization has nonprofit status but cannot receive tax-deductible donations from individuals \(e.g., 501c6\)”
 
 ![](../.gitbook/assets/screen-shot-2020-08-30-at-4.07.15-pm.png)
 
