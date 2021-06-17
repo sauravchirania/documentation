@@ -16,12 +16,6 @@ If your project is not centered on a Github repository, or you can't get the aut
 
 ## Github Verification Troubleshooting
 
-### The permissions you ask for are overly generous and my organization doesn't want to grant them.
-
-We agree the permissions are overly generous. Unfortunately, there's not much we can do at the moment since this is the only scope we can use to read the info we need. We've discussed this at length on issues [\#355](https://github.com/opencollective/opencollective/issues/355), [\#1034](https://github.com/opencollective/opencollective/issues/1034) and [\#2333](https://github.com/opencollective/opencollective/issues/2333).
-
-If you have any suggestions on how to handle this better, feel free to join the discussions, start a new one, or contact us at [https://opencollective.com/support](https://opencollective.com/support).
-
 ### I can't find my repository or my organization's repository.
 
 There are a few possible causes for that:
@@ -69,4 +63,10 @@ Use the search bar to filter repositories by name:
 1. On the Collective creation page, choose **For open source projects**.
 2. Check **I agree with the** [**terms of fiscal sponsorship**](https://docs.google.com/document/u/1/d/e/2PACX-1vQbiyK2Fe0jLdh4vb9BfHY4bJ1LCo4Qvy0jg9P29ZkiC8y_vKJ_1fNgIbV0p6UdvbcT8Ql1gVto8bf9/pub) and click on **Request manual verification**.
 3. Proceed with the creation of your Collective!
+
+### The permissions you ask for are overly generous and my organization doesn't want to grant them.
+
+We agree the permissions are overly generous. Unfortunately, there's not much we can do at the moment since this is the only scope we can use to read the info we need. We've discussed this at length on issues [\#355](https://github.com/opencollective/opencollective/issues/355), [\#1034](https://github.com/opencollective/opencollective/issues/1034) and [\#2333](https://github.com/opencollective/opencollective/issues/2333).
+
+If you have any suggestions on how to handle this better, feel free to join the discussions, start a new one, or send us an email [support@opencollective.com](Mailto:support@opencollective.com)
 
