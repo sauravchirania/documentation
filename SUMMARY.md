@@ -107,7 +107,6 @@
 * [Host Fees](fiscal-hosts/fiscal-host-fees.md)
 * [Local Tax Support](fiscal-hosts/local-tax.md)
 * [Agreement Templates](fiscal-hosts/sponsor-agreement.md)
-* [Open Source Collective](fiscal-hosts/open-source-collective.md)
 
 ## Contributing
 
