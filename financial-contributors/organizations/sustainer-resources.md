@@ -24,10 +24,10 @@ _Please keep adding them &lt;3_
 
 Thanks [@opencollect](https://twitter.com/opencollect?ref_src=twsrc%5Etfw) for providing this great service! [@fbOpenSource](https://twitter.com/fbOpenSource?ref_src=twsrc%5Etfw) Thanks for all your contributions to OSS 🙌 [https://t.co/NxnvC8Xi4f](https://t.co/NxnvC8Xi4f)— JS.coach \(@\_jscoach\) [November 14, 2017](https://twitter.com/_jscoach/status/930429575867355136?ref_src=twsrc%5Etfw)
 
-💸Small yet significant step in the [\#mobx](https://twitter.com/hashtag/mobx?src=hash&ref_src=twsrc%5Etfw) community. Today I could paid contributor for a significant contribution to MST from our [@opencollect](https://twitter.com/opencollect?ref_src=twsrc%5Etfw)!  
-  
-👏 Tnx to [@coinbase](https://twitter.com/coinbase?ref_src=twsrc%5Etfw) [@algolia](https://twitter.com/algolia?ref_src=twsrc%5Etfw) [@fbOpenSource](https://twitter.com/fbOpenSource?ref_src=twsrc%5Etfw) & all other sponsors!  
-  
+💸Small yet significant step in the [\#mobx](https://twitter.com/hashtag/mobx?src=hash&ref_src=twsrc%5Etfw) community. Today I could paid contributor for a significant contribution to MST from our [@opencollect](https://twitter.com/opencollect?ref_src=twsrc%5Etfw)!
+
+👏 Tnx to [@coinbase](https://twitter.com/coinbase?ref_src=twsrc%5Etfw) [@algolia](https://twitter.com/algolia?ref_src=twsrc%5Etfw) [@fbOpenSource](https://twitter.com/fbOpenSource?ref_src=twsrc%5Etfw) & all other sponsors!
+
 🎉It works even when you're not [@webpack](https://twitter.com/webpack?ref_src=twsrc%5Etfw) [https://t.co/NJTnMcA8NI](https://t.co/NJTnMcA8NI)— Michel Weststrate \(@mweststrate\) [July 16, 2018](https://twitter.com/mweststrate/status/1018928640388730880?ref_src=twsrc%5Etfw)
 
 The tooling for open source projects is so good these days!
@@ -40,26 +40,26 @@ The tooling for open source projects is so good these days!
 
 [@zeithq](https://twitter.com/zeithq?ref_src=twsrc%5Etfw) - deployment & domains
 
-[@travisci](https://twitter.com/travisci?ref_src=twsrc%5Etfw) & [@appveyor](https://twitter.com/appveyor?ref_src=twsrc%5Etfw) - CI  
-  
+[@travisci](https://twitter.com/travisci?ref_src=twsrc%5Etfw) & [@appveyor](https://twitter.com/appveyor?ref_src=twsrc%5Etfw) - CI
+
 Seriously amazing! 🙏— Devon Govett \(@devongovett\) [July 9, 2018](https://twitter.com/devongovett/status/1016415051190714368?ref_src=twsrc%5Etfw)
 
-Flights and hotel booked! That means I'm ready for [@vue\_london](https://twitter.com/vue_london?ref_src=twsrc%5Etfw) ✅  
-  
-Really looking forward to meet all these nice people and especially I'm very happy to meet [@Atinux](https://twitter.com/Atinux?ref_src=twsrc%5Etfw) and @\_achopin for the first time.  
-  
+Flights and hotel booked! That means I'm ready for [@vue\_london](https://twitter.com/vue_london?ref_src=twsrc%5Etfw) ✅
+
+Really looking forward to meet all these nice people and especially I'm very happy to meet [@Atinux](https://twitter.com/Atinux?ref_src=twsrc%5Etfw) and @\_achopin for the first time.
+
 Thanks a million to [@nuxt\_js](https://twitter.com/nuxt_js?ref_src=twsrc%5Etfw), who sponsored the ticket through [@opencollect](https://twitter.com/opencollect?ref_src=twsrc%5Etfw) 🙏— Alexander Lichter \(@TheAlexLichter\) [September 10, 2018](https://twitter.com/TheAlexLichter/status/1039213736962220032?ref_src=twsrc%5Etfw)
 
 This is why we use [@opencollect](https://twitter.com/opencollect?ref_src=twsrc%5Etfw) :-\). FT Maintainers \(non-single-co backed\) + Contributor Pool. [https://t.co/NxGfe8V8cW](https://t.co/NxGfe8V8cW)— SEAN LARKIN 廖肖恩 \(@TheLarkInn\) [September 20, 2018](https://twitter.com/TheLarkInn/status/1042906557149675520?ref_src=twsrc%5Etfw)
 
 Depends on your budget. We're around $10k/y, and we pay out ~5-10% of avail. budget for each large contribution, and small token payments for fixed issues. Federated/open ownership of the books is why we are happy with [@opencollect](https://twitter.com/opencollect?ref_src=twsrc%5Etfw).— Goose \(@RickCasey\) [December 20, 2017](https://twitter.com/RickCasey/status/943381328329920512?ref_src=twsrc%5Etfw)
 
-OP: [https://t.co/2qdL9slcrr](https://t.co/2qdL9slcrr)  
-  
+OP: [https://t.co/2qdL9slcrr](https://t.co/2qdL9slcrr)
+
 Sponsoring a project is deeper then money, but partnerships working together for common good. [\#FOSS](https://twitter.com/hashtag/FOSS?src=hash&ref_src=twsrc%5Etfw) [\#JavaScript](https://twitter.com/hashtag/JavaScript?src=hash&ref_src=twsrc%5Etfw)— SEAN LARKIN 廖肖恩 \(@TheLarkInn\) [October 13, 2017](https://twitter.com/TheLarkInn/status/918924376157777920?ref_src=twsrc%5Etfw)
 
-We strongly believe that someday we could fully focus on [\#opensource](https://twitter.com/hashtag/opensource?src=hash&ref_src=twsrc%5Etfw) to make [@nodejs](https://twitter.com/nodejs?ref_src=twsrc%5Etfw) world better 🚀🔥 [@opencollect](https://twitter.com/opencollect?ref_src=twsrc%5Etfw)  
-  
+We strongly believe that someday we could fully focus on [\#opensource](https://twitter.com/hashtag/opensource?src=hash&ref_src=twsrc%5Etfw) to make [@nodejs](https://twitter.com/nodejs?ref_src=twsrc%5Etfw) world better 🚀🔥 [@opencollect](https://twitter.com/opencollect?ref_src=twsrc%5Etfw)
+
 👍 enjoy using [@nestframework](https://twitter.com/nestframework?ref_src=twsrc%5Etfw)?  
 🙌 ask your company to support us:  
 🎁 [https://t.co/taYS49lllr](https://t.co/taYS49lllr) [pic.twitter.com/L1O9Vf5uhS](https://t.co/L1O9Vf5uhS)— NestJS \(@nestframework\) [April 25, 2018](https://twitter.com/nestframework/status/989207884700553221?ref_src=twsrc%5Etfw)
@@ -98,7 +98,7 @@ Read Trivago's quotes [here](https://medium.com/webpack/trivago-sponsors-webpack
 
 [Webpack](https://medium.com/webpack/trivago-sponsors-webpack-for-second-year-bfe6ca2f0702)
 
-[Open EMR](https://www.openemr.blog/post/accepting-donations-on-opencollective/)
+[Open EMR](https://www.open-emr.org/blog/accepting-donations-on-opencollective/)
 
 [FeathersJS](https://blog.feathersjs.com/flying-into-2018-13bda623f089)
 

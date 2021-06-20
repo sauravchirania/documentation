@@ -32,7 +32,7 @@ Green button for manual payments. After paying via another method \(bank transfe
 
 Host admins have permission to edit expenses at any time. For example, someone wasn't able to attach their receipt and emailed it instead, and you are adding it for them.
 
-**Note:** If you edit an expense, it much be re-approved.
+**Note:** If you edit an expense, it must be re-approved.
 
 #### Open Expense
 
@@ -88,6 +88,4 @@ This section needs additional documentation. You can contribute by editing this 
 Shows all incoming contributions.
 
 ![](../.gitbook/assets/image%20%287%29.png)
-
-### 
 

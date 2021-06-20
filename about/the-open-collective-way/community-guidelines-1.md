@@ -1,10 +1,10 @@
 # Community Guidelines
 
-**We are a community based on trust, transparency, and contribution. In order to keep it that way, we expect everyone to act in accordance with these guidelines, including all Collectives, Backers, Sponsors, and our own Open Collective team.**.
+**We are a community based on trust, transparency, and contribution. In order to keep it that way, we expect everyone to act in accordance with these guidelines, including all Collectives, Backers, Sponsors, and our own Open Collective team.**
 
 ## **Be Authentic**
 
-Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community. _\*\*_We're all in this together, please act respectfully, honestly, and mission-aligned when using our site.
+Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community. We're all in this together, please act respectfully, honestly, and mission-aligned when using our site.
 
 ## **Be honest**
 
@@ -36,7 +36,7 @@ To sponsors, collective members are often volunteers taking time away from their
 
 If something is wrong, let us know. We believe in self-managing systems, so we do not police or moderate excessively. The only way this works is by sharing the effort of noticing what is going on.
 
-While we give you tools to moderate interactions with your collective, we still rely on you to let us know when something isn’t right. Please contact us any time: [support@opencollective.com](mailto:support@opencollective.com).
+While we give you tools to moderate interactions with your collective, we still rely on you to let us know when something isn’t right. Please contact us any time: [https://opencollective.com/support](https://opencollective.com/support).
 
 ## **Share the love**
 

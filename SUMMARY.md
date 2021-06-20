@@ -67,6 +67,7 @@
 * [Guest contributions](financial-contributors/guest-contributions.md)
 * [Payments](financial-contributors/payments.md)
 * [Website Badge](financial-contributors/website-badge.md)
+* [Receipts](financial-contributors/receipts.md)
 * [Collective to Collective](financial-contributors/collective-to-collective.md)
 * [Organizations](financial-contributors/organizations/README.md)
   * [FAQ](financial-contributors/organizations/organization-faq.md)
@@ -106,7 +107,6 @@
 * [Host Fees](fiscal-hosts/fiscal-host-fees.md)
 * [Local Tax Support](fiscal-hosts/local-tax.md)
 * [Agreement Templates](fiscal-hosts/sponsor-agreement.md)
-* [Open Source Collective](fiscal-hosts/open-source-collective.md)
 
 ## Contributing
 

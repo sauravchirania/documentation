@@ -8,6 +8,8 @@ Projects are a lightweight way for collectives to manage budgets for initiatives
 
 Projects have many of the same features as Collectives. Projects have their own balances, contributions and expenses. Projects can describe contribution tiers, set goals and provide updates. 
 
+Budgets are independent. Projects can only spend what is allocated to them. And what is available within the project is not available from the parent Collective.
+
 ### Creating a Project
 
 Administrators can create a project from the collective profile page. Once you have registered an account and created a collective you can create a project by clicking 'create project' in the Projects area on your collective's profile page. You'll be asked to provide a project name, a URL and a description of your project:

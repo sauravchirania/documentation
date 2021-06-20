@@ -8,7 +8,7 @@ We are a US based C corp registered in Delaware. We also have created other sepa
 
 ### Where are you based?
 
-Our team is distributed between Aix-en-Provence, Auckland, Brussels, Berlin, Guadalajara, New York, Madrid, Paris, Shropshire, Navi Mumbai, Vancouver and Wellington. 
+Our team is distributed between Aix-en-Provence, Auckland, Brussels, Berlin, Guadalajara, New York, Madrid, Paris, Shropshire, Navi Mumbai, Vancouver and Wellington.
 
 ### When did you start?
 
@@ -24,5 +24,5 @@ We try to be very transparent about our own finances. We raised a total of $2,81
 
 ### How do I get in touch with you?
 
-Email support@opencollective.com or join our [Slack](https://slack.opencollective.com/).
+Contact us at [https://opencollective.com/support](https://opencollective.com/support) or join our [Slack](https://slack.opencollective.com/).
 

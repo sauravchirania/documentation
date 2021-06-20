@@ -18,7 +18,6 @@ Log in to your Collective and scroll down to the Events section. Click on the **
 
 ![](../.gitbook/assets/collectives_events_creating-a-event.png)
 
-* **Template:** if it's your first event, select no template. If you want to copy a previous event, select it.
 * **URL:** the online address your event will have - very important so you don't get a [404 error](events.md#i-cant-see-my-event-listed-or-get-a-404-error).
 * **Name** of the event
 * **Description:** purpose, schedule, etc
@@ -62,7 +61,7 @@ To delete, scroll down to the bottom and click "delete event".
 
 ## I can't see my event listed or get a 404 error
 
-You probably forgot to set the URL field when creating the event. Just write to us at [support@opencollective.com](mailto:support@opencollective.com) and we will fix it. Sorry for the inconvenience this may cause you—we are working on improving this.
+You probably forgot to set the URL field when creating the event. Just write to us at [https://opencollective.com/support](https://opencollective.com/support) and we will fix it. Sorry for the inconvenience this may cause you—we are working on improving this.
 
 ## Email Attendees
 

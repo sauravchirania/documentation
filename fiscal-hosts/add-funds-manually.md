@@ -19,7 +19,7 @@ And fill the form with all required information to add the funds to that Collect
 ![The form to manually add funds to a Collective.](../.gitbook/assets/fiscal-hosts-add-funds-manually-addition-form-2020-09-18.png)
 
 * The **amount** of funds you want to send to a Collective.
-* Your **host fee**, which is the fee you charge your Collectives. It's already set to your default, but you change it to a one-time fee of your preference.
+* Your **host fee**, which is the fee you charge your Collectives. It's already set to your default, but you can change it to a one-time fee of your preference.
 * A short **description** of those funds.
 * The **source** of those funds. It can be your Fiscal Host, another Collective, or an Organization.
 

@@ -1,8 +1,26 @@
 ---
-description: For the applying to the Open Source Collective
+description: To apply to the Open Source Collective
 ---
 
 # Open Source Collectives
+
+We have created a non-profit, the Open Source Collective 501c6 in the United States to act as a fiscal sponsor to host all open source projects. This makes it easy for companies to donate to your project since they can receive one consolidated invoice.
+
+### What services does the Open Source Collective provide?
+
+This host organization provides invoices and request for funds for your sponsors, onboards as a vendor in their system, receives bulk payments, manages relevant tax forms and checkout processes from other revenue streams \(like Threadless, carbon ads and affiliate programs\).
+
+### What is the cost?
+
+The Open Source Collective 501c6 takes a fee of 10%. This is to cover the administrative overhead, accounting, legal. That way you never have to worry about all that boring stuff and you can focus on your project.
+
+### What are the Terms of Fiscal Sponsorship?
+
+You can find them [here](https://docs.google.com/document/u/1/d/1HRYVADHN1-4B6wGCxIA6dx28jHtcAVIvt95hkjEZVQE/pub)
+
+### How do I apply?
+
+If you think this works for you, go ahead and create your collective selecting **For open source projects** in [opencollective.com/create](https://opencollective.com/create) to apply to this host. If you'd rather become your own host, select **For any community**, and you'll be able to set up your own host in the process. Note that in that case, you will be responsible for doing the accounting as well as facilitating payments from sponsors.
 
 ## What is Github Stars Verification?
 
@@ -15,12 +33,6 @@ If your project is not centered on a Github repository, or you can't get the aut
 [**See alternative verification criteria here.**](https://www.oscollective.org/#criteria)\*\*\*\*
 
 ## Github Verification Troubleshooting
-
-### The permissions you ask for are overly generous and my organization doesn't want to grant them.
-
-We agree the permissions are overly generous. Unfortunately, there's not much we can do at the moment since this is the only scope we can use to read the info we need. We've discussed this at length on issues [\#355](https://github.com/opencollective/opencollective/issues/355), [\#1034](https://github.com/opencollective/opencollective/issues/1034) and [\#2333](https://github.com/opencollective/opencollective/issues/2333).
-
-If you have any suggestions on how to handle this better, feel free to join the discussions, start a new one, or send us an email [support@opencollective.com](mailto:support@opencollective.com).
 
 ### I can't find my repository or my organization's repository.
 
@@ -66,7 +78,23 @@ Use the search bar to filter repositories by name:
 
 ## Manual verification
 
-1. On the Collective creation page, choose **For open source projects**.
-2. Check **I agree with the** [**terms of fiscal sponsorship**](https://docs.google.com/document/u/1/d/e/2PACX-1vQbiyK2Fe0jLdh4vb9BfHY4bJ1LCo4Qvy0jg9P29ZkiC8y_vKJ_1fNgIbV0p6UdvbcT8Ql1gVto8bf9/pub) and click on **Request manual verification**.
-3. Proceed with the creation of your Collective!
+If your project us not centred on a Github repository, or you can't get the automated verification system to work, you can request manual verification.
+
+1. Ensure your project meets the [acceptance criteria]().
+2. Go to [https://opencollective.com/opensource/apply](https://opencollective.com/opensource/apply)
+3. Check **I agree with the** [**terms of fiscal sponsorship**](https://docs.google.com/document/u/1/d/e/2PACX-1vQbiyK2Fe0jLdh4vb9BfHY4bJ1LCo4Qvy0jg9P29ZkiC8y_vKJ_1fNgIbV0p6UdvbcT8Ql1gVto8bf9/pub) 
+4. Click on **Request manual verification**.
+5. Proceed to create your Collective and await manual review
+
+![Manual Verification Process](../.gitbook/assets/collectives_opensourcecollectives_manual_2021-06-18.png)
+
+When we review your Collective, we will look at the information you've provided, including links to your website and social media, and the info in your Collective's 'About' section. Please ensure these are up to date and correct on your Collective page.
+
+If we need more information about your project, we will get in touch with you via email to request it.
+
+### The permissions you ask for are overly generous and my organization doesn't want to grant them.
+
+We agree the permissions are overly generous. Unfortunately, there's not much we can do at the moment since this is the only scope we can use to read the info we need. We've discussed this at length on issues [\#355](https://github.com/opencollective/opencollective/issues/355), [\#1034](https://github.com/opencollective/opencollective/issues/1034) and [\#2333](https://github.com/opencollective/opencollective/issues/2333).
+
+If you have any suggestions on how to handle this better, feel free to join the discussions, start a new one, or send us an email [support@opencollective.com](Mailto:support@opencollective.com)
 

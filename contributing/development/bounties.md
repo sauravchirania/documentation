@@ -14,9 +14,9 @@ Our bounty program is about creating opportunities for our community to contribu
 
 #### No compromise on quality
 
-We're not able to accept pull requests that aren't completed to a high standard in a reasonable timeframe. Please only pick up bounties that you are confident you can complete at your current knowledge and skill level. We will not accept pull requests or pay bounties for code that's not up to the standard we need to maintain for the Collectives who rely on this platform. 
+We're not able to accept pull requests that aren't completed to a high standard in a reasonable timeframe. Please only pick up bounties that you are confident you can complete at your current knowledge and skill level. We will not accept pull requests or pay bounties for code that's not up to the standard we need to maintain for the Collectives who rely on this platform.
 
-Our dev team is happy to answer questions and provide some limited support, but we don't have capacity to mentor junior developers through the bounty program. 
+Our dev team is happy to answer questions and provide some limited support, but we don't have capacity to mentor junior developers through the bounty program.
 
 For general guidelines about what's expected in the code, [see more info here](https://docs.opencollective.com/help/about/contributing).
 
@@ -47,7 +47,7 @@ We want to attract quality contributions. The issue will only be considered comp
 _See_ [_more info about getting paid_](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) _through Open Collective_
 
 {% hint style="warning" %}
-Issues tagged as "**bounty candidate**" are issues that we are considering to add bounties for, but that are not bounties yet - either because they lack proper specifications, a team consensus, or because we don't have the bandwidth to review it at the moment. Feel free to comment on such issues to ask for a bounty to be added if it's something you're willing to work on. 
+Issues tagged as "**bounty candidate**" are issues that we are considering to add bounties for, but that are not bounties yet - either because they lack proper specifications, a team consensus, or because we don't have the bandwidth to review it at the moment. Feel free to comment on such issues to ask for a bounty to be added if it's something you're willing to work on.
 
 **Financial compensation can only happen if the issue has a "bounty" tag with a pre-defined amount.** In other words, completing a bounty candidate that didn't receive the "bounty" tag will not make you eligible for the bounty program.
 {% endhint %}
@@ -58,11 +58,11 @@ Issues tagged as "**bounty candidate**" are issues that we are considering to ad
 2. Tag issues with the "bounty" label and amount \(e.g. "$100"\)
 3. Add a comment with a basic explanation of the Bounty process and link to BOUNTY.md
 
-   > A $100 bounty was attached to this issue. Anyone submitting a Pull Request will be rewarded with $100 when the Pull Request is reviewed, accepted and merged. [More info](BOUNTY.md).
+   > A $100 bounty was attached to this issue. Anyone submitting a Pull Request will be rewarded with $100 when the Pull Request is reviewed, accepted and merged. [More info](https://docs.opencollective.com/help/contributing/development/bounties).
 
 4. Make sure the issue is understandable for newcomers and expectations are clearly set
 
-#### Contributor Ladder 
+#### Contributor Ladder
 
 1. **First Time Contributors**
    * Not part of the Open Collective GitHub organization

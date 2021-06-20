@@ -10,7 +10,7 @@ On the **Submit expense** page, you can submit two types of expenses, **reimburs
 
 ### Payee information
 
-In the first step, you can specify who will be paid for this expense \(an individual or an organization\) and which payment method you wish to use. 
+In the first step, you can specify who will be paid for this expense \(an individual or an organization\) and which payment method you wish to use.
 
 If you are invoicing through a company, create an organization profile for your company and select it here instead of using your personal profile, so the correct entity is recorded as being paid for tax purposes.
 
@@ -73,13 +73,13 @@ To open the submission form, click on **Invoice** and add a title to your expens
 
 ![](../.gitbook/assets/expenses-and-getting-paid_submitting-expenses_invoice-form_2020-05-12.gif)
 
-If you have an invoice ready, you can upload it as an attachment to the expense. However, you are still required to set invoice details such as description, date and amount. 
+If you have an invoice ready, you can upload it as an attachment to the expense. However, you are still required to set invoice details such as description, date and amount.
 
 If you don't upload an invoice, the expense itself functions as an invoice for accounting purposes, as it contains all required information.
 
 ### Expense summary
 
-The Expense summary provides you with an overview of the expense to be submitted, including attached files, items being paid for, payout preferences, etc. The summary allows you to review all info and quickly edit it if needed by clicking on **Edit expense**. 
+The Expense summary provides you with an overview of the expense to be submitted, including attached files, items being paid for, payout preferences, etc. The summary allows you to review all info and quickly edit it if needed by clicking on **Edit expense**.
 
 For invoices, the expense summary serves as the official invoice document. You can download it for your accounting records if you wish.
 
@@ -109,19 +109,17 @@ It is also possible to invite a user that does not have an account on the platfo
 
 ![](../.gitbook/assets/expensesandgettingpaid_submittingexpenses_invitingnewuser_2021_4_8.gif)
 
-
-
 You are now able to _add additional information about the expense._ Pre-fill whatever info you already have, then invite the payee to fill in the rest and confirm. This can make the whole process a lot easier!
 
 ![](../.gitbook/assets/expensesandgettingpaid_submittingexpenses_addingadditionalinformation_2021_4_20.gif)
 
-If you're inviting an organization to submit the expense, don't worry, they'll be offered the option to create the company profile when they submit the expense. 
+If you're inviting an organization to submit the expense, don't worry, they'll be offered the option to create the company profile when they submit the expense.
 
 When the user finishes editing the expense, the summary of the expense is displayed and they will be able to create their account and submit the expense in a single action:
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
-After submitting the joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the users validate their email. After the user validates their email, the expense is marked as pending and is displayed for the collective's admins to approve, continuing its normal flow.
+After joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the users validate their email. After the user validates their email, the expense is marked as pending and is displayed for the collective's admins to approve, continuing its normal flow.
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 

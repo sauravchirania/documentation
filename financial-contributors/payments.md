@@ -56,9 +56,9 @@ You'll then get an email to register on Open Collective. Click on the given link
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
-#### 2. By signin in
+#### 2. By signing in
 
-Signin in directly by clicking on the "Sign in" button in the top navbar will have the same effect of verifying your account directly.
+Sign in directly by clicking on the "Sign in" button in the top navbar will have the same effect of verifying your account directly.
 
 ## Payment changes
 

@@ -28,7 +28,7 @@ You'll need to have some basic programming experience with the technologies and 
     * [Introduction to Node.js - w/ quizzes](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
     * [When, how and why to use Node.js](https://www.netguru.com/blog/use-node-js-backend)
     * [Differences between Javascript and Node.js](https://www.educba.com/javascript-vs-node-js/) 
-* **GraphQL** - Our API uses GraphQL, powered by [Sequelize](http://docs.sequelizejs.com/manual/getting-started.html) and [PostgreSQL](https://www.postgresql.org/). Understanding how these work is important to contributing to or fixing the majority of the issues on our API. To learn more, check out these tutorials & articles:
+* **GraphQL** - Our API uses GraphQL, powered by [Sequelize](http://docs.sequelizejs.com/manual/getting-started.html) and [PostgreSQL](https://www.postgresql.org/). Understanding how this work is important to contributing to or fixing the majority of the issues on our API. To learn more, check out these tutorials & articles:
   * [What is GraphQL and how to use it](https://www.howtographql.com/)
   * [Basic concept of GraphQL](https://medium.com/@kalin.chernev/the-guide-to-learn-graphql-i-wish-i-found-few-months-go-97f9d9ca6f12)
   * [Getting GraphQL running](https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-86f849ce1bec/)
@@ -68,9 +68,9 @@ _NOTE: If you're only contributing frontend code, you don't need to setup the AP
 
 ### API
 
-The API setup requires more effort than the frontend, as it requires installing the [PostgreSQL](https://www.postgresql.org/download/) and [PostGIS](https://postgis.net/install/) extensions. You might experience difficulty setting up the API on a Windows environment. We recommend using a Unix environment. \(We're currently working to make it easier on Windows\).
+The API setup requires more effort than the frontend, as it requires installing the [PostgreSQL](https://www.postgresql.org/download/) and [PostGIS](https://postgis.net/install/) extensions. You might experience difficulty setting up the API on a Windows environment. We recommend using a Unix environment. 
 
-Just like the frontend, we have a separate document for the setup.
+Just like the front end, we have a separate document for the setup.
 
 #### Setup guide
 

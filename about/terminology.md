@@ -29,7 +29,7 @@ Individual\(s\) who create and/or manage the Organization profile. They have rig
 
 **Funds**
 
-A [Fund](%20https://docs.opencollective.com/help/financial-contributors/organizations/funds), with a capital F, \(as opposed to a [Collective](terminology.md#user)\) is a streamlined, single payer process for supporters. A **Fund** is likely less interested in the 'social' & crowdfunding aspects of fundraising. This type of account will have a more simplified version of our dashboard for those who don't want all the extra features that group-organizing benefits from. 
+A [Fund](https://github.com/opencollective/documentation/tree/1b6b2a20534e35ca28433008c25dfde7a0e386fa/help/financial-contributors/organizations/funds/README.md), with a capital F, \(as opposed to a [Collective](terminology.md#user)\) is a streamlined, single payer process for supporters. A **Fund** is likely less interested in the 'social' & crowdfunding aspects of fundraising. This type of account will have a more simplified version of our dashboard for those who don't want all the extra features that group-organizing benefits from.
 
 ### Fiscal Hosts ![](../.gitbook/assets/fiscal-host%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
@@ -94,7 +94,7 @@ They arrive at a Collective many ways:
 * Direct link to a Collective
 * [Github badges on README](../financial-contributors/website-badge.md)
 * Organization's page
-* [BackYourStack](https://www.backyourstack.com)
+* [BackYourStack](https://backyourstack.com)
 * Our [blog](https://blog.opencollective.com) or newsletter
 
 #### Expense submitter
