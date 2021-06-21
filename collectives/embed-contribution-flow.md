@@ -15,7 +15,39 @@ The embed contribution flow is a way to integrate Open Collective on your own we
 ## General considerations
 
 * The widget will look better if it has some space, ideally the full page height & width
-* By default, the theme of your profile \(defined by your primary color\) will be used. If you rather want to use the default Open Collective theme, you can add `?useTheme=false` to the URL.
+* The following URL parameters can be used to configure your integration:
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Parameter</th>
+      <th style="text-align:left">Value type</th>
+      <th style="text-align:left">Default value</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><code>useTheme</code>
+      </td>
+      <td style="text-align:left">Boolean</td>
+      <td style="text-align:left">true</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>By default, the theme of your profile (defined by your primary color)
+          will be used. If you rather want to use the default Open Collective theme,
+          set this to <code>false</code>.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>hideHeader</code>
+      </td>
+      <td style="text-align:left">Boolean</td>
+      <td style="text-align:left">false</td>
+      <td style="text-align:left">Set this to <code>true</code> to hide the header at the top</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Embed the default tier \(Donate\)
 
