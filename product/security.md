@@ -10,7 +10,7 @@ description: >-
 Security is one of the biggest considerations in everything we do. If you have any questions after reading this, or encounter any issues, please [let us know](mailto:security@opencollective.com).
 {% endhint %}
 
-## Vulnerability disclosure and reward program
+## Vulnerability disclosure and reward program 
 
 We believe that no technology is perfect and that working with skilled security researchers is crucial in identifying weaknesses. Our bounty program is a way to reward the security researchers that help us with this task. We also publish [postmortems](https://github.com/opencollective/opencollective/tree/main/postmortem) to document issues once they are fixed.
 
@@ -24,7 +24,7 @@ To learn more, see our [security bounty policy](https://github.com/opencollectiv
 
 ### Credit cards
 
-Open Collective doesn't store any credit card number, we're instead relying on our partner [Stripe](https://stripe.com) - a secure solution that is widely adopted by the industry. If our systems are compromised, we can't loose your credit card number because we simply don't have it.
+Open Collective doesn't store any credit card number, we're instead relying on our partner [Stripe](https://stripe.com) - a secure solution that is widely adopted by the industry. If our systems are compromised, we can't lose your credit card number because we simply don't have it.
 
 [Learn more](https://stripe.com/docs/security/stripe) about Stripe's security.
 
@@ -34,5 +34,5 @@ According to [Auth0](https://auth0.com/blog/is-passwordless-authentication-more-
 
 > Passwordless authentication, by its nature, eliminates the problem of using an unsafe password. This means that one of the biggest user errors is taken out of your login. Not only is passwordless authentication safe to use, it might even be safer than a traditional username + password login.
 
-[Lear more](https://docs.opencollective.com/help/product/log-in-system#about-security) about our login system.
+[Learn more](https://docs.opencollective.com/help/product/log-in-system#about-security) about our login system.
 

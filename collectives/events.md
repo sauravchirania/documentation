@@ -29,7 +29,7 @@ Log in to your Collective and scroll down to the Events section. Click on the **
 
 You can create several kinds of tickets.
 
-* Type \(backers, sponsor, or ticket\)
+* Type \(supporters, sponsor, or ticket\)
 * Name \(eg, gold sponsor, free ticket, donation, etc\)
 * Description \(what the ticket includes or who it's for\)
 * Amount \(price\) can be free or you can charge

@@ -24,7 +24,7 @@ Result:
 
 Here is an [example](https://medium.com/open-collective/open-collective-donate-button-e7e6d5965b2c).
 
-## Show Backers & Sponsors
+## Show Supporters & Sponsors
 
 Use this script:
 
@@ -69,5 +69,5 @@ Example:
 ## Related:
 
 * Website [badge](../financial-contributors/website-badge.md) showing the Collectives you back
-* [Export SVGs](data-export.md) showing your backers, sponsors, or contributors
+* [Export SVGs](data-export.md) showing your supporters, sponsors, or contributors
 

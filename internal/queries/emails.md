@@ -2,7 +2,7 @@
 
 Queries to get an export of email addresses from the database for various communications.
 
-## Get Backers \(name, email, totalDonations, lastDonation\) of a collective
+## Get Supporters \(name, email, totalDonations, lastDonation\) of a collective
 
 ```sql
 WITH constants AS (

@@ -66,7 +66,7 @@ Open Collective is a platform where communities can collect and disburse money t
 
 ### Why Open Collective? <a id="why-opencollective"></a>
 
-The Internet has been really good at helping people do great things together. But things still get complicated once money is involved. These challenges hold communities back from getting all the support they need from backers and sponsors to achieve their mission.
+The Internet has been really good at helping people do great things together. But things still get complicated once money is involved. These challenges hold communities back from getting all the support they need from supporters and sponsors to achieve their mission.
 
 We enable communities to have economic power, so they can sustain themselves and have a larger impact on the world.
 

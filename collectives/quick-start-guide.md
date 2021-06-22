@@ -2,7 +2,7 @@
 
 ## You've got a Collective—awesome! Now what?
 
-Once you have a Collective, you can start submitting expenses, edit your page content, and create events for your community right away.
+Once you have a Collective, you can start submitting expenses, edit your page content, and create events for your community right away. 
 
 In order to receive money or pay out expenses, you need a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md). Whether you have a Fiscal Host yet or not, here are some steps you can take to get your Collective started.
 
@@ -20,7 +20,7 @@ Check the many ways you can export your data on [Data Export](data-export.md) an
 
 ### 4. Start tracking expenses
 
-[Submit expenses](../expenses-and-getting-paid/submitting-expenses.md) through your Collective, so others can see where money will be spent \(even if you don't have any yet\). This builds trust with potential Backers.
+[Submit expenses](../expenses-and-getting-paid/submitting-expenses.md) through your Collective, so others can see where money will be spent \(even if you don't have any yet\). This builds trust with potential supporters.
 
 ### 5. Spread the word
 

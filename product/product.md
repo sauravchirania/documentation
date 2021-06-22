@@ -18,7 +18,7 @@ Automatic financial reporting and accountability.
 
 ## [Tiers](../collectives/tiers-goals.md)
 
-Levels or rewards for backers and sponsors.
+Levels or rewards for supporters and sponsors.
 
 ## [Events](../collectives/events.md)
 

@@ -24,7 +24,7 @@ For Mattermost or Gitter, first set up a webhook as described above, and then [s
 
 ## Twitter Integration
 
-Connect your Twitter to automatically thank new backers who contribute to your Collective! To do so, go to your Collective page, click on the gear icon, and head to the **Connected Accounts** page.
+Connect your Twitter to automatically thank new supporters who contribute to your Collective! To do so, go to your Collective page, click on the gear icon, and head to the **Connected Accounts** page.
 
 ![](../.gitbook/assets/collectives_integrations_connected-accounts.png)
 

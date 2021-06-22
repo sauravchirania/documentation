@@ -11,9 +11,9 @@
 
 ### What is Open Collective good for?
 
-Open Collective is great for all kinds of collaborative groups, like meetups, open source projects, neighborhood associations, clubs, unions, movements, conferences, non-profits, grant recipients, and incubators.
+Open Collective is great for all kinds of collaborative groups, like meetups, open-source projects, neighbourhood associations, clubs, unions, movements, conferences, non-profits, grant recipients, and incubators.
 
-You shouldn't have to incorporate a legal entity, start a new bank accounts, and do bookkeeping just to collect and spend money for a project—and with Open Collective you don't have to.
+You shouldn't have to incorporate a legal entity, start a new bank account, and do bookkeeping just to collect and spend money for a project—and with Open Collective you don't have to. 
 
 ### Why should I use Open Collective?
 

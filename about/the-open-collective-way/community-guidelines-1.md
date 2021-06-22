@@ -1,6 +1,6 @@
 # Community Guidelines
 
-**We are a community based on trust, transparency, and contribution. In order to keep it that way, we expect everyone to act in accordance with these guidelines, including all Collectives, Backers, Sponsors, and our own Open Collective team.**
+**We are a community based on trust, transparency, and contribution. In order to keep it that way, we expect everyone to act in accordance with these guidelines, including all Collectives, Supporters, Sponsors, and our own Open Collective team.**
 
 ## **Be Authentic**
 
