@@ -6,7 +6,11 @@ description: Specific Fiscal Host Documentation
 
 The Open Collective Documentation is our main documentation enabling all of our users to successfully use our platform. 
 
-If you are looking for more specific Fiscal Host Documentation. Please head along to the links below.
+We encourage our fiscal hosts to link out to our main documentation for the basic how-to-use of Open Collective. We will also aim to link out to our fiscal host's documentation in specific areas to provide further information when needed. 
+
+If you are looking for more specific Fiscal Host Documentation, please head along to the links below. 
+
+
 
 ![ ](../.gitbook/assets/opencollectivefoundation.png)
 
