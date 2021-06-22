@@ -16,19 +16,19 @@ If your intention of donating is for any other purpose than to support the missi
 
 ## **Be inclusive**
 
-The reason we can do great things together is that each of us brings a different point of view. Whoever you are, you have a unique perspective and skillset to contribute. Be open to those who you want to contribute genuinely.
+The reason we can do great things together is that each of us brings a different point of view. Whoever you are, you have a unique perspective and skill set to contribute. 
 
 ## **Be respectful**
 
-We have zero tolerance for unacceptable behavior. Being a jerk will not get you a place in this community; it will turn people away. We do not want that noise in the system. If your account is found to be engaged in any kind of unacceptable behavior, we can close it.
+We have zero tolerance for unacceptable behaviour. Being a jerk will not get you a place in this community; it will turn people away. We do not want that noise in the system. If your account is found to be engaged in any kind of unacceptable behaviour, we can close it.
 
-Unacceptable behaviors include but are not limited: spamming, trolling, intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business.
+Unacceptable behaviours include but are not limited: spamming, trolling, intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business.
 
-Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images \(including presentation slides\); inappropriate depictions of violence \(including presentation slides\); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images \(including presentation slides\); inappropriate depictions of violence \(including presentation slides\); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
 
 ## **Be mindful**
 
-Your backers want to hear how you are going and stay connected. But please be respectful of their inboxes and their time. The same goes for your interactions with everyone in the community.
+Your supporters want to hear how you are going and stay connected with your mission. But please be respectful of their inboxes and their time. The same goes for your interactions with everyone in the community.
 
 To sponsors, collective members are often volunteers taking time away from their families or free time to grow their communities. Please be mindful of their time and be patient and respectful when reaching out.
 
