@@ -5,6 +5,7 @@
 ## About
 
 * [Introduction](about/introduction.md)
+* [Documentation](about/documentation.md)
 * [Terminology](about/terminology.md)
 * [Company](about/company.md)
 * [Pricing](about/pricing.md)
