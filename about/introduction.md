@@ -66,9 +66,9 @@ Open Collective is a platform where communities can collect and disburse money t
 
 ### Why Open Collective? <a id="why-opencollective"></a>
 
-Internet has been really good at helping people do great things together. But things still get complicated once money is involved. These challenges hold communities back from getting all the support they need from backers and sponsors to achieve their mission.
+The Internet has been really good at helping people do great things together. But things still get complicated once money is involved. These challenges hold communities back from getting all the support they need from backers and sponsors to achieve their mission.
 
-We enable communities to have economic power, so they can sustain themselves and have a larger impact in the world.
+We enable communities to have economic power, so they can sustain themselves and have a larger impact on the world.
 
 ### How does it work? <a id="how-does-it-work"></a>
 
@@ -78,11 +78,11 @@ The goal of Open Collective is to create a [New Form of Association for the Inte
 
 ### Why Open Source? <a id="why-open-source"></a>
 
-For starters, we are believers in the open source philosophy. Our code is open source, and so are the Collectives we host. We think transparency in technology and finances is important.
+For starters, we are believers in the open-source philosophy. Our code is open source, and so are the Collectives we host. We think transparency in technology and finances is important.
 
 Additionally, regulations are different all over the world. Our platform is the API between Collectives and things like governments, banks, payment processors, and taxes, which vary a lot by country, so it has to be adaptable to different requirements.
 
-### **Why not use the Blockchain and Cryptocurrency?**
+### **Why not use Blockchain and Cryptocurrency?**
 
 We're excited about the new possibilities these technologies are creating, and we'd love to explore how they could help us achieve our goals. But just like we won't wait for self-driving cars to become ubiquitous before calling a Lyft, we're very practical about using existing services to solve problems right now. We can already get pretty far using well-established technologies already integrated with global systems. That said, we are actively exploring how to support cryptocurrency on the platform, so if you're interested in that, get in touch.
 
