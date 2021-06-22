@@ -30,9 +30,15 @@ You should have received a receipt by email from Open Collective at the time of 
 
 ![](../.gitbook/assets/financial_contributiors_receipts_searc-h_2021-06-22%20%281%29.png)
 
-7. Use the Download Receipts to download all receipts from a specific time period. 
+7. Use the Download Receipts to download all receipts from a specific time period.
 
+![](../.gitbook/assets/financial_contributors_receipts_download_receipts_2021-06-22%20%283%29.gif)
 
+8. If only one Receipt is needed once you've found the correct Transaction Click 'View Details'
+
+![](../.gitbook/assets/financial_contributors_receipts_show_details_2021-06-22.gif)
+
+9. Click 'Download Receipt in the bottom right-hand corner. 
 
 **Instructions for Downloading a Tax Receipt from the Collectives page**  
 
