@@ -52,7 +52,7 @@ Yes. You can send us funds with a single transaction, and we'll allocate it to y
 
 ## Can we get an invoice in advance?
 
-Yes. Contributions through our platform will automatically generate receipts after payment, but [Fiscal hosts](../../fiscal-hosts/fiscal-hosts.md) \(like the Open Source Collective\) can function like any vendor or supplier and provide the documentation you require. If you need an invoice in advance, or for us to register in your vendor system, let us know at [https://opencollective.com/support](https://opencollective.com/support).
+Yes. Contributions through our platform will automatically generate receipts after payment, but [Fiscal hosts](../../fiscal-hosts/fiscal-hosts.md) \(like the Open Source Collective\) can function like any vendor or supplier and provide the documentation you require. If you need an invoice in advance, or for us to register in your vendor system, let us know at [support@opencollective.com](mailto:support@opencollective.com)
 
 ## Who are we transacting with legally?
 
