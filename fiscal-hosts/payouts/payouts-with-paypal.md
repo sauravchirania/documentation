@@ -23,7 +23,7 @@ For single payments larger than $2,000, make a manual payment.
 
 We're currently testing this feature with the help of selected Host collectives.
 
-If you're interested in testing this feature, please reach out through [https://opencollective.com/support](https://opencollective.com/support). If you're already testing the feature and wish to leave the test, you can also send an email to support.
+If you're interested in testing this feature, please reach out through [support@opencollective.com](mailto:support@opencollective.com). If you're already testing the feature and wish to leave the test, you can also send an email to support.
 {% endhint %}
 
 For hosts that are using PayPal, this integration can be used to automate expense payment by providing a one-click solution for paying expenses using [PayPal Payouts](https://developer.paypal.com/docs/payouts/).
@@ -32,7 +32,7 @@ After connecting your PayPal account, you'll be able to schedule expenses submit
 
 ### How does it work?
 
-The new payment process is asynchronous, meaning that expenses are now scheduled for payout and dealt with by a scheduled worker. This worker runs **once every hour**, this means that on the turn of the clock we'll bundle the scheduled expenses and pay them in a single request to PayPal.
+The new payment process is asynchronous, meaning that expenses are now scheduled for payout and dealt with by a scheduled worker. This worker runs **once every hour**, this means that at the turn of the clock we'll bundle the scheduled expenses and pay them in a single request to PayPal.
 
 After being processed by the worker, the expense is marked as in _**Processing**_ and individually tracked. We'll make sure its status is up-to-date on our platform, bear in mind that in the case the recipient doesn't have a PayPal account, they have up to 30 days to create and accept the payment.
 
@@ -46,7 +46,7 @@ The fees are charged by PayPal and its value will vary with the currencies being
 
 #### Who pays for the fees?
 
-These fees are paid by the collective the expense was submitted for. This means that transactions in PayPal will display the fees but that value will also be deducted from the collective balance in our platform as _payment processor fee_.
+These fees are paid by the collective the expense was submitted for. This means that transactions in PayPal will display the fees but that value will also be deducted from the collective balance in our platform as a _payment processor fee_.
 
 ![An expense submitted to Open Collective Engineering paid using PayPal.](../../.gitbook/assets/image%20%2826%29.png)
 
@@ -65,7 +65,7 @@ These fees are paid by the collective the expense was submitted for. This means 
 ### Connecting to PayPal Payouts
 
 {% hint style="info" %}
-PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through [https://opencollective.com/support](https://opencollective.com/support).
+PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through [support@opencollective.com](mailto:support@opencollective.com).
 {% endhint %}
 
 If you're already in the beta test group, you can follow these instructions:
