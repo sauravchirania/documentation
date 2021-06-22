@@ -26,5 +26,5 @@ When you're account is limited you'll be unable to complete any sensitive action
 * Make financial contributions
 * Create conversations
 
-If your account gets limited by mistake, you can contact [https://opencollective.com/support](https://opencollective.com/support).
+If your account gets limited by mistake, you can contact [support@opencollective.com](mailto:support@opencollective.com)
 
