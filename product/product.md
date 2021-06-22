@@ -10,7 +10,7 @@ Accept donations and sponsorship.
 
 ## [Pay Expenses](../expenses-and-getting-paid/expenses.md)
 
-Reimburse expenses and pay invoices.
+Reimburse expenses and pay invoices. 
 
 ## [Transparent Budget](../collectives/budget.md)
 
