@@ -5,12 +5,34 @@ You should have received a receipt by email from Open Collective at the time of 
 **Instructions for Accessing Receipts via Settings** 
 
 1. Ensure you are [signed in](https://opencollective.com/signin?next=%2F) with the email address you used to process the transaction.
-2. Click on your name in the top right hand corner. 
+2. Click on your name in the top right-hand corner. 
 3. Under **My Account** click on Settings. 
 
 ![](../.gitbook/assets/financial_contributions_receipts_settings_2021-06-17.png)
 
 4. Click on Payment Receipts, you should then be able to see all of your contributions 
+
+**Instructions for Accessing Receipts via Profile** 
+
+1. Ensure you are [signed in](https://opencollective.com/signin?next=%2F) with the email address you used to process the transaction.
+2. Click on your name in the top right-hand corner. 
+3. Under **My Account** click on **Profile**. 
+
+![](../.gitbook/assets/financial_contributors_receipts_profile_2021-06-22.png)
+
+4.  Scroll down to 'Budget and click 'Contributions'
+
+5. Click 'View All Transactions'. 
+
+![](../.gitbook/assets/financial_contributors_receipts_transactions_2021-06-22.png)
+
+6. Use the Search Function to find a specific transaction.
+
+![](../.gitbook/assets/financial_contributiors_receipts_searc-h_2021-06-22%20%281%29.png)
+
+7. Use the Download Receipts to download all receipts from a specific time period. 
+
+
 
 **Instructions for Downloading a Tax Receipt from the Collectives page**  
 
