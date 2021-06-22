@@ -79,7 +79,7 @@ Individuals who register to attend a Collective's event. They often arrive throu
 
 ### **Organizational Financial Contributor** ![](../.gitbook/assets/about_terminology_organization_2019-07-09%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
-A company that supports a Collective financially, often at a higher tier. This is often called sponsorship in practice, but can go by other names depending on the Collective's context, such as base supporters, members, etc.
+A company that supports a Collective financially, often at a higher tier. This is often called sponsorship in practice but can go by other names depending on the Collective's context, such as base supporters, members, etc.
 
 Sponsors often represent companies with accounting and reporting needs. They may want brand exposure, access to or goodwill from a community, tangible benefits like support, or help with their recruiting efforts.
 
@@ -87,7 +87,7 @@ Sponsors often represent companies with accounting and reporting needs. They may
 
 Supports a Collective financially, with a repeating or one-off contribution.
 
-They arrive at a Collective many ways:
+Individual Financial Contributor can find a Collective in many ways:
 
 * Search from [homepage](https://www.opencollective.com)
 * [Discover page](http://opencollective.com/discover)
@@ -114,7 +114,7 @@ Supporting Collectives by providing the legal and financial infrastructure neede
 
 ### Code Contributors ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%287%29.png)
 
-An individual can contribute with code \(software\) to an open source project with a Collective
+An individual can contribute with code \(software\) to an open-source project with a Collective
 
 ### Service Contributors ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%283%29.png)
 
@@ -126,7 +126,7 @@ Because there are a lot of concepts and moving parts on the platform, we try to 
 
 ### Capitalization
 
-Terms defined above that function as a proper noun \(name\) of a specific role or entity, as opposed to the everyday meaning and usage of that word. Please capitalize the following terms in documentation and in the app.
+Terms defined above that function as a proper noun \(name\) of a specific role or entity, as opposed to the everyday meaning and usage of that word. Please capitalize the following terms in the documentation and in the app.
 
 * Collective
 * Organization
@@ -163,7 +163,7 @@ This is a common word to describe when a company gives money to a project, but i
 
 Similar to the above. If a company gives only $5 a month, are they a backer or a sponsor? That's undefined globally, so stick with "financial contributor".
 
-#### Donate, back, support, join, or any other synonym for financial contribution
+#### Donate, back, support, join, or any other synonym for a financial contribution
 
 Because different Collectives use different terms, the platform should not try to decide for them. Each community will have its own context. Therefore we have decided to stick with the words "contribute" and "contribution" and add the qualifier "financial" when it's through money.
 
