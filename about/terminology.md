@@ -169,7 +169,7 @@ Because different Collectives use different terms, the platform should not try t
 
 #### **Subscription**
 
-We used to call recurring financial contributions "subscriptions", but this proved problematic because most Collectives don't think of someone giving $5 a month as "subscribing" to them, and it's also easy to confuse with the concept of subscribing to Updates and getting emails. To emphasize our key action of "contribution" we call it "recurring financial contributions". We are aware this is too long, but we haven't come up with a better idea so far.
+We used to call recurring financial contributions "subscriptions", but this proved problematic because most Collectives don't think of someone giving $5 a month as "subscribing" to them, and it's also easy to confuse with the concept of subscribing to Updates and getting emails. To emphasize our key action of "contribution" we call it "recurring financial contributions". 
 
 #### **Chapter**
 
