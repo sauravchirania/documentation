@@ -36,5 +36,5 @@ Donation amounts will be denominated in the currency of the Collective's [Fiscal
 * UYU
 * ZAR
 
-**The currency a Fiscal Host supports is determined by the currency used by their Stripe account.** If you would like to set up a Fiscal Host in a different currency, please contact us at [https://opencollective.com/support](https://opencollective.com/support).
+**The currency a Fiscal Host supports is determined by the currency used by their Stripe account.** If you would like to set up a Fiscal Host in a different currency, please contact us at [support@opencollective.com](mailto:support@opencollective.com).
 
