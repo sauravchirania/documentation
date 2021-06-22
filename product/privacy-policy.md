@@ -10,7 +10,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 **Information You Provide to Us**
 
-We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, fill out a form, make a payment, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, payment method information and any other information you choose to provide.
+We collect the information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, fill out a form, make a payment, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, payment method information and any other information you choose to provide.
 
 **Information We Collect Automatically**
 
@@ -40,12 +40,12 @@ We may use information about you for various purposes, including to:
 
 ### Sharing of Information
 
-We may share information about you as follows or as otherwise described in this Privacy Policy:
+We may share information about you as follows or as otherwise described in this Privacy Policy: 
 
 * With hosts and organizers of a collective, if you are a contributor, or request reimbursement for expenses made in support, of that collective
 * We will share your name and image with GitHub if you participate in a collective that is also working on a software project through GitHub.
 * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf. If you submit a request to us, we will provide you with a list of the third-party service providers with which we have shared information about you for the 12 months prior to your request;
-* In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+* In response to a request for information if we believe disclosure is in accordance with or required by, any applicable law, regulation or legal process;
 * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Open Collective or others;
 * In connection with, or during negotiations of, any merger, sale of Open Collective assets, financing or acquisition of all or a portion of our business by another Open Collective;
 * With your consent or at your direction.
@@ -83,7 +83,7 @@ You may opt out of receiving promotional or notification emails from Open Collec
 
 ### GDPR
 
-Open Collective is GDPR compliant. We are not in the business of selling data to any 3rd party. Our business model is to take a commission on the money raised by Collectives \(like most other crowdfunding platforms\). Companies that sponsors Collectives don't get access to private information. Only the admins of the Collective \(core contributors\) and of the organization that is legally hosting the Collectives \(fiscal sponsor\) get access to your email address. We don't store credit card information on our servers \(we only store a token if you have decided to save it to your profile\). We don’t store any passwords. Since our entire code base is open source, anyone can easily audit it.
+Open Collective is GDPR compliant. We are not in the business of selling data to any 3rd party. Our business model is to take a commission on the money raised by Collectives \(like most other crowdfunding platforms\). Companies that sponsor Collectives don't get access to private information. Only the admins of the Collective \(core contributors\) and of the organization that is legally hosting the Collectives \(fiscal sponsor\) get access to your email address. We don't store credit card information on our servers \(we only store a token if you have decided to save it to your profile\). We don’t store any passwords. Since our entire code base is open source, anyone can easily audit it.
 
 ## Data Removal
 
@@ -92,6 +92,4 @@ If you haven't made any transactions, you can easily delete your profile account
 For individual/organizations profiles: please contact [support@opencollective.com](mailto:support@opencollective.com) and please request for your personal information to be removed and the transaction\(s\) anonymized.
 
 For collectives, follow these steps: [http://docs.opencollective.com/collectives/closing-a-collective](http://docs.opencollective.com/collectives/closing-a-collective)
-
-\*\*\*\*
 
