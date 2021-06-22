@@ -18,7 +18,18 @@ You should have received a receipt by email from Open Collective at the time of 
 2. Go to the collectives page you supported
 3. Scroll down to 'Budget and click 'Transactions'
 4. Click on 'View All Transactions'.
+
+![](../.gitbook/assets/financial_contributors_receipts_viewtransactions_2021-06-22.png)
+
 5. On the right, in the 'Search' window next to 'Transacations' type in your name.
+
+![](../.gitbook/assets/financial_contributors_receipts_search_2021-06-22.gif)
+
 6. Find your contribution\(s\) and click on 'View Details'. 
-7. Click 'Download Receipt' and you will download a PDF of your receipt that can be use for tax purposes. 
+
+![](../.gitbook/assets/financialcontributors_receipts_viewdetails_2021-06-22.gif)
+
+7. Click 'Download Receipt' and you will download a PDF of your receipt that can be used for tax purposes. 
+
+![](../.gitbook/assets/financialcontributors_receipts_download_2021-06-22.png)
 
