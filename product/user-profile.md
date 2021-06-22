@@ -66,7 +66,7 @@ To delete your account, go to the **Delete this Account** section and click on *
 
 ### Archiving your account
 
-If your account has a history of transactions, your only option is archiving your account. Archived accounts will appear as inactive accounts and no new activity will be allowed. Next time we run subscriptions \(1st of the month\), they will be cancelled.
+If your account has a history of transactions, your only option is archiving your account. Archived accounts will appear as inactive accounts and no new activity will be allowed. The next time subscriptions are due to be renewed \(1st of the month\), they will be cancelled.
 
 To archive your account, go to the **Archive this Account** section and click on **Archive this account**.
 
