@@ -4,7 +4,7 @@ description: Insights about our moderation policy and actions taken
 
 # Moderation
 
-Open Collective provides some tools to make sure that disrespectful users and abusive contents doesn't have their place in your community. The moderation is done based on our [Community Guidelines](https://docs.opencollective.com/help/about/community-guidelines).
+Open Collective provides some tools to make sure that disrespectful users and abusive contents don't have their place in your community. The moderation is done based on our [Community Guidelines](https://docs.opencollective.com/help/about/community-guidelines).
 
 Especially, these types of contents are never welcome on the website:
 
@@ -14,7 +14,7 @@ Especially, these types of contents are never welcome on the website:
 
 ## How to report abusive content
 
-Please send all your reports for spam and abusive content to: [https://opencollective.com/support](https://opencollective.com/support).
+Please send all your reports for spam and abusive content to: [support@opencollective.com](mailto:support@opencollective.com).
 
 ## Limited user account
 
