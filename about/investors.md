@@ -2,7 +2,7 @@
 
 We did a first pre-seed round of $500k in October 2015 \([deck](https://www.dropbox.com/s/klwxkewuf9mnjy1/OpenCollective.pdf?dl=0), [SAFE](https://www.ycombinator.com/docs/SAFE_Cap.rtf), $5M cap\) with:
 
-* $250k [General Catalyst](http://generalcatalyst.com) \(SF/NYC/Boston, [Hemant Taneja](https://www.linkedin.com/in/hemanttaneja)\)
+* $250k [General Catalyst](http://generalcatalyst.com) \(SF/NYC/Boston, [Hemant Taneja](https://www.linkedin.com/in/hemanttaneja)\) 
 * $50k [Jonathan Siegel](https://www.linkedin.com/in/jsiegel) \(can't pin down his location\)
 * $50k [Belcube](http://belcube.com) \(Brussels\)
 * $50k [Tony Jamous](https://www.linkedin.com/in/teljamou) \(London, [Nexmo](https://nexmo.com)\)
@@ -15,7 +15,7 @@ We did a first pre-seed round of $500k in October 2015 \([deck](https://www.drop
 * $5k [Xavier Corman](https://www.linkedin.com/in/xaviercorman) \(Brussels, [Edebex](http://edebex.com)\)
 * $5k Personal friend
 
-We did a follow up round of $315k in July 2016 \([SAFE](https://www.ycombinator.com/docs/SAFE_Cap.rtf), $8M cap\) with:
+We did a follow-up round of $315k in July 2016 \([SAFE](https://www.ycombinator.com/docs/SAFE_Cap.rtf), $8M cap\) with:
 
 * $100k [Ricardo Gorodisch](https://www.linkedin.com/in/ricardo-gorodisch-9b057889) \(Argentina, President [Foundation Kaleidos](http://www.fundacionkaleidos.org/)\)
 * $50k [Pete Koomen](https://www.linkedin.com/in/petekoomen) \(SF, Cofounder/CTO [Optimizely](http://optimizely.com)\)

@@ -10,7 +10,7 @@ First, thank you for considering contributing to Open Collective! It's people li
 
 Check out our [Roadmap](../product/roadmap.md) for the latest priorities.
 
-You can help with:
+You can help with: 
 
 ## **Quality Assurance**
 
