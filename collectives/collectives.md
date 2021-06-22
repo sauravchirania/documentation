@@ -17,7 +17,7 @@ You shouldn't have to incorporate a legal entity, start a new bank account, and 
 
 ### Why should I use Open Collective?
 
-Open Collective makes it easy to be transparent about your finances. We help you collect recurring or one-off contributions from sponsors, backers, or members. 
+Open Collective makes it easy to be transparent about your finances. We help you collect recurring or one-off contributions from sponsors, supporters, or members. 
 
 [Spending from your Open Collective](../expenses-and-getting-paid/expenses.md) is simple: the person to be paid submits a receipt or invoice, you approve it, and they get paid. We believe that financial transparency creates stronger collaboration, so everyone can see how money flows in and out of your Collective.
 

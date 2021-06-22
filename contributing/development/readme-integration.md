@@ -32,6 +32,6 @@ To get help generating an integration like [this](https://github.com/mochajs/moc
 
    `-i` makes it interactive.
 
-6. Answer questions asked by the script - usually defaults are good to go with. Verify that the slug of project is same as the one in the database \(script guesses at it and is usually right\).
-7. Script attempts to do several integrations across README.md, CONTRIBUTORS.md and ISSUE\_TEMPLATE.md. Most important ones are the two integrations on README.md: backers and sponsor badges at the top and adding backer/sponsor section near the bottom.
+6. Answer questions asked by the script - usually defaults are good to go with. Verify that the slug of the project is the same as the one in the database \(script guesses at it and is usually right\).
+7. Script attempts to do several integrations across README.md, CONTRIBUTORS.md and ISSUE\_TEMPLATE.md. The most important ones are the two integrations on README.md: backers and sponsor badges at the top and adding backer/sponsor section near the bottom.
 
