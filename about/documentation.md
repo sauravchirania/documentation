@@ -16,6 +16,10 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 [Open Collective Foundation](https://opencollective.foundation/) - [Documentation ](https://docs.opencollective.foundation/)
 
+![](../.gitbook/assets/opencollectivebrussells.png)
+
+[Open Collective Brussels](https://opencollective.com/brussels) - [Documentation ](https://docs.opencollective.com/brussels/)
+
 ![](../.gitbook/assets/allforclimatelogo.jpg)
 
 [All for Climate ](https://allforclimate.earth/)- [Documentation ](https://docs.allforclimate.earth/)
