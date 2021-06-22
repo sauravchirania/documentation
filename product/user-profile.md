@@ -6,7 +6,7 @@ You can use your Open Collective user profile to let people know a bit about you
 
 You can access your profile settings by using the dropdown menu on your username and going to the **Profile** page.
 
-![](../.gitbook/assets/screen-shot-2021-03-23-at-8.05.20-pm.png)
+![](../.gitbook/assets/financial_contributors_receipts_profile_2021-06-22%20%281%29.png)
 
 On your **Profile** page, you are able to customize the following:
 
@@ -20,7 +20,7 @@ Click on **Edit cover** to access to upload a new cover image.
 
 ![](../.gitbook/assets/screen-shot-2021-03-23-at-8.18.30-pm.png)
 
-After uploading a image, you are able to adjust it as you wish by either moving it and zooming in and out.
+After uploading an image, you are able to adjust it as you wish by either moving it and zooming in and out.
 
 ![](../.gitbook/assets/product_user_profile_moving_2021-04-20.gif)
 
@@ -55,7 +55,7 @@ Go to **Advanced** and specify your new email address in the box under the **Ema
 ### Deleting your account
 
 {% hint style="warning" %}
-You are only able to delete your account if it has no activity registered such as donations and expenses. Therefore, accounts with a history of transactions cannot be deleted —they are part of Collective budgets and their integrity and accuracy depend on those records.
+You are only able to delete your account if it has no activity registered such as donations and expenses. Therefore, accounts with a history of transactions cannot be deleted —they are part of Collective budgets and their integrity and accuracy depend on those records. You may archive your account instead.
 {% endhint %}
 
 To delete your account, go to the **Delete this Account** section and click on **Delete this account**.
