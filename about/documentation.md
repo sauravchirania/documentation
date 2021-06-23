@@ -14,7 +14,7 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 ![ ](../.gitbook/assets/opencollectivefoundation.png)
 
-[Open Collective Foundation](https://opencollective.foundation/) - [Documentation](https://docs.opencollective.foundation/)
+[Open Collective Foundation](https://opencollective.com/foundation) - [Documentation](https://docs.opencollective.foundation/) - [Website ](https://opencollective.foundation/)
 
 ![](../.gitbook/assets/opencollectivebrussells.png)
 
@@ -26,7 +26,7 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 ![](../.gitbook/assets/thesocialchangeagency.png)
 
-[The Social Change Agency](https://thesocialchangeagency.org/) - [Documentation](https://docs.google.com/document/d/1zHArRkjHIstk8b_rMDhHGFnKLfWYCeVhLYLWHEEunlY/edit) 
+[The Social Change Agency](https://opencollective.com/the-social-change-nest) - [Documentation](https://docs.google.com/document/d/1zHArRkjHIstk8b_rMDhHGFnKLfWYCeVhLYLWHEEunlY/edit) - [Website](https://thesocialchangeagency.org/)
 
 ![](../.gitbook/assets/opensourcecollective.png)
 
