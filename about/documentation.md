@@ -6,7 +6,7 @@ description: Specific Fiscal Host Documentation
 
 The Open Collective Documentation is our main documentation enabling all of our users to successfully use our platform. 
 
-We encourage our fiscal hosts to link out to our main documentation for the basic how-to-use of Open Collective. We will also aim to link out to our fiscal host's documentation in specific areas to provide further information when needed. 
+We encourage our [fiscal hosts](https://opencollective.com/hosts) to link out to our main documentation for the basic how-to-use of Open Collective. We will also aim to link out to our fiscal host's documentation in specific areas to provide further information when needed. 
 
 If you are looking for more specific Fiscal Host Documentation, please head along to the links below. 
 
@@ -14,7 +14,7 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 ![ ](../.gitbook/assets/opencollectivefoundation.png)
 
-[Open Collective Foundation](https://opencollective.foundation/) - [Documentation ](https://docs.opencollective.foundation/)
+[Open Collective Foundation](https://opencollective.foundation/) - [Documentation](https://docs.opencollective.foundation/)
 
 ![](../.gitbook/assets/opencollectivebrussells.png)
 
@@ -22,7 +22,7 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 ![](../.gitbook/assets/allforclimatelogo.jpg)
 
-[All for Climate ](https://allforclimate.earth/)- [Documentation ](https://docs.allforclimate.earth/)
+[All for Climate](https://allforclimate.earth/) - [Documentation ](https://docs.allforclimate.earth/) - [Website](https://opencollective.com/allforclimate)
 
 ![](../.gitbook/assets/thesocialchangeagency.png)
 
