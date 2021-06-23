@@ -30,7 +30,9 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 ![](../.gitbook/assets/opensourcecollective.png)
 
-[Open Source Collective](https://www.oscollective.org/) ~ Coming Soon 
+[Open Source Collective](https://opencollective.com/opensource) ~ Documentation Coming Soon - [Website ](https://www.oscollective.org/)
+
+
 
 
 
