@@ -32,9 +32,5 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 [Open Source Collective](https://opencollective.com/opensource) ~ Documentation Coming Soon - [Website ](https://www.oscollective.org/)
 
-
-
-
-
 If you would like your Documentation linked here please get in touch [support@opencollective.com](mailto:support@opencollective.com)
 
