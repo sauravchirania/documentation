@@ -18,11 +18,23 @@ Click the **Dashboard** button on your host page, while logged in as host admin.
 
 * **Pending:** expense has been submitted but not yet approved by the Collective's core contributors
 * **Approved:** Core Contributor has confirmed this expense is good to payout
+* **Scheduled for Payment:** Host admin approved and the expense is being batched for payment
+* **Processing:** expense was paid and it is being processed by the payment provider
 * **Paid:** past expenses already complete
 
-#### Pay with PayPal
+#### Go to Pay
 
-Green button showing that an expense has been approved and there are sufficient funds. If you click this button, the expense will automatically be paid from the connected PayPal account.
+Green button showing that an expense has been approved and there are sufficient funds. If you click this button, the pay expense modal will be displayed and you'll be able to pay for the expense using a suitable method.
+
+![Pay Expense modal displayed for an expense submitted with Bank Account on a Host connected to Wise.](../.gitbook/assets/screenshot-from-2021-06-29-16-11-03.png)
+
+The action button displayed in this modal will vary with the available integration the host have and the payout method selected by the user who submitted the expense.
+
+In the case you're paying with PayPal, if you click the action button the expense will automatically be paid from the connected PayPal account. If you're using PayPal Payouts, the expense will be marked as Scheduled for Payment and automatically processed by the payment worker.
+
+In the case you're paying with Wise, if you click the action button the expense will automatically be paid from your main Wise balance. If your Wise requires OTP authorization, the expense will be Scheduled for Payment and a banner will be displayed on top of your expenses list so you can pay all the scheduled expenses in a batch with a single validation.
+
+![Scheduled Wise expenses are paid manually in batch with your account requires OTP authorization.](../.gitbook/assets/screenshot-from-2021-06-29-16-18-33.png)
 
 #### Mark as Paid
 
