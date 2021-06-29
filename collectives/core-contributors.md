@@ -45,5 +45,14 @@ If they still can't find them, the easiest way to re-trigger the emails is:
 1. Go to the settings page of the Collective &gt; Core contributors section
 2. Remove the concerned users
 3. Click on Save
-4. ​Click on "Add core contributor" and add them again \(you should be able to search by pasting user emails in the search box\) 
+4. ​Click on "Add core contributor" and add them again \(you should be able to search by pasting user emails in the search box\)
+
+{% hint style="danger" %}
+### Troubleshooting:
+
+* First thing to try is to check your spam folder. 
+* If there is still no invite email, follow the instructions above to resend.  ****
+* **Make sure you clicked 'Save' at the bottom of the Add Admin page.**
+* Email [support@opencollective.com](mailto:%20support@opencollective.com)
+{% endhint %}
 
