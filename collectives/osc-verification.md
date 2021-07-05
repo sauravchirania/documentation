@@ -6,7 +6,7 @@ description: For the applying to the Open Source Collective
 
 ## What is Github Stars Verification?
 
-Open Source Collective offers the option to verify your Collective by showing that it has at least 100 Github stars. Meeting this requirement can expedite approval of your Collective.
+Open Source Collective offers the option to verify your Collective by showing that it has at least 100 Github stars. Meeting this requirement can expedite the approval of your Collective.
 
 ### What if I can't verify with Github stars?
 
