@@ -26,3 +26,7 @@ When you approve an expense, the submitter will get a notification. The [Fiscal 
 
 The submitter will be notified that their expense was rejected. We suggest also putting a [comment](../expenses-and-getting-paid/expense-comments.md) on the expense to explain why it was rejected.
 
+### How can I show an expense that has been paid off the platform?
+
+Submit an expense, select manual/custom payment method, and mark it as paid. Then it will show on the budget but no money will actually move, since it’s already been paid. 
+
