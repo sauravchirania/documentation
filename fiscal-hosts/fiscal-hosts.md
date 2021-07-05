@@ -4,6 +4,8 @@
 
 ### What is a Fiscal Host?
 
+\_\_[_View our illustrated guide about fiscal hosts_](https://opencollective.com/fiscal-hosting)\_\_
+
 Fiscal hosting enables Collectives to transact financially without needing to legally incorporate. In other contexts, this is sometimes called _fiscal sponsorship_.
 
 A fiscal host is a legal company or individual who holds a Collective’s funds in their bank account and can generate invoices and receipts for supporters and sponsors. You can think of a fiscal host as an umbrella organization for the Collectives in it.
