@@ -26,11 +26,11 @@ When you have 2FA enabled on your account, you will be prompted to enter a 6-dig
 
 Now you’re ready to make payouts from the host dashboard. Click “Go to pay” for the first expense.
 
-![](https://lh5.googleusercontent.com/tdp0idlc6diklWzZLP7uax3u_a1RV-_k29_u1zV_pBKkKjmPo-BU6HXYjRUXWus9YHMovC2AqDZGewl02HBB8gEzV5uywAjbHU_pZqrCNbcnsALzVYeZIRpaAXvS_XSRmPqfroIV)
+![](../../.gitbook/assets/fiscalhosts_payouts_twofactor_2021-07-5.png)
 
 The payment modal will then open, giving you the option to pay out for the expense.
 
-![](https://lh5.googleusercontent.com/HCSNhaE1C3-kGsrdXBHvPZnWfCfjE9ba2zSDWx_86nu5htmZOx-9_R058sQQzSkNj0J8viDi6gkjvZSkGJDpB6k6-0K3H8cizVzvMeFC2Brtl1smyUEfeVbiPG8gqgp_K7QTkCkE)
+![](../../.gitbook/assets/fiscalhosts_payouts_twofactor_payexpense_2021-07-5.png)
 
 For the first expense that you’re paying in a “session”, you will be prompted to enter your 2FA code. Open your authenticator app and enter the 6-digit code that is under the entry for your account on Open Collective. 
 
