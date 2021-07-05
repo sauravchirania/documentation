@@ -4,7 +4,7 @@
 
 In order to raise and spend money, you'll need a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md). There are different hosts that serve different missions, interest areas, and geographic. [See them all here](https://opencollective.com/hosts).
 
-Click on the apply button on any host page, and if your project fits their criteria, they will approve it.
+Click on the apply button on any host page, and if your project fits their criteria, they will approve it. \(The apply button can sometimes be nestled under the actions button\). 
 
 ![](../.gitbook/assets/collectives_add_foscal_host_2021-05-31.png)
 
