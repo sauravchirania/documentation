@@ -8,9 +8,9 @@ Once you've registered on Open Collective, reveal the dropdown menu by clicking 
 
 Then, select the category that best describes your Collective.
 
-![&apos;Create a Collective&apos; page showing three categories for Collectives: open source projects, community, and climate initiatives.](../.gitbook/assets/collectives_creating-a-collective_collective-creation_2020-03-11.png)
+![&apos;Create a Collective&apos; page showing three categories for Collectives: open source projects, community, and climate initiatives.](../.gitbook/assets/collectives_creatingacollective_createacollective_2021-07-5.png)
 
-If you are not creating an open-source Collective, you will be immediately directed to a Collective creation form, where you will be asked for your **Collective name**, **URL slug** of choice, and a **brief description** of your Collective's activities. 
+If you are not creating an [open-source Collective,](https://www.oscollective.org/) you will be immediately directed to a Collective creation form, where you will be asked for your **Collective name**, **URL slug** of choice, and a **brief description** of your Collective's activities. 
 
 ![](../.gitbook/assets/collectives_creating-a-collective_form_2020-03-23.png)
 
