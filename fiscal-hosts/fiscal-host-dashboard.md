@@ -75,6 +75,18 @@ Common reasons for a payment to fail after clicking the "Pay with PayPal" button
 * User's PayPal account is restricted
   * Ask the user to log into PayPal and resolve the issue on their side
 
+### Financial contributions
+
+Shows all incoming contributions.
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+### Pending applications
+
+This section on the dashboard shows all of your current pending applications to join your fiscal host. You are able to see the Title, Admins, Purpose, Application message and Email of the Collective. You can then Approve or Reject the application. 
+
+![](../.gitbook/assets/image%20%2844%29.png)
+
 ### Manage hosted Collectives and set custom fees
 
 You can access a list of all your hosted Collectives by clicking on the **Hosted Collectives** tab. With the first dropdown menu, you can sort them by the period of time you've hosted them from the most recent to oldest and oldest to most recent. You can also filter them by fee structure: by **global host fee** or **custom fee**.
@@ -86,18 +98,4 @@ To add a custom fee to a specific Collective, either find them listed on the pag
 ![](../.gitbook/assets/fiscal-host_fiscal-host-dashboard_custom-fees_2020-08-12.gif)
 
 You will be prompted to either choose your global fee structure or to create a custom fee for this specific Collective. Don't forget to save your changes!
-
-### Pending applications
-
-{% hint style="warning" %}
-This section needs additional documentation. You can contribute by editing this document on [https://github.com/opencollective/documentation/blob/v2/fiscal-hosts/fiscal-host-dashboard.md](https://github.com/opencollective/documentation/blob/v2/fiscal-hosts/fiscal-host-dashboard.md).
-{% endhint %}
-
-![](../.gitbook/assets/image%20%2844%29.png)
-
-### Financial contributions
-
-Shows all incoming contributions.
-
-![](../.gitbook/assets/image%20%287%29.png)
 
