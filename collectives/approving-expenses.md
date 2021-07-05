@@ -1,4 +1,4 @@
-# Approving Expenses
+# Expenses
 
 ## FAQ
 

@@ -46,7 +46,7 @@
 * [Open Source Collectives](collectives/osc-verification.md)
 * [Transparent Budget](collectives/budget.md)
 * [Expense Policy](collectives/expense-policy.md)
-* [Approving Expenses](collectives/approving-expenses.md)
+* [Expenses](collectives/approving-expenses.md)
 * [Updates & Comms](collectives/communication.md)
 * [Moderation](collectives/moderation.md)
 * [Conversations](collectives/conversations.md)
