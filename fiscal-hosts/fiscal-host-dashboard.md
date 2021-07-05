@@ -77,7 +77,7 @@ Common reasons for a payment to fail after clicking the "Pay with PayPal" button
 
 ### Financial contributions
 
-Shows all incoming contributions.
+This section of the dashboard shows all of your incoming contributions. You can filter this section by Period, Amount and Status. 
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
