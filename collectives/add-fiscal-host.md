@@ -12,7 +12,7 @@ If you have a legal entity and bank account already, you can also [set up your o
 
 If you are an open-source project with at least 100 stars on GitHub \(or equivalent other websites\), you can apply to create your Collective under the umbrella of the [Open Source Collective](https://opencollective.com/opensource/apply) fiscal host.
 
-To see your Fiscal Host options, go to your Collective Page, click on the gear icon and head to the **Fiscal Host** page.
+To see your Fiscal Host options, go to your Collective Page, click on the settings button and head to the **Fiscal Host** page.
 
 ![](../.gitbook/assets/screen-shot-2021-04-14-at-6.33.13-pm.png)
 
