@@ -45,7 +45,7 @@
 * [Change Fiscal Host](collectives/change-fiscal-host.md)
 * [Open Source Collectives](collectives/osc-verification.md)
 * [Transparent Budget](collectives/budget.md)
-* [Expenses](collectives/approving-expenses.md)
+* [Expenses](collectives/expenses.md)
 * [Expense Policy](collectives/expense-policy.md)
 * [Updates & Comms](collectives/communication.md)
 * [Moderation](collectives/moderation.md)
