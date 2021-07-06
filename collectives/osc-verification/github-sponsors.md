@@ -7,7 +7,7 @@ description: Guide to connecting Github Sponsors for Organizations to your Colle
 {% hint style="warning" %}
 This guide is **only** for projects using [**Open Source Collective**](https://opencollective.com/opensource) as their fiscal host. Before signing up using this guide, confirm that your Collective has a fiscal host, and the fiscal host is **Open Source Collective**. You can see this on your Collective's home page:
 
-![](../.gitbook/assets/sponsors-fiscal-host.png)
+![](../../.gitbook/assets/sponsors-fiscal-host.png)
 
 If you have another fiscal host you will need to choose Fiscal Host: Other when signing up for GitHub Sponsors and work with your fiscal host to get their bank account and tax information.
 {% endhint %}
@@ -24,7 +24,7 @@ Open Source Collective projects can use Open Collective to receive GitHub Sponso
 
 ✔️ For non-profit status, answer: “Yes, this organization has nonprofit status but cannot receive tax-deductible donations from individuals \(e.g., 501c6\)”
 
-![](../.gitbook/assets/screen-shot-2020-08-30-at-4.07.15-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-08-30-at-4.07.15-pm.png)
 
 Click Join Waitlist. GitHub staff will review your application, and you'll be notified when you can proceed to the next step.
 
@@ -42,13 +42,13 @@ As Open Source Collective is a US entity, select **United States**.
 
 Enter **your own phone number and email**, which will be used to verify the account and to send updates.
 
-![](../.gitbook/assets/github_stripe_1.png)
+![](../../.gitbook/assets/github_stripe_1.png)
 
 ### Verify your phone number
 
 Next, you will be asked to verify the phone number you gave:
 
-![](../.gitbook/assets/github_stripe_2.png)
+![](../../.gitbook/assets/github_stripe_2.png)
 
 Once the phone number is verified, you will start filling out details about the fiscal host, Open Source Collective.
 
@@ -60,19 +60,19 @@ This next section is asking questions about the business. As a Collective fiscal
 * Doing business as: `Name of your Collective`
 * Business website: `https://opencollective.com/your_collective`
 
-![](../.gitbook/assets/github_stripe_3.png)
+![](../../.gitbook/assets/github_stripe_3.png)
 
 If you are asked for an EIN or "commercial registry number", put in OSC's EIN: **82-2037583**.
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
-![](../.gitbook/assets/annotation-2020-05-21-172127-1-.jpg)
+![](../../.gitbook/assets/annotation-2020-05-21-172127-1-.jpg)
 
 ### Executive details \(about you\)
 
 Next, you will be filling out details as the acting executive for the Collective. Use your personal information on this page.
 
-![](../.gitbook/assets/github_stripe_4.png)
+![](../../.gitbook/assets/github_stripe_4.png)
 
 ### Payout details
 
@@ -81,7 +81,7 @@ Finally, you will input bank account information. Funds you receive through GitH
 * Routing number: `123205054`
 * Account Number: `4869374308`
 
-![](../.gitbook/assets/github_stripe_5.png)
+![](../../.gitbook/assets/github_stripe_5.png)
 
 After that, you should be all set! ✌️😎
 

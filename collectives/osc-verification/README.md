@@ -10,7 +10,7 @@ Open Source Collective offers the option to verify your Collective by showing th
 
 ### What if I can't verify with Github stars?
 
-If your project is not centered on a Github repository, or you can't get the automated verification system to work for you even if you have 100 stars, please request manual verification instead, by [following these steps](osc-verification.md#manual-verification).
+If your project is not centered on a Github repository, or you can't get the automated verification system to work for you even if you have 100 stars, please request manual verification instead, by [following these steps](./#manual-verification).
 
 [**See alternative verification criteria here.**](https://www.oscollective.org/#criteria)\*\*\*\*
 
@@ -26,27 +26,27 @@ If you believe that you may have linked the wrong GitHub account to your Open Co
 
 **1.** On GitHub, go to **Settings**.
 
-![](../.gitbook/assets/fiscal-host_open-source-collective_github-dropdown-menu_2019-10-28.png)
+![](../../.gitbook/assets/fiscal-host_open-source-collective_github-dropdown-menu_2019-10-28.png)
 
 **2.** On the Settings menu, click on **Applications**.
 
-![](../.gitbook/assets/fiscal-host_open-source-collective_github-settings-interface_2019-10-28.png)
+![](../../.gitbook/assets/fiscal-host_open-source-collective_github-settings-interface_2019-10-28.png)
 
 **3.** On the **Applications** page, open the **Authorized OAuth Apps** tab and look for Open Collective..
 
-![](../.gitbook/assets/fiscal-host_open-source-collective_github-app-list_2019-10-28%20%281%29.png)
+![](../../.gitbook/assets/fiscal-host_open-source-collective_github-app-list_2019-10-28%20%281%29.png)
 
-![](../.gitbook/assets/fiscal-host_open-source-collective_github-list-oauth-apps_2019-10-28.png)
+![](../../.gitbook/assets/fiscal-host_open-source-collective_github-list-oauth-apps_2019-10-28.png)
 
 **4.** Click on the three dots on the right labelled "Show me more options" to revoke the authorization.
 
-![](../.gitbook/assets/fiscal-host_open-source-collective_github-list-oauth-revoke_2019-10-28.png)
+![](../../.gitbook/assets/fiscal-host_open-source-collective_github-list-oauth-revoke_2019-10-28.png)
 
 **\#2: You used the right account, but you didn't grant access to organization repositories**
 
 During the authorization process, GitHub lists the organizations in which you are a member. Depending on [the permission level](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/permission-levels-for-an-organization) you have at each one of them and their [third party access policy](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/enabling-oauth-app-access-restrictions-for-your-organization), you may have to either grant permission on that page or request it.
 
-![](../.gitbook/assets/fiscal-host_open-source-collective-github-authorize-open-collective_2019-10-28.png)
+![](../../.gitbook/assets/fiscal-host_open-source-collective-github-authorize-open-collective_2019-10-28.png)
 
 ### My repository is listed but I can't create a collective \(Error: We could not verify you are the admin of the GitHub organization\).
 
@@ -56,7 +56,7 @@ Depending on [the permission level](https://help.github.com/en/github/setting-up
 
 Use the search bar to filter repositories by name:
 
-![](../.gitbook/assets/fiscal-hosts_open-source-collective_search-bar-pick-a-repo_2019-10-28.gif)
+![](../../.gitbook/assets/fiscal-hosts_open-source-collective_search-bar-pick-a-repo_2019-10-28.gif)
 
 ## Manual verification
 
@@ -68,7 +68,7 @@ If your project us not centred on a Github repository, or you can't get the auto
 4. Click on **Request manual verification**.
 5. Proceed to create your Collective and await manual review
 
-![Manual Verification Process](../.gitbook/assets/collectives_opensourcecollectives_manual_2021-06-18.png)
+![Manual Verification Process](../../.gitbook/assets/collectives_opensourcecollectives_manual_2021-06-18.png)
 
 When we review your Collective, we will look at the information you've provided, including links to your website and social media, and the info in your Collective's 'About' section. Please ensure these are up to date and correct on your Collective page.
 

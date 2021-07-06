@@ -14,5 +14,5 @@ If you are not creating an [open-source Collective,](https://www.oscollective.or
 
 ![](../.gitbook/assets/collectives_creating-a-collective_form_2020-03-23.png)
 
-If you are creating a Collective for an **open-source project**, you will be directed to a verification process to join the [Open Source Collective](https://www.oscollective.org/) fiscal host. [More info about that here](osc-verification.md).
+If you are creating a Collective for an **open-source project**, you will be directed to a verification process to join the [Open Source Collective](https://www.oscollective.org/) fiscal host. [More info about that here](osc-verification/).
 

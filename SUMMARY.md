@@ -49,7 +49,8 @@
   * [Closing a Collective](collectives/collective-settings/closing-a-collective.md)
 * [Add Fiscal Host](collectives/add-fiscal-host.md)
 * [Change Fiscal Host](collectives/change-fiscal-host.md)
-* [Open Source Collectives](collectives/osc-verification.md)
+* [Open Source Collectives](collectives/osc-verification/README.md)
+  * [Setting up GitHub Sponsors](collectives/osc-verification/github-sponsors.md)
 * [Transparent Budget](collectives/budget.md)
 * [Expenses](collectives/expenses.md)
 * [Updates & Comms](collectives/communication.md)
@@ -60,7 +61,6 @@
 * [Funding Options](collectives/funding-options.md)
 * [Buttons & Banners](collectives/widgets.md)
 * [Connected Collectives](collectives/connectedcollectives.md)
-* [Setting up GitHub Sponsors](collectives/github-sponsors.md)
 * [Embed contribution flow](collectives/embed-contribution-flow.md)
 
 ## Financial Contributors
