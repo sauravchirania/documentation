@@ -12,16 +12,6 @@ We offer a rich editor to write your fantastic updates to your Contributors! Eac
 
 ![](../.gitbook/assets/collectives_updates-and-comms_newupdates_2021-7-6.png)
 
-#### Target audience
-
-If you're a fiscal host, you'll have the option to pick the target audience before publishing an update:
-
-![Target audience for host&apos;s updates](../.gitbook/assets/image%20%2836%29.png)
-
-* **Notify financial contributors**: will notify everyone who financially contributed to the host
-* **Notify hosted collective's admins**: the administrators of the Collectives you're hosting
-* **Notify everyone**: will notify the two categories above 
-
 ![The Updates section of a Collective page after being populated with two posts.](../.gitbook/assets/collectives_updates-and-comms_all-updates.png)
 
 {% hint style="info" %}
