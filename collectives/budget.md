@@ -2,19 +2,27 @@
 
 ## Inside the platform
 
-Collectives have transparent budgets, where all transactions are automatically reported. Everyone can see where money comes from and what it's spent on.
+Collectives have transparent budgets, where all transactions are automatically reported. Everyone can see where money comes from and what it's spent on. The Budget Section on the Collectives Page shows the most recent transacations along side Todays Balance, Total Raised, Total Disbursed and Estimates Annual Budget.
 
-![](../.gitbook/assets/screen-shot-2019-02-04-at-8.58.35-pm.png)
+![](../.gitbook/assets/collectives_transparentbudgets_budget_2021-07-6.png)
 
 Private information is hidden. For example, email addresses and attachments \(which may contain personal information\).
 
-The expenses view shows what the Collective has spent money on. You can see individual expenses and the top categories and people the budget has gone toward.
+The expenses view shows what the Collective has spent money on. You can see individual expenses and people the budget has gone toward. 
 
-![](../.gitbook/assets/screen-shot-2019-02-04-at-9.01.36-pm.png)
+![](../.gitbook/assets/collectives_transparentbudget_expenses_2021-07-6.png)
 
-The transactions view shows the budget lines, and you can filter by credits and debits, or export via CSV.
+You can click on View all expenses to view a more detailed breakdown this view also allows you to filter by Type, Payout, Period, Amount and Status. You can also filter by different tags like Engineering, Communications, Travel etc.
 
-![](../.gitbook/assets/screen-shot-2019-02-04-at-9.03.41-pm.png)
+![](../.gitbook/assets/collectives_transparentbudget_allexpenses_2021-07-6.png)
+
+The transactions view shows financial contributions. You can see individual contributions and who has made the contribution.
+
+![](../.gitbook/assets/collectives_transparentbudget_transactions_2021-07-6.png)
+
+You can click on View all transactions to view a more detailed breakdown this view also allows you to filter by Type, Period, Amount and Kind. You can also download a CSV of all transactions. 
+
+![](../.gitbook/assets/collectives_transparentbudget_alltransactions_2021-07-6.png)
 
 ## Migrating your transactions to a spreadsheet
 
