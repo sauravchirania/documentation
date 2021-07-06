@@ -16,7 +16,7 @@ Reimburse expenses and pay invoices.
 
 Automatic financial reporting and accountability.
 
-## [Tiers](../collectives/tiers-goals.md)
+## [Tiers](../collectives/collective-settings/tiers-goals.md)
 
 Levels or rewards for supporters and sponsors.
 

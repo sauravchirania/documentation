@@ -10,19 +10,19 @@ Collective Goals will be sent in the emails sent to your contributors, and you c
 
 To create your own Collective goals, go to your Collective profile, click on **Settings** and then on **Collective Goals**.
 
-![](../.gitbook/assets/collectives_customize_collective_2021-05-31.png)
+![](../../.gitbook/assets/collectives_customize_collective_2021-05-31.png)
 
-![](../.gitbook/assets/collectives_collectives_goals_and_tiers_2021-05-31.png)
+![](../../.gitbook/assets/collectives_collectives_goals_and_tiers_2021-05-31.png)
 
 To create a goal, give it a **title**, categorize it as either a goal **balance** or **yearly budget,** specify the **amount** you need and add a **description**. Don't forget to **save** your changes when you're done!
 
-![](../.gitbook/assets/collectives_collective-goals-and-tiers_collective-goal-customization_2020-08-12.png)
+![](../../.gitbook/assets/collectives_collective-goals-and-tiers_collective-goal-customization_2020-08-12.png)
 
 ## Tiers
 
 You can also control contributions and tiers by accessing the **Tiers** section.
 
-![](../.gitbook/assets/collectives_collective-goals-and-tiers_collective-tiers-settings_2020-08-12.png)
+![](../../.gitbook/assets/collectives_collective-goals-and-tiers_collective-tiers-settings_2020-08-12.png)
 
 ### Enabling custom contributions
 
@@ -32,7 +32,7 @@ You can define whether you can to allow custom contributions or not by manipulat
 
 You can also create custom tiers on the same page. Click on **add another tier** to activate the following form:
 
-![](../.gitbook/assets/collective_collective_goals_and_tiers_2021-05-31.png)
+![](../../.gitbook/assets/collective_collective_goals_and_tiers_2021-05-31.png)
 
 ### Configuration for Tiers
 
@@ -76,7 +76,7 @@ For limited edition contributions \(such as special edition items, one-time even
 
 The action word on the Tier card users click \(such as donate, join, contribute\). You can also add emojis if you wish!
 
-![Example of a Tier with an emoji](../.gitbook/assets/collectives_tiers-and-goals_tiers-emoji-button.png)
+![Example of a Tier with an emoji](../../.gitbook/assets/collectives_tiers-and-goals_tiers-emoji-button.png)
 
 #### **Goal**
 
@@ -86,11 +86,11 @@ Target amount you're trying to raise in this Tier.
 
 If you want to force the creation of a page for this tier. Here's what it looks like:
 
-![](../.gitbook/assets/collectives_tiers-and-goals_tiers-standalone-page.png)
+![](../../.gitbook/assets/collectives_tiers-and-goals_tiers-standalone-page.png)
 
 You can access it from your Collective page by clicking on **Read more**.
 
-![](../.gitbook/assets/collectives_tiers-and-goals_tiers-read-more.png)
+![](../../.gitbook/assets/collectives_tiers-and-goals_tiers-read-more.png)
 
 To add more Tiers, click the blue "add another tier" button.
 

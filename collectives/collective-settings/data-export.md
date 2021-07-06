@@ -6,11 +6,11 @@ To see the data export options, reveal the dropdown menu by clicking on your use
 The gear icon will only appear if you are a Collective admin.
 {% endhint %}
 
-![](../.gitbook/assets/collectives_data-export_dropdown-menu_2020-04-01.png)
+![](../../.gitbook/assets/collectives_data-export_dropdown-menu_2020-04-01.png)
 
 On the settings page, go to **Export**.
 
-![](../.gitbook/assets/collectives_data-export_settings-page_export-highlight_2020-04-01%20%281%29.png)
+![](../../.gitbook/assets/collectives_data-export_settings-page_export-highlight_2020-04-01%20%281%29.png)
 
 On this page, you can export your data into:
 
@@ -24,7 +24,7 @@ On this page, you can export your data into:
 
 Export an HTML script to use on your website, showing your financial contributors.
 
-![](../.gitbook/assets/screen-shot-2019-05-31-at-11.59.36-am.png)
+![](../../.gitbook/assets/screen-shot-2019-05-31-at-11.59.36-am.png)
 
 ## Export images
 
@@ -38,7 +38,7 @@ Code:
 
 Result:
 
-![](../.gitbook/assets/screen-shot-2019-05-31-at-12.05.35-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-05-31-at-12.05.35-pm.png)
 
 ### Contributor image
 
@@ -61,7 +61,7 @@ Code:
 
 Result:
 
-![](../.gitbook/assets/screen-shot-2019-05-31-at-12.09.13-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-05-31-at-12.09.13-pm.png)
 
 ## Export CSV
 

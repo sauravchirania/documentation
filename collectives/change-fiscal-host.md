@@ -26,7 +26,7 @@ Nothing! Changing hosts will not affect your existing recurring financial contri
 Before starting the process to change Fiscal Hosts, get in touch with your new Fiscal Host to confirm they are ready to approve your request to join them.
 {% endhint %}
 
-**1.** [Zero the balance](zero-collective-balance.md) of your Collective
+**1.** [Zero the balance](collective-settings/zero-collective-balance.md) of your Collective
 
 **2.** Go to your Collective page, click on the gear icon and head to the Fiscal Host page.
 

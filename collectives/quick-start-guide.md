@@ -8,7 +8,7 @@ In order to receive money or pay out expenses, you need a [Fiscal Host](../fisca
 
 ### 1. Make your Collective your own
 
-Update your images and main color and add about info. [Here's how](customize-collective.md).
+Update your images and main color and add about info. [Here's how](collective-settings/customize-collective.md).
 
 ### 2. Add Core Contributors
 
@@ -16,7 +16,7 @@ If you have collaborators on your project who can help you manage your page and 
 
 ### 3. Add Financial Contributors to your GitHub and website
 
-Check the many ways you can export your data on [Data Export](data-export.md) and our diversity of [Buttons & Banners](widgets.md).
+Check the many ways you can export your data on [Data Export](collective-settings/data-export.md) and our diversity of [Buttons & Banners](widgets.md).
 
 ### 4. Start tracking expenses
 
@@ -24,7 +24,7 @@ Check the many ways you can export your data on [Data Export](data-export.md) an
 
 ### 5. Spread the word
 
-You can connect your Twitter account to your collective and automatically thank your backers. [Here's how](integrations.md#twitter-integration).
+You can connect your Twitter account to your collective and automatically thank your backers. [Here's how](collective-settings/integrations.md#twitter-integration).
 
 ### 6.  Launch!
 

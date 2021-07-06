@@ -12,15 +12,15 @@
 
 1. Go to your Collective page and click the gear next to your Collective logo.
 
-![Settings location on Collective page](../.gitbook/assets/collectives_team_settings_2021-04-27.png)
+![Settings location on Collective page](../../.gitbook/assets/collectives_team_settings_2021-04-27.png)
 
 2. Head to the **Team** tab. Here you can add, remove, or change people and roles. 
 
-![Team section in Settings](../.gitbook/assets/collectives_team_settings_team_2021-04-27.png)
+![Team section in Settings](../../.gitbook/assets/collectives_team_settings_team_2021-04-27.png)
 
 3. Click the Add Team Member button 
 
-![Add Team Member Button on Team Page](../.gitbook/assets/collectives_team_add_team_member_2021-04-27.png)
+![Add Team Member Button on Team Page](../../.gitbook/assets/collectives_team_add_team_member_2021-04-27.png)
 
 {% hint style="info" %}
 Only **Admins** can edit the Collective and approve expenses. Be sure to select the right role option.
@@ -28,13 +28,13 @@ Only **Admins** can edit the Collective and approve expenses. Be sure to select 
 
 4. Once you are done, click on **Save** at the bottom of the page.
 
-![](../.gitbook/assets/image%20%286%29%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%286%29%20%281%29%20%281%29.png)
 
 5. Users will receive an invite to join the Collective. They will not be displayed publicly until this invitation is accepted.
 
 6. To remove a Team Member click the Remove Team Member button next to the corresponding user. 
 
-![Remove Team Member Button](../.gitbook/assets/collectives_team_remove_team_member_2021-04-21.png)
+![Remove Team Member Button](../../.gitbook/assets/collectives_team_remove_team_member_2021-04-21.png)
 
 ## Re-send email invitations
 

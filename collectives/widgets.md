@@ -69,5 +69,5 @@ Example:
 ## Related:
 
 * Website [badge](../financial-contributors/website-badge.md) showing the Collectives you back
-* [Export SVGs](data-export.md) showing your supporters, sponsors, or contributors
+* [Export SVGs](collective-settings/data-export.md) showing your supporters, sponsors, or contributors
 

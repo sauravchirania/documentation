@@ -55,7 +55,7 @@ Individuals who are major contributors and represent the Collective with their f
 
 A type of Core Contributor with additional permissions, so they can edit the Collective, change settings, approve expenses, make financial contributions to other Collectives, and receive messages from people trying to contact the Collective.
 
-Core Contributors want to make their communities sustainable financially, so receiving financial contributions is first on their priority list. They use tools like [tiers](../collectives/tiers-goals.md), [goals](../collectives/tiers-goals.md), and [social media sharing](../collectives/integrations.md#twitter-integration). They are interested in managing and growing their communities by creating [events](../collectives/events.md) and [sending updates](../collectives/communication.md).
+Core Contributors want to make their communities sustainable financially, so receiving financial contributions is first on their priority list. They use tools like [tiers](../collectives/collective-settings/tiers-goals.md), [goals](../collectives/collective-settings/tiers-goals.md), and [social media sharing](../collectives/collective-settings/integrations.md#twitter-integration). They are interested in managing and growing their communities by creating [events](../collectives/events.md) and [sending updates](../collectives/communication.md).
 
 #### Accountant
 

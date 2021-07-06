@@ -16,7 +16,7 @@ The decision is up to you as a project. Some projects are informal, and any Core
 
 ### Can I give guidance to expense submitters?
 
-Yes, we recommend you have an [expense policy](expense-policy.md), which will show up at the top of the submit expense page.
+Yes, we recommend you have an [expense policy](collective-settings/expense-policy.md), which will show up at the top of the submit expense page.
 
 ### What happens when I click Approve?
 

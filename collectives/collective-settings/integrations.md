@@ -16,7 +16,7 @@ See [this link](https://api.slack.com/messaging/webhooks#getting_started) to lea
 When adding a discord webhook, make sure to use the [Slack-compatible](https://discord.com/developers/docs/resources/webhook#execute-slackcompatible-webhook) URL \(ending with `/slack`\).
 {% endhint %}
 
-![](../.gitbook/assets/selection_002.png)
+![](../../.gitbook/assets/selection_002.png)
 
 ## Other chat integrations \(Mattermost, Gitter\)
 
@@ -26,7 +26,7 @@ For Mattermost or Gitter, first set up a webhook as described above, and then [s
 
 Connect your Twitter to automatically thank new supporters who contribute to your Collective! To do so, go to your Collective page, click on the gear icon, and head to the **Connected Accounts** page.
 
-![](../.gitbook/assets/collectives_integrations_connected-accounts.png)
+![](../../.gitbook/assets/collectives_integrations_connected-accounts.png)
 
-![](../.gitbook/assets/connect-twitter.png)
+![](../../.gitbook/assets/connect-twitter.png)
 

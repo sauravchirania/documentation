@@ -1,14 +1,14 @@
 # Zero Collective Balance
 
-Before [changing hosts](add-fiscal-host.md#changing-fiscal-host) or [closing a Collective](closing-a-collective.md), the balance must be at zero.
+Before [changing hosts](../add-fiscal-host.md#changing-fiscal-host) or [closing a Collective](closing-a-collective.md), the balance must be at zero.
 
 You can move money out of your Collective in several ways:
 
-* [Submitting expenses](../expenses-and-getting-paid/submitting-expenses.md) to withdraw funds.
-* [Donating to another Collective](../financial-contributors/collective-to-collective.md) in the same fiscal host.
+* [Submitting expenses](../../expenses-and-getting-paid/submitting-expenses.md) to withdraw funds.
+* [Donating to another Collective](../../financial-contributors/collective-to-collective.md) in the same fiscal host.
 * Giving the remaining balance to your Fiscal Host. You can access that option by visiting your Collective's page, clicking on the gear icon next to your logo, and heading to the **Advanced** page.
 
-![](../.gitbook/assets/collectives_empty-balance.png)
+![](../../.gitbook/assets/collectives_empty-balance.png)
 
 ## Leftover Balance
 
