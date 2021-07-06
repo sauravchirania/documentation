@@ -4,9 +4,13 @@
 
 A lot of Collectives like to periodically email their Financial Contributors, to let them know what their donations are enabling, express thanks, or notify everyone of a change. Similarly, hosts often need to contact the administrators of the Collectives they are hosting.
 
-To create an Update, go to your Collective page, head to the **Updates** section and click on **+ Create a new update**. Updates will be emailed and appear in the Updates section of your Collective page.
+To create an Update, go to your Collective page, head to the **Connect** section and click on **+ New update**. Updates will be emailed and appear in the Updates section of your Collective page.
 
-![](../.gitbook/assets/collectives_updates-and-comms_create-new-update.png)
+![](../.gitbook/assets/collectives_updates-and-comms_updates_2021-7-6.png)
+
+We offer a rich editor to write your fantastic updates to your Contributors! Each update requires a Title and content for the Message. You can also write and publish exclusive updates for your Contributors by selecting the box on **Private update**.
+
+![](../.gitbook/assets/collectives_updates-and-comms_newupdates_2021-7-6.png)
 
 #### Target audience
 
@@ -23,26 +27,6 @@ If you're a fiscal host, you'll have the option to pick the target audience befo
 {% hint style="info" %}
 You can also write and publish Updates through email by sending a message to **backers@`$COLLECTIVE`.opencollective.com** \(in which `$COLLECTIVE` is the slug of your Collective, which appears in your Collective URL\).
 {% endhint %}
-
-### Web interface
-
-We offer a rich editor to write your fantastic updates to your Contributors!
-
-![](../.gitbook/assets/collectives_updates-and-comms_regular-update.png%20%281%29%20%281%29.png)
-
-#### Private updates
-
-{% hint style="warning" %}
-Hosts don't have access to the "private updates" feature yet.
-{% endhint %}
-
-You can also write and publish exclusive updates for your Contributors by selecting the box on **Private update**.
-
-![](../.gitbook/assets/collectives_updates-and-comms_private-update.png)
-
-And if you wish, you can set it to become public after a certain date.
-
-![](../.gitbook/assets/collectives_updates-and-comms_public-after.gif)
 
 ## Contacting a Collective
 
