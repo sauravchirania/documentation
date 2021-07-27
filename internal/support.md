@@ -30,7 +30,7 @@ Please add tags to tickets you work on to help our data gathering. You can see a
 If a problem doesn't have a known solution or is outside the scope of general support, the ticket can be assigned the ticket to another team member with specialist knowledge.
 
 * Engineering: for technical bugs or unknown error messages
-* Xavier: OC-EU related issues
+* Jean-François \(JF\): OC-EU related issues
 * Pia: Database changes not possible in Forest, and all other escalated issues
 
 To reassign a ticket, use the "assign to" property.
