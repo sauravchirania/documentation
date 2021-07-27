@@ -68,10 +68,6 @@ You should have received an email from HelloWorks requesting you fill out a tax 
 
 ### Special Cases
 
-#### European Bank Transfer Payments
-
-Collectives in the Europe host can request payment via bank transfer \(all other hosts can only pay with Paypal\). Compile a list of bank transfer expenses and give to Xavier to action.
-
 ### Tax Forms
 
 We have on file [W9](https://www.dropbox.com/home/Open%20Source%20Collective%20501c6/IRS/W9) or [W8-BEN/E](https://www.dropbox.com/home/Open%20Source%20Collective%20501c6/IRS/W8-BEN) forms for users, which are required if we’re paying out $600 or more to a person in a year. The Tax Forms bot will let them know to send theirs through to us via a comment on the expense. Make sure we have one on file before paying an invoice for someone who has earned $600 or more.
