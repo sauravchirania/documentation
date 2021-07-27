@@ -106,6 +106,8 @@ Brussels, Belgium
 
 ### Team Map
 
+This map shows the diversity of our team and the truly global approach it takes to bring you Open Collective. 
+
 English, Spanish, Portuguese, Hebrew, Russian, Japanese, French and German are just some of the languages spoken by our team. 
 
 ![](../.gitbook/assets/about_team_map_2021-07-27.png)
