@@ -132,20 +132,6 @@ There are different ways to get in the loop of design-related tasks in GitHub:
 
 ![](../../.gitbook/assets/8%20%282%29.png)![](../../.gitbook/assets/9%20%281%29.png)
 
-### [TeamWeek](https://teamweek.com/)
-
-TeamWeek is the platform where our progress will be tracked and communicated with a roadmap.
-
-When you first enter TeamWeek you see again the same effort breakdown:
-
-![](../../.gitbook/assets/10%20%281%29%20%281%29%20%281%29.png)
-
-Inside any of those roadmaps you will see something like this:
-
-Where each epic will be tracked consistently throughout all of our tools.
-
-![](../../.gitbook/assets/11%20%281%29.png)
-
 ## Getting familiar with the process of OC Design
 
 The process to open-up the design collective is based on a specific concept**:**
