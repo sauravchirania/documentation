@@ -6,6 +6,8 @@ Virtual cards are an additional benefit offered to collectives through hosts. Ho
 
 Some Hosts accept requests for virtual cards. If you would like to request a Virtual Card select 'request card' from the 'action' menu on your collective's profile page.
 
+![Request a virtual card from your host from your collective&apos;s profile page](../.gitbook/assets/requestcard.png)
+
 ## Using a virtual card
 
 Virtual cards can be used to make purchases on behalf of your collective. Each card has an individual who is assigned the card for the purpose of filing expenses. Expenses are automatically created when the card is used and the assignee will be notified.
