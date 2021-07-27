@@ -222,15 +222,7 @@ _340 S. Lemon Ave. \#3717, Walnut, Ca. 91789, USA_
 
 ## Design Collective
 
-Design operates [as a Collective](http://opencollective.com/design) out of Guadalajara.
-
-Cuiki \(Darío [cuiki@opencollective.com](mailto:cuiki@opencollective.com)\) is the director of the Collective.
-
-They use [Figma](https://www.figma.com/) to collaborate. Please email Cuiki for access.
-
-Contributing Guidelines and Design System are [here](https://docs.opencollective.com/help/contributing/design).
-
-All expenses to the design team must be submitted on their collective.
+Coming Soon
 
 ## Engineering Collective
 
