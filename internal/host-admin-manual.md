@@ -68,11 +68,6 @@ You should have received an email from HelloWorks requesting you fill out a tax 
 
 ### Special Cases
 
-#### Do not touch
-
-* ‘Idonethis’ expenses
-* ‘Maintainer.io’ expenses
-
 #### European Bank Transfer Payments
 
 Collectives in the Europe host can request payment via bank transfer \(all other hosts can only pay with Paypal\). Compile a list of bank transfer expenses and give to Xavier to action.
