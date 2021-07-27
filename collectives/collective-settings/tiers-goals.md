@@ -109,7 +109,6 @@ Here is a template for a basic support tier for your collective:
 With the above tier example, your responsibilities as a Collective are:
 
 * Adding the sponsor's logo on your website
-* Merging the Open Collective's PR on your readme to show their logo \(or doing one yourself\)
 * Engaging with them to provide the support you've agreed to via the channels specified
 
 The Sponsor's responsibilities are:
