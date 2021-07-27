@@ -34,7 +34,7 @@ Write blog posts and share success stories! We offer a $100 blog bounty to any C
 
 ## **Design**
 
-Help Collectives make a logo or a background image! Check out the [Design Collective and how they work](https://blog.opencollective.com/open-collective-design/).
+Coming soon! 
 
 ## **Code**
 
