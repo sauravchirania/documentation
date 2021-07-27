@@ -18,7 +18,11 @@ Toggle the 'automatically pause and resume cards' option to automatically pause 
 
 ## Enabling users to request virtual cards
 
-It is possible to create and assign virtual cards to Collectives without enabling users to request them. Toggle the 'allow collectives to request a card' option to allow Collectives to request a card. Collectives can request a Virtual Card by clicking 'Request a card' from their
+It is possible to create and assign virtual cards to Collectives without enabling users to request them. 
+
+Toggle the 'allow collectives to request a card' option to allow Collectives to request a card. Collectives can request a Virtual Card by clicking 'Request a card' from their profile page:
+
+![Collective Admin&apos;s can request a virtual card from their Collective&apos;s profile pages](../.gitbook/assets/requestcard.png)
 
 ## Creating and assigning cards
 

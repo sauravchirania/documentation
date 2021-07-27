@@ -6,7 +6,7 @@ Virtual cards are an additional benefit offered to collectives through hosts. Ho
 
 Some Hosts accept requests for virtual cards. If you would like to request a Virtual Card select 'request card' from the 'action' menu on your collective's profile page.
 
-![Request a virtual card from your host from your collective&apos;s profile page](../.gitbook/assets/requestcard.png)
+![Request a virtual card from your host from your collective&apos;s profile page](../.gitbook/assets/requestcard%20%281%29.png)
 
 ## Using a virtual card
 
