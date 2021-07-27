@@ -104,10 +104,9 @@ Brussels, Belgium
 
 [Twitter](https://twitter.com/xdamman), [LinkedIn](https://www.linkedin.com/in/xavierdamman)
 
-```markup
-<iframe src="https://www.google.com/maps/d/embed?mid=1Cti5GyLESLXmHSTWKAQ_ZDOqOat9tRLG" width="640" height="480"></iframe>
+### Team Map
 
-```
+English, Spanish, Portuguese, Hebrew, Russian, Japanese, French and German are just some of the languages spoken by our team. 
 
-
+![](../.gitbook/assets/about_team_map_2021-07-27.png)
 
