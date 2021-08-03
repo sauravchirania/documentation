@@ -1,12 +1,10 @@
----
-description: >-
-  Below you’ll find information to help you get started. Please read carefully &
-  feel free to let us know if something isn’t clear enough or missing. You can
-  email Pia directly at [pia@opencollective.com](pia@opencollective.com).
-
 # Welcome Document
 
-### Index
+description: &gt;- Below you’ll find information to help you get started. Please read carefully & feel free to let us know if something isn’t clear enough or missing. You can email Pia directly at [pia@opencollective.com](https://github.com/opencollective/documentation/tree/15ced112abfcb2711748a7352f4cdbcff07092c2/internal/pia@opencollective.com).
+
+## Welcome Document
+
+#### Index
 
 Some of the information below is included in different parts of this documentation. The goal is to provide an easy Welcome Document with all the relevant information new Open Collective Team Members need to get started.
 
@@ -22,13 +20,13 @@ Some of the information below is included in different parts of this documentati
 * [Engineering Collective](https://docs.opencollective.com/help/internal/welcome-document#engineering-collective)
 * [Checklist](https://docs.opencollective.com/help/internal/welcome-document#onboarding-checklist)
 
-## The Open Collective Way
+### The Open Collective Way
 
-#### Mission
+**Mission**
 
 We are on a mission to enable communities to be sustainable and fundraise in full transparency without having to create a legal entity to do it.
 
-#### Values
+**Values**
 
 Sustainability: We can’t achieve our mission unless we are sustainable doing it. We take a broad definition of sustainability as financial, collective and individual sustainability.
 
@@ -38,7 +36,7 @@ Resilience \(people come and go\): A successful company survives its founders. W
 
 Transparency: Our[ data](https://drive.google.com/drive/u/1/folders/1OwRpuIehFQxRnJIRAksQ1Jd2xXZrhz5L) is public as well as[ our revenue numbers](https://docs.google.com/spreadsheets/u/1/d/1uNDoafJyI50o128tjV2HjJGrf8l4bGOorJdSL8qgPyk/edit?usp=drive_web&ouid=113376999794383062808), our investors update are regularly published[ in our medium](https://medium.com/open-collective) and our salary tiers are published here.
 
-## Core Contributors Guidelines
+### Core Contributors Guidelines
 
 Work in the open. It saves a lot of time. There should be little to no distinction between an internal and external contributor.
 
@@ -68,9 +66,9 @@ You’re responsible for deploying what you develop
 
 It’s everyone’s responsibility to make sure we are all as autonomous as possible.
 
-## Communication
+### Communication
 
-#### Slack
+**Slack**
 
 We use [Slack](http://slack.opencollective.com) to communicate. Make sure you join the appropriate channels for your area \(\#engineering \#design \#internal-support \#support etc\) We try to have most conversations on open channels. We will invite you to the private Team channel which we use for internal conversations.
 
@@ -89,7 +87,7 @@ Good Practices for Slack:
 * Use public channels by default
 * Thread replies for ease of flow
 
-#### GitHub
+**GitHub**
 
 Conversations about features, feedback, bugs, etc must be reported on GitHub. This allows us to properly track them.
 
@@ -99,11 +97,11 @@ Bugs: We provide a template for bug reporting - Please follow up as much as poss
 
 Features: Features have a template that starts with the user. For example, As a Collective Admin I want to…
 
-#### Freshdesk
+**Freshdesk**
 
 We use Freshdesk to track user support requests. If you receive a support inquiry that can’t be solved immediately \(e.g. on Slack or email\), you can create a Freshdesk ticket for followup. You may be assigned support tickets that relate to projects you’re working on.
 
-#### Weekly Calls
+**Weekly Calls**
 
 Monday 330pm CEST / 930am EST: Weekly meeting: weekly planning, review of To Dos, numbers and open issues. This is the [document](https://docs.google.com/document/d/1tYVbaQyU1GMk53AfG-w6w60A9A_m6BXCY2zhbHdfNAE/edit) we use to track our weekly goals.
 
@@ -115,7 +113,7 @@ Monday and Friday calls [are recorded](https://drive.google.com/open?id=1MKLkUbh
 
 Daily Calls: Tuesday-Thursday 3pm CEST / 9AM EST: daily standup. Rough account of what we are up to & blockers.
 
-## Team Retreats
+### Team Retreats
 
 We organize quarterly Team Retreats to bring the whole team together for 3-4 days. There is an expectation that everyone \(within reason\) participates. If you live very far away from where the retreat takes place, or it’s hard for you to travel we ask you to try to come at least once a year.
 
@@ -125,7 +123,7 @@ We will cover expenses for you to join. Please submit the receipt of your travel
 
 You can find previous retreats docs [here](https://drive.google.com/drive/u/1/folders/1kJGsdlfQS5BjMsTwYEw0UdtHKs5ITU3i).
 
-## Prioritization Framework
+### Prioritization Framework
 
 To achieve that we use these questions to prioritize what gets done:
 
@@ -138,7 +136,7 @@ To achieve that we use these questions to prioritize what gets done:
 * Is this already solved elsewhere, or is it our unique contribution?
 * Can we measure the success of this?
 
-## Project Templates
+### Project Templates
 
 All projects must have an owner, metrics, and a timeframe and must follow these guidelines:
 
@@ -181,7 +179,7 @@ Metrics:
 * Way fewer issues with invoices \(fewer expense comments\)
 * Use of the new features \(ex batch expenses\)
 
-## Leave
+### Leave
 
 Vacations:
 
@@ -193,7 +191,7 @@ Parental Leave:
 * 25 days paid \(your vacations\)
 * 6 months unpaid. Please note that we are a startup that is not sustainable yet and our situation might change but we will strive to pay you again after 6 months of parental unpaid leave.
 
-## Expenses
+### Expenses
 
 Open Collective will cover the following expenses:
 
@@ -219,11 +217,11 @@ _Attention: Open Collective Inc._
 
 _340 S. Lemon Ave. \#3717, Walnut, Ca. 91789, USA_
 
-## Design Collective
+### Design Collective
 
 Coming Soon
 
-## Engineering Collective
+### Engineering Collective
 
 François \([francois@opencollective.com](mailto:francois@opencollective.com)\) is the director of the Engineering team.
 
@@ -239,7 +237,7 @@ These are the [development contribution guides](https://docs.opencollective.com/
 
 You can find RFCs folder [here](https://github.com/opencollective/opencollective/tree/main/rfcs).
 
-## Onboarding checklist
+### Onboarding checklist
 
 A current team member should set the new person up with the following as needed:
 

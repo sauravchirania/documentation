@@ -1,6 +1,27 @@
 # Virtual Card Settings
 
+{% hint style="warning" %}
+**This feature is currently in closed Beta test.**
+{% endhint %}
+
 Virtual cards can be offered to collectives through Hosts. Hosts create virtual cards using our provider [Privacy.com](https://privacy.com/) and assign them to a Collective. Anyone with access to that card can then use it to make payments on behalf of the Collective. When a payment is made an expense is automatically created for the Collective and the owner is notified to attach a receipt. Virtual Cards are particularly useful for recurring payments like hosting a website.
+
+## Connecting to Privacy
+
+* Get the API Key from your Privacy.com account:
+  * Open a new tab and go to your [Privacy account settings](https://privacy.com/account).
+  * Click on "Enable API".
+  * Select "Production" environment.
+  * Enable Production Webhook and set the address to: `https://api.opencollective.com/webhooks/privacy`
+  * Copy your Production API Key for the next step.
+
+![](../.gitbook/assets/screenshot-from-2021-08-03-15-56-54.png)
+
+* Add your API key to your Collective settings:
+  * Open your Collective settings and open the "Sending Money" page.
+  * Paste your API Key in the "API Key" field and click on "Connect Privacy".
+
+![](../.gitbook/assets/screenshot-from-2021-08-03-16-04-49.png)
 
 ## Accessing Virtual Card Settings
 
@@ -11,10 +32,6 @@ To access your virtual card settings and policy select 'Virtual Cards' from your
 ## Setting a policy
 
 Hosts have complete control over when, how and to who they provide Virtual Cards. Hosts can define their own policy in the 'Virtual Card Policy Information' area.
-
-## Automatically pausing and resuming virtual cards
-
-Toggle the 'automatically pause and resume cards' option to automatically pause virtual cards if there are any incomplete expenses. If a card has been paused Collectives will not be able to use the card to make purchases until a receipt has been attached to the previous expense by the assignee. This is a protective measure to prevent abuse.
 
 ## Enabling users to request virtual cards
 
@@ -32,13 +49,13 @@ Once you have created a card on [Privacy.com](https://privacy.com/) you can assi
 
 ![Assigning a Virtual Card](../.gitbook/assets/screenshot-2021-05-12-at-12.54.06.png)
 
-Select a Collective then select a user who is responsible for this card. This user will be automatically added to expenses created when a purchase is made using this card and they will be notified and asked to provide an receipt.
+Select a Collective then select a user who is responsible for this card. This user will be automatically added to expenses created when a purchase is made using this card and they will be notified and asked to provide a receipt.
 
 Click 'Save Card' to save the card to the Collective.
 
 ## Viewing Card details
 
-You can view all cards assigned to Collectives from the Virtual Cards settings page. Here you can filter cards by status, merchant and Collective.
+You can view all cards assigned to Collectives from the Virtual Cards settings page. Here you can filter cards by status, merchant, and Collective.
 
 ![Filter virtual cards by status, merchant or collective.](../.gitbook/assets/screenshot-2021-05-12-at-16.11.02.png)
 
@@ -54,9 +71,7 @@ Virtual Card spending limits can be modified using Privacy.com. We do not provid
 
 If you need to make a change to initiative's card, please update to the correct amount in Privacy.com, and then contact us at [support@opencollective.com](mailto:support@opencollective.com) with a screenshot so that our team can make the adjustment on the platform.
 
-## Pausing, resuming and deleting a card
+## Pausing, resuming, and deleting a card
 
-To pause a card select 'pause card' from the actions menu from the virtual cards page. Paused cards cannot be used to make payments, any recurring payments will also be paused. To resume a card select 'Unpause card' from the actions menu. To remove a card from the collective select 'Delete card' from the Actions menu.
-
-![Pause, resume and delete cards from the Action menu.](../.gitbook/assets/screenshot-2021-05-12-at-15.29.39.png)
+Pausing, resuming, and deleting should be done through Privacy's dashboard. Don't worry about syncing the information to the platform, our work will take care of updating the card state or deleting the cards that were removed from your Privacy account every hour.
 

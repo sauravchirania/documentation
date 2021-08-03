@@ -56,7 +56,7 @@ Depending on [the permission level](https://help.github.com/en/github/setting-up
 
 Use the search bar to filter repositories by name:
 
-![](../../.gitbook/assets/fiscal-hosts_open-source-collective_search-bar-pick-a-repo_2019-10-28.gif)
+![](../../.gitbook/assets/fiscal-hosts_open-source-collective_search-bar-pick-a-repo_2019-10-28%20%282%29.gif)
 
 ## Manual verification
 

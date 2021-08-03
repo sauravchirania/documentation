@@ -18,7 +18,7 @@ You should have received a receipt by email from Open Collective at the time of 
 2. Click on your name in the top right-hand corner. 
 3. Under **My Account** click on **Profile**. 
 
-![](../.gitbook/assets/financial_contributors_receipts_profile_2021-06-22.png)
+![](../.gitbook/assets/financial_contributors_receipts_profile_2021-06-22%20%281%29%20%281%29.png)
 
 4.  Scroll down to 'Budget and click 'Contributions'
 
@@ -28,11 +28,11 @@ You should have received a receipt by email from Open Collective at the time of 
 
 7. Use the Download Receipts to download all receipts from a specific time period.
 
-![](../.gitbook/assets/financial_contributors_receipts_download_receipts_2021-06-22%20%283%29.gif)
+![](../.gitbook/assets/financial_contributors_receipts_download_receipts_2021-06-22%20%283%29%20%283%29.gif)
 
 6. Use the Search Function to find a specific transaction.
 
-![](../.gitbook/assets/financial_contributiors_receipts_searc-h_2021-06-22%20%281%29.png)
+![](../.gitbook/assets/financial_contributiors_receipts_searc-h_2021-06-22%20%282%29.png)
 
 8. Once you've found the correct Transaction Click 'View Details'. 
 

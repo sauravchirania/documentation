@@ -126,11 +126,11 @@ There are different ways to get in the loop of design-related tasks in GitHub:
 
 1. [**Project Boards**](https://github.com/opencollective/opencollective/projects)
 
-![](../../.gitbook/assets/7%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/7%20%281%29%20%282%29.png)
 
 1. [**Searching for design labels in the complete issue list.**](https://github.com/opencollective/opencollective/issues?q=is%3Aopen+is%3Aissue+label%3Adesign)
 
-![](../../.gitbook/assets/8%20%282%29.png)![](../../.gitbook/assets/9%20%281%29.png)
+![](../../.gitbook/assets/8%20%282%29.png)![](../../.gitbook/assets/9%20%282%29.png)
 
 
 
