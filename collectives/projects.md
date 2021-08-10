@@ -34,7 +34,7 @@ Updates are disabled by default on projects. To enable updates for a project cli
 
 Once enabled administrators can create and publish updates using the same steps described for Collectives.
 
-### Moving funds between Collectives and Projects
+### Moving funds from Collectives to Projects
 
 To move funds from a Collective to a Project:
 
@@ -44,13 +44,15 @@ To move funds from a Collective to a Project:
 4. Select the parent Collective from the 'Contribute as' dropdown  
 5. Select the Collective's balance as the payment method
 
-To move funds from a Project to a Collective follow the steps above, switching 'Collective' for 'Project' and visa-versa. 
-
-### Closing a Project
+### Zeroing a balance and closing a Project
 
 If you wish to close down a Project you can Archive it or Delete it, in either case you will need to zero the project balance.
 
-From the Project profile page click 'Settings' and select 'Advanced' from the sidebar. From here you can archive a Project, disabling any future activity. If there has been no financial activity you can delete the Project, removing all of the data asociated with the Project. 
+From the Project profile page click 'Settings' and select 'Advanced' from the sidebar:
+
+![Empty a Project balance, archive or delete a Project from the Advanced menu. ](../.gitbook/assets/screenshot-2021-08-10-at-10.48.34.png)
+
+From here you can move the Project's remaining budget to its parent Collective and archive a Project, disabling any future activity. If there has been no financial activity you can delete the Project, removing all of the data asociated with the Project. 
 
 Note that, like Collectives, you cannot delete a project if there are financial transactions associated with it. This enables us to ensure the accuracy and integrity of the ledger.
 
