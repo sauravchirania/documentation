@@ -16,12 +16,6 @@ If you can't find the answer you're looking for, contact us at [support@opencoll
 
 ## Find your way to the right page
 
-### Reading more about our community
-
-Read our **Terminology** page to know more about all key members of our community:
-
-{% page-ref page="about/terminology.md" %}
-
 ### Using our search bar
 
 Use the search bar on the top right to search for specific words or phrases:
@@ -30,7 +24,7 @@ Use the search bar on the top right to search for specific words or phrases:
 
 ### Browsing sections
 
-Want to know more about Open Collective? Read our **About** section:
+Use the menu bar on the lefthand side of the screen to browse the various pages.
 
 {% page-ref page="about/introduction.md" %}
 
