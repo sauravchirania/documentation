@@ -4,7 +4,7 @@ description: 'Learn how to edit and add new media, pages and sections'
 
 # Suggesting changes
 
-Want to make our documentation even better? First of all, thank you! This page will guide you through our contribution process, presenting you to:
+Want to make our documentation even better? First of all, thank you! This page will guide you through our contribution process, including:
 
 * The tools we use to build our documentation
 * The steps you need to follow to make contributions
@@ -13,7 +13,7 @@ To edit our docs, you must have a GitHub account. If you already have one, make 
 
 ## Getting familiar with Git
 
-As collaboration in software development became more complex, involving multiple machines and developers from all over the world, the necessity of a tool that would help them work together without much friction increased. In special, they needed something that would, among other things:
+As collaboration in software development became more complex, involving multiple machines and developers from all over the world, the necessity of a tool that would help them work together without much friction increased. They realised the need for something that would:
 
 * Avoid conflicts when working with the same codebase simultaneously
 * Alert each developer if there were new updates to the source code before publishing new changes
