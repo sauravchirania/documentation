@@ -18,7 +18,7 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 ![](../.gitbook/assets/opensourcecollective.png)
 
-[Open Source Collective](https://opencollective.com/opensource) - [Documentation](http://docs.oscollective.com/) - [Website ](https://www.oscollective.org/)
+[Open Source Collective](https://opencollective.com/opensource) - [Documentation](http://docs.oscollective.org/) - [Website ](https://www.oscollective.org/)
 
 ![](../.gitbook/assets/opencollectivebrussells.png)
 
