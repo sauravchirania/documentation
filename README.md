@@ -26,6 +26,8 @@ Use the search bar on the top right to search for specific words or phrases:
 
 Use the menu bar on the lefthand side of the screen to browse the various pages.
 
+
+
 ## Overall FAQ
 
 ### What’s an Open Collective?
