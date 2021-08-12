@@ -23,7 +23,7 @@ As collaboration in software development became more complex, involving multiple
 
 They needed a _distributed version control system_.
 
-**Git** is one of the most popular distributed version control systems used in free and open source projects. Websites such as **GitLab**, **GitHub** or **Bitbucket** are some of the most popular platforms for hosting git **repositories** \(a place where all relevant files to a project are stored\). For instance, our documentation is stored in a repository called [documentation](https://github.com/opencollective/documentation) on our organization profile on GitHub, [opencollective](https://github.com/opencollective). If you **clone** our repository \(that is, make a copy our repository onto your computer\), you'll copy not only all of our files but also the history of all changes \(including who authored them\) the files went through since the repository was created!
+**Git** is one of the most popular distributed version control systems used in free and open source projects. Websites such as **GitLab**, **GitHub** or **Bitbucket** are some of the most popular platforms for hosting git **repositories** \(a place where all relevant files to a project are stored\). For instance, our documentation is stored in a repository called [documentation](https://github.com/opencollective/documentation) on our organization profile on GitHub, [opencollective](https://github.com/opencollective). If you **clone** our repository \(that is, make a copy our repository onto your computer\), you'll copy not only all of our files but also the history of all changes \(including the author \) since the repository was created!
 
 This page will cover interactions with our repository through **GitHub**, the platform on which we host our projects. This is the recommended process for those who aren't familiar with Git. If you are a more experienced contributor, feel free to adopt any other workflow you want, but remember to always take into account [GitBook's integration with GitHub](suggesting-changes.md#understanding-gitbooks-integration-with-github) when [modifying](suggesting-changes.md#editing-existing-pages) or [adding new files](suggesting-changes.md#adding-new-media), [sections, pages and subpages](suggesting-changes.md#adding-new-sections-pages-and-subpages).
 
@@ -79,7 +79,7 @@ GitBook also created a few shortcodes for special attributes. Learn more about t
 
 ## Editing existing pages
 
-**1.** Open the page you want to edit. What you see next depends on the resolution of your screen and on whether you are viewing that page zoomed in or not.
+**1.** Open the page you want to edit. What you see next depends on the resolution of your screen and whether you are viewing that page zoomed in or not.
 
 **a.** On certain occasions, you may see a button saying **Edit on GitHub** above the **Table of Contents** on the right side of the page.
 
@@ -91,7 +91,7 @@ GitBook also created a few shortcodes for special attributes. Learn more about t
 
 **2.** Click on the GitHub icon. This will direct you to the Markdown file in which the contents of the page are stored.
 
-**3.** Click on the pencil icon \(labeled "Edit this file"\). This will open a basic editing environment in which you are able to costumize aspects like line wrap and indentation.
+**3.** Click on the pencil icon \(labeled "Edit this file"\). This will open a basic editing environment in which you are able to customize aspects like line wrap and indentation.
 
 ![Screenshot of a version of our Contributing page on GitHub showing the Edit this file button as a pencil icon.](../../.gitbook/assets/screen-shot-2019-04-29-at-4.42.55-pm%20%281%29.png)
 
@@ -117,13 +117,13 @@ Media of any kind \(images, GIFs...\) should be stored on the **.gitbook/assets*
 Any new media you add to the documentation should be named following this naming scheme:
 
 ```text
-Documentation_section_Page_in_which_it_will_be_added_Brief_description_YYYY-MM-DD
+Section_Page_Description_YYYY-MM-DD
 ```
 
 Here's how it looks like for media added to the **Suggesting changes** page:
 
 ```text
-Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png
+Contributing_Documentation_Suggesting_changes_Editing_exsting_pages_2021-08-12.png
 ```
 {% endhint %}
 
