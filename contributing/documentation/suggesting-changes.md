@@ -13,7 +13,7 @@ To edit our docs, you must have a GitHub account. If you already have one, make 
 
 ## Getting familiar with Git
 
-As collaboration in software development became more complex, involving multiple machines and developers from all over the world, the necessity of a tool that would help them work together without much friction increased. They realised the need for something that would:
+As collaboration in software development became more complex, involving multiple machines and developers from all over the world, the need for a tool that would help collaborators work together without much friction increased. They envisioned a tool which could:
 
 * Avoid conflicts when working with the same codebase simultaneously
 * Alert each developer if there were new updates to the source code before publishing new changes
@@ -21,9 +21,9 @@ As collaboration in software development became more complex, involving multiple
 * Help investigating what changes caused an error or a break
 * Revert any changes if needed
 
-They needed _distributed version control system_.
+They needed a _distributed version control system_.
 
-**Git** is one of the most popular distributed version control systems used in free and open source projects. Websites such as **GitLab**, **GitHub** or **Bitbucket** are some of the most popular platforms for hosting git **repositories** \(a place where all relevant files to a project are stored\). For instance, our documentation is stored in a repository called [documentation](https://github.com/opencollective/documentation) on our organization profile on GitHub, [opencollective](https://github.com/opencollective). And if you **clone** our repository \(that is, make a copy our repository to your computer\), you'll copy not only all of our files but also the history of all changes they went through since it was created \(including who authored them\)!
+**Git** is one of the most popular distributed version control systems used in free and open source projects. Websites such as **GitLab**, **GitHub** or **Bitbucket** are some of the most popular platforms for hosting git **repositories** \(a place where all relevant files to a project are stored\). For instance, our documentation is stored in a repository called [documentation](https://github.com/opencollective/documentation) on our organization profile on GitHub, [opencollective](https://github.com/opencollective). If you **clone** our repository \(that is, make a copy our repository onto your computer\), you'll copy not only all of our files but also the history of all changes \(including who authored them\) the files went through since the repository was created!
 
 This page will cover interactions with our repository through **GitHub**, the platform on which we host our projects. This is the recommended process for those who aren't familiar with Git. If you are a more experienced contributor, feel free to adopt any other workflow you want, but remember to always take into account [GitBook's integration with GitHub](suggesting-changes.md#understanding-gitbooks-integration-with-github) when [modifying](suggesting-changes.md#editing-existing-pages) or [adding new files](suggesting-changes.md#adding-new-media), [sections, pages and subpages](suggesting-changes.md#adding-new-sections-pages-and-subpages).
 
