@@ -16,6 +16,10 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 [Open Collective Foundation](https://opencollective.com/foundation) - [Documentation](https://docs.opencollective.foundation/) - [Website ](https://opencollective.foundation/)
 
+![](../.gitbook/assets/opensourcecollective.png)
+
+[Open Source Collective](https://opencollective.com/opensource) - [Documentation](http://docs.oscollective.com/) - [Website ](https://www.oscollective.org/)
+
 ![](../.gitbook/assets/opencollectivebrussells.png)
 
 [Open Collective Brussels](https://opencollective.com/brussels) - [Documentation ](https://docs.opencollective.com/brussels/)
@@ -27,10 +31,6 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 ![](../.gitbook/assets/thesocialchangeagency.png)
 
 [The Social Change Agency](https://opencollective.com/the-social-change-nest) - [Documentation](https://docs.google.com/document/d/1zHArRkjHIstk8b_rMDhHGFnKLfWYCeVhLYLWHEEunlY/edit) - [Website](https://thesocialchangeagency.org/)
-
-![](../.gitbook/assets/opensourcecollective.png)
-
-[Open Source Collective](https://opencollective.com/opensource) ~ Documentation Coming Soon - [Website ](https://www.oscollective.org/)
 
 If you would like your Documentation linked here please get in touch [support@opencollective.com](mailto:support@opencollective.com)
 
