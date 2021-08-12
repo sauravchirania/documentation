@@ -153,7 +153,7 @@ Contributing_Documentation_Suggesting_changes_Editing_exsting_pages_2021-08-12.p
 
 **6.** Create your pull request normally. The base repository should be **opencollective/documentation** using the **v2 branch** as the base and the head repository should be **your fork** using the **new-assets** branch as a comparison.
 
-![Screenshot of the Open pull request page showing a comparison between the base repository \(opencollective/documentation on the v2 branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_documentation_suggesting-changes_new-assets-pr_2020-01-29_15-26.png)
+![Screenshot of the Open a pull request page showing a comparison between the base repository \(opencollective/documentation on the v2 branch\) and the head repository \(your fork on the branch new-assets\)](../../.gitbook/assets/contributing_documentation_suggesting-changes_new-assets-pr_2020-01-29_15-26.png)
 
 ## Adding new sections, pages and subpages
 
@@ -161,7 +161,7 @@ Contributing_Documentation_Suggesting_changes_Editing_exsting_pages_2021-08-12.p
 Please create an issue on our documentation repository to discuss your ideas before taking any action.
 
 1. Go to [**our Issue section**](https://github.com/opencollective/opencollective/issues) and click on **New issue**. 
-2. Describe what changes you are proposing and the motivation behind them: how will them improve our documentation? How should we proceed?
+2. Describe what changes you are proposing and the motivation behind them i.e. how will them improve our documentation? How should we proceed?
 3. Click on **Submit new issue**.
 {% endhint %}
 
