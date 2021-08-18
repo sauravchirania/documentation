@@ -139,7 +139,7 @@ Yes, you will receive an invoice emitted by the host of the collective \(for exa
 
 #### Can I do a Purchase Order \(PO\)?
 
-Yes, you can pay with a credit card or we can work with you to go through your Purchase Order process. Just reach out to us: [host+c6@opencollective.org](mailto:host+c6@opencollective.org).
+Hosts can work with you to go through your Purchase Order process. Just reach out to us: [support@opencollective.com](mailto:support@opencollective.com).
 
 #### What if we never were provided with support?
 
