@@ -110,5 +110,5 @@ This map shows the diversity of our team and the truly global approach it takes 
 
 English, Spanish, Portuguese, Hebrew, Russian, Japanese, French and German are just some of the languages spoken by our team. 
 
-![](../.gitbook/assets/about_team_map_2021-07-27%20%281%29.png)
+![](../.gitbook/assets/about_team_map_2021-08-18.png)
 
