@@ -12,6 +12,10 @@ Some Hosts accept requests for virtual cards. If you would like to request a Vir
 
 Virtual cards can be used to make purchases on behalf of your collective. Each card has an individual who is assigned the card for the purpose of filing expenses. Expenses are automatically created when the card is used and the assignee will be notified.
 
+Please note that our payments provider Privacy.com does not accept payments to money transfer services like PayPal, Payoneer or Paysend. Attempts to pay for services via these providers will be declined.
+
+_In addition, some providers — most notably Google — do not accept virtual cards as a legitimate payment mechanism. We are monitoring this situation while the service is in Beta._ 
+
 ## Viewing card details
 
 To view virtual cards associated with a collective select 'virtual cards' from the Collective Settings menu:
