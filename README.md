@@ -40,7 +40,7 @@ Open Collective is great for collaborative groups, like meetups, open source pro
 
 ### How is it different from other platforms?
 
-[Open Collective is different.](product/comparison.md) It's fully transparent \(you can see where money comes from and where it goes\), and designed for ongoing communities, not individual creators or one-off campaigns.
+[Open Collective is different.](product/comparison.md) It's fully transparent \(you can see where money comes from and where it goes\) and is designed for ongoing communities, not individual creators or one-off campaigns.
 
 ### How much does it cost?
 
