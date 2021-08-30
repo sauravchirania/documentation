@@ -53,10 +53,12 @@ Subscribe to our [Talks Playlist on YouTube](https://www.youtube.com/playlist?li
 
 ## Follow us
 
-* Twitter: [@opencollect](https://twitter.com/opencollect)
-* Blog: [https://blog.opencollective.com](https://blog.opencollective.com/)
-* Instagram: [https://instagram.com/opencollectives](https://instagram.com/opencollectives)
-* Facebook: [https://facebook.com/BeOpenCollective](https://facebook.com/BeOpenCollective)
+* [Twitter](https://twitter.com/opencollect)
+* [Blog](https://blog.opencollective.com)
+* [Instagram](https://instagram.com/opencollectives)
+* [Facebook](https://www.facebook.com/OpenCollect)
+* [Linkedin ](https://www.linkedin.com/company/opencollective/)
+* [TikTok](https://www.tiktok.com/@opencollective?lang=en)
 
 ## FAQ
 
