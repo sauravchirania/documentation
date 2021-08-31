@@ -26,19 +26,17 @@
 Only **Admins** can edit the Collective and approve expenses. Be sure to select the right role option.
 {% endhint %}
 
-4. This will then bring up a form in which you can search or invite a new user. 
+4. This will then bring up a form in which you can search or invite a new user. Once you are done, click on **Save** at the bottom of the page.
 
-![](../../.gitbook/assets/collectives_team_inviteauser_2021-08-31.mov)
+![](../../.gitbook/assets/collectives_team_inviteauser_2021-08-31.gif)
 
-5. Once you are done, click on **Save** at the bottom of the page.
+5. Users will receive an invite to join the Collective. They will not be displayed publicly until this invitation is accepted. You will then see the new user that you have invited as pending until the invitation is accepted. 
 
-![](../../.gitbook/assets/image%20%286%29%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/collectives_team_inviteduser_2021-08-31.png)
 
-5. Users will receive an invite to join the Collective. They will not be displayed publicly until this invitation is accepted.
+6. To edit a Team Member click the edit \(pencil\) button. This will allow you to edit the user's permissions and remove a user if you wish. 
 
-6. To remove a Team Member click the Remove Team Member button next to the corresponding user. 
-
-![Remove Team Member Button](../../.gitbook/assets/collectives_team_remove_team_member_2021-04-21.png)
+![](../../.gitbook/assets/collectives_team_edituser_2021-08-31.png)
 
 ## Re-send email invitations
 
