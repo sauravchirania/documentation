@@ -53,7 +53,7 @@ Expenses are visible publicly, so everyone can see how much money was spent and 
 
 See details about [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) and [pricing](https://opencollective.com/pricing).
 
+### How can I pause or stop accepting contributions? 
 
-
-
+Remove all tiers and turn off custom contributions. 
 
