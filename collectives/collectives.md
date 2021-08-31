@@ -43,7 +43,7 @@ Some things that make Open Collective special:
 
 For more details, see the [comparison](../product/comparison.md) page.
 
-### How does paying people work?
+### How do I pay people?
 
 Money contributed to a Collective goes to the bank account of the [Fiscal Host](../fiscal-hosts/fiscal-hosts.md). When someone wants to be paid, they [submit an expense](../expenses-and-getting-paid/submitting-expenses.md) through your Collective page. After you approve it, the person is reimbursed via PayPal.
 
@@ -52,4 +52,8 @@ Expenses are visible publicly, so everyone can see how much money was spent and 
 ### How much does it cost?
 
 See details about [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) and [pricing](https://opencollective.com/pricing).
+
+
+
+
 
