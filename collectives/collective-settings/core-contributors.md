@@ -16,17 +16,21 @@
 
 2. Head to the **Team** tab. Here you can add, remove, or change people and roles. 
 
-![Team section in Settings](../../.gitbook/assets/collectives_team_settings_team_2021-04-27.png)
+![](../../.gitbook/assets/collectives_team_teamtab_2021-08-31.png)
 
-3. Click the Add Team Member button 
+3. Click the Invite Team Member button 
 
-![Add Team Member Button on Team Page](../../.gitbook/assets/collectives_team_add_team_member_2021-04-27.png)
+![](../../.gitbook/assets/collectives_team_inviteteammember_2021-08-31.png)
 
 {% hint style="info" %}
 Only **Admins** can edit the Collective and approve expenses. Be sure to select the right role option.
 {% endhint %}
 
-4. Once you are done, click on **Save** at the bottom of the page.
+4. This will then bring up a form in which you can search or invite a new user. 
+
+![](../../.gitbook/assets/collectives_team_inviteauser_2021-08-31.mov)
+
+5. Once you are done, click on **Save** at the bottom of the page.
 
 ![](../../.gitbook/assets/image%20%286%29%20%281%29%20%281%29.png)
 
@@ -50,7 +54,7 @@ If they still can't find them, the easiest way to re-trigger the emails is:
 {% hint style="danger" %}
 ### Troubleshooting:
 
-* First thing to try is to check your spam folder. 
+* The first thing to try is to check your spam folder. 
 * If there is still no invite email, follow the instructions above to resend.  ****
 * **Make sure you clicked 'Save' at the bottom of the Add Admin page.**
 * Email [support@opencollective.com](mailto:%20support@opencollective.com)
