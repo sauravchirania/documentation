@@ -10,8 +10,6 @@ description: >-
 This functionality is still in it's experimental phase.
 {% endhint %}
 
-Events inherit the admins of the Collective.
-
 ## Create an Event
 
 Log in to your Collective and scroll down to the Events section. Click on the **Create Event** button.
@@ -59,7 +57,11 @@ You will now be able to edit your event.
 
 To delete, scroll down to the bottom and click "delete event".
 
-## I can't see my event listed or get a 404 error
+### **How can I set an admin for my event?** 
+
+Events inherit the admins of the Collective.
+
+### **I can't see my event listed or get a 404 error**
 
 You probably forgot to set the URL field when creating the event. Just write to us at [support@opencollective.com](mailto:support@opencollective.com) and we will fix it. Sorry for the inconvenience this may cause you—we are working on improving this.
 
