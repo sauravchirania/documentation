@@ -125,7 +125,6 @@
     * [Collectives](contributing/development/api/collectives.md)
     * [Events](contributing/development/api/events.md)
   * [README Integration](contributing/development/readme-integration.md)
-  * [Postgres Database](contributing/development/postgres-database.md)
   * [PayPal](contributing/development/paypal.md)
   * [TransferWise](contributing/development/transferwise.md)
   * [Post-Donation Redirect](contributing/development/post-donation-redirect.md)
