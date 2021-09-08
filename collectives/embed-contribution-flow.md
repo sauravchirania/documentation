@@ -46,6 +46,27 @@ The embed contribution flow is a way to integrate Open Collective on your own we
       <td style="text-align:left">false</td>
       <td style="text-align:left">Set this to <code>true</code> to hide the header at the top</td>
     </tr>
+    <tr>
+      <td style="text-align:left"><code>disabedlPaymentMethodTypes</code>
+      </td>
+      <td style="text-align:left">[String]</td>
+      <td style="text-align:left">null</td>
+      <td style="text-align:left">A list of payment method types to disable. Example: <code>[CREDITCARD, MANUAL, CRYPTO]</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>tags</code>
+      </td>
+      <td style="text-align:left">[String]</td>
+      <td style="text-align:left">null</td>
+      <td style="text-align:left">
+        <p>Some tags to attach to the orders. If you&apos;re embedding the contribution
+          flow on multiple pages/websites, you can use this to track from where the
+          contributions are coming from.</p>
+        <p>Max number of tags: 30</p>
+        <p>Max tag length: 32</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
