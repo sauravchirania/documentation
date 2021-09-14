@@ -42,10 +42,6 @@ Open Collective is great for collaborative groups, like meetups, open source pro
 
 [Open Collective is different.](product/comparison.md) It's fully transparent \(you can see where money comes from and where it goes\) and is designed for ongoing communities, not individual creators or one-off campaigns.
 
-### How much does it cost?
-
-[Pricing](about/pricing.md) is based on a small percentage of funds raised through the platform, 5%-10% depending on your [Fiscal Host](fiscal-hosts/fiscal-hosts.md).
-
 ### Does it work in my country?
 
 People can contribute from anywhere by credit card, with donations denominated in the [currency](product/currencies.md) of the Fiscal Host. Payouts work everywhere our payment providers, Stripe and PayPal, serve.
