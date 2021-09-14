@@ -55,7 +55,7 @@ Subscribe to our [Talks Playlist on YouTube](https://www.youtube.com/playlist?li
 
 * [Twitter](https://twitter.com/opencollect)
 * [Blog](https://blog.opencollective.com)
-* [Instagram](https://instagram.com/opencollectives)
+* [Instagram](https://www.instagram.com/opencollective/)
 * [Facebook](https://www.facebook.com/OpenCollect)
 * [Linkedin ](https://www.linkedin.com/company/opencollective/)
 * [TikTok](https://www.tiktok.com/@opencollective?lang=en)
