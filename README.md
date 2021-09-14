@@ -50,10 +50,6 @@ People can contribute from anywhere by credit card, with donations denominated i
 
 Yes! One main purpose of Open Collective is to provide unincorporated projects the legal and financial structures to provide [people](financial-contributors/financial-contributors.md) receipts and invoices.
 
-### Where can I learn more?
-
-You've come to the right place! These docs explain the whole platform in detail.
-
 ### How can I contact you?
 
 Contact us at [support@opencollective.com](mailto:support@opencollective.com) or join our [Slack](https://slack.opencollective.com)!
