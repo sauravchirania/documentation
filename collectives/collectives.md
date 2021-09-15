@@ -1,7 +1,5 @@
 # Collectives FAQ
 
-## FAQ
-
 ### What can I do with an Open Collective?
 
 * Collect financial contributions
