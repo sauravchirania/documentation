@@ -20,7 +20,7 @@ The reason we can do great things together is that each of us brings a different
 
 ## **Be respectful**
 
-We have zero tolerance for unacceptable behaviour. Being a jerk will not get you a place in this community; it will turn people away. We do not want that noise in the system. If your account is found to be engaged in any kind of unacceptable behaviour, we can close it.
+We have zero-tolerance for unacceptable behaviour. Being a jerk will not get you a place in this community; it will turn people away. We do not want that noise in the system. If your account is found to be engaged in any kind of unacceptable behaviour, we can close it.
 
 Unacceptable behaviours include but are not limited: spamming, trolling, intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business.
 
