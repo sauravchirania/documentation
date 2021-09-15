@@ -1,26 +1,14 @@
-# Newsletter
+---
+description: >-
+  We send a newsletter once a month to our wider community of users and
+  supporters. This is done via Mailchimp.
+---
 
-We send a newsletter once a month to our wider community of users and supporters. This is done via Mailchimp.
+# Newsletter
 
 ## Newsletter Process
 
-### Signups
-
 Subscribe to the Open Collective newsletter [here](http://eepurl.com/gk99zn). 
-
-### Import Recipients
-
-Users who create new platform accounts and opt-in to the newsletter need to be added manually. A developer with database access needs to export the data using the query below. Then use Mailchimp's `Import contacts` function to add them to the main mailing list.
-
-```sql
--- Export email for newsletter
-SELECT u."createdAt", c.name as full_name, "email"
-FROM "Users" u
-inner join "Collectives" c on u."CollectiveId" = c.id
-WHERE "newsletterOptIn" IS TRUE
-  AND u."deletedAt" IS NULL
-  AND u."createdAt" >= current_date - INTERVAL '2 months' -- Optional: to get only last 2 month's emails
-```
 
 ### Content
 
@@ -49,4 +37,20 @@ The monthly leaderboard is a popular section of the newsletter, showing top back
 # Default: `${process.env.HOME}/Google\ Drive/Open\ Collective`
 $  NODE_ENV="production" PG_URL="postgres://USER@HOST:5432/DB_NAME" npm run export:csv
 ```
+
+### Import Recipients
+
+Users who create new platform accounts and opt-in to the newsletter need to be added manually. A developer with database access needs to export the data using the query below. Then use Mailchimp's `Import contacts` function to add them to the main mailing list.
+
+```sql
+-- Export email for newsletter
+SELECT u."createdAt", c.name as full_name, "email"
+FROM "Users" u
+inner join "Collectives" c on u."CollectiveId" = c.id
+WHERE "newsletterOptIn" IS TRUE
+  AND u."deletedAt" IS NULL
+  AND u."createdAt" >= current_date - INTERVAL '2 months' -- Optional: to get only last 2 month's emails
+```
+
+### 
 
