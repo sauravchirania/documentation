@@ -8,17 +8,25 @@ description: >-
 
 This section is our core. What our values are, our community guidelines, how we organize ourselves, core contributors guidelines, all the way down to how we compensate ourselves!
 
-[Values ](values.md)
+## [Values ](values.md)
 
-[Community Guidelines ](community-guidelines-1.md)
+The values that underpin Open Collective. 
 
-[Core Contributors Guidelines ](core-contributors-guidelines.md)
+## [Community Guidelines ](community-guidelines-1.md)
 
-[Core Contributors: Communication](core-contributors-communication.md) 
+Some rules that we all aim to follow and outline how we deal with situations.
 
-[Core Contributors: Expenses, Leave and Compensation](core-contributors-expenses.md) 
+## [Core Contributors Guidelines ](core-contributors-guidelines.md)
 
+Suggested guidelines for our core contributors to be aware of to ensure optimal work performance. 
 
+## [Core Contributors: Communication](core-contributors-communication.md) 
+
+How our core team communicates. 
+
+## [Core Contributors: Expenses, Leave and Compensation](core-contributors-expenses.md) 
+
+Details surrounding what expenses Open Collective covers, leave guidelines and how we get compensated. 
 
 
 
