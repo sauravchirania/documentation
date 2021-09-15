@@ -54,16 +54,3 @@ We will cover expenses for you to join. Please submit the receipt of your travel
 
 You can find previous retreats docs [here](https://drive.google.com/drive/u/1/folders/1kJGsdlfQS5BjMsTwYEw0UdtHKs5ITU3i).
 
-## Prioritization Framework
-
-To achieve that we use these questions to prioritize what gets done:
-
-* Does this serve our mission?
-* Will this make us financially sustainable?
-* Is it possible to build and maintain with our team and runway?
-* Can this make us move faster?
-* Does this increase quality and not technical debt?
-* Will this bring us more Collectives and financial contributors?
-* Is this already solved elsewhere, or is it our unique contribution?
-* Can we measure the success of this?
-
