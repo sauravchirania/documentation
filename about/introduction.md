@@ -67,11 +67,19 @@ Subscribe to our [Talks Playlist on YouTube](https://www.youtube.com/playlist?li
 
 Open Collective is a platform where communities can collect and disburse money transparently, to sustain and grow their projects.
 
+### Who is Open Collective for?
+
+Open Collective is great for collaborative groups, like meetups, open-source projects, [and more](../collectives/collectives.md#what-is-open-collective-good-for)—and for [those](../financial-contributors/financial-contributors.md) who want to support them.
+
 ### Why Open Collective? <a id="why-opencollective"></a>
 
 The Internet has been really good at helping people do great things together. But things still get complicated once money is involved. These challenges hold communities back from getting all the support they need from supporters and sponsors to achieve their mission.
 
 We enable communities to have economic power, so they can sustain themselves and have a larger impact on the world.
+
+### How is it different from other platforms?
+
+[Open Collective is different.](../product/comparison.md) It's fully transparent \(you can see where money comes from and where it goes\) and is designed for ongoing communities, not individual creators or one-off campaigns.
 
 ### How does it work? <a id="how-does-it-work"></a>
 
@@ -79,15 +87,27 @@ Our platform provides tools for legal entities to fiscally sponsor Collectives u
 
 The goal of Open Collective is to create a [New Form of Association for the Internet Generation](https://blog.opencollective.com/a-new-form-of-association-for-the-internet-generation-part-1/).
 
+### Does it work in my country?
+
+People can contribute from anywhere by credit card, with donations denominated in the [currency](../product/currencies.md) of the Fiscal Host. Payouts work everywhere our payment providers, Stripe and PayPal, serve.
+
+### Can I get a receipt for my donations?
+
+Yes! One main purpose of Open Collective is to provide unincorporated projects with the legal and financial structures to provide [people](../financial-contributors/financial-contributors.md) receipts and invoices.
+
 ### Why Open Source? <a id="why-open-source"></a>
 
 For starters, we are believers in the open-source philosophy. Our code is open source, and so are the Collectives we host. We think transparency in technology and finances is important.
 
 Additionally, regulations are different all over the world. Our platform is the API between Collectives and things like governments, banks, payment processors, and taxes, which vary a lot by country, so it has to be adaptable to different requirements.
 
-### **Why not use Blockchain and Cryptocurrency?**
+### How can I contribute?
 
-We're excited about the new possibilities these technologies are creating, and we'd love to explore how they could help us achieve our goals. But just like we won't wait for self-driving cars to become ubiquitous before calling a Lyft, we're very practical about using existing services to solve problems right now. We can already get pretty far using well-established technologies already integrated with global systems. That said, we are actively exploring how to support cryptocurrency on the platform, so if you're interested in that, get in touch.
+We are an open-source project and run as an Open Collective ourselves. You can contribute [money](https://opencollective.com/opencollective/donate), [code](../contributing/development/) or [translations](../contributing/translation.md). And we'd really love it if you [started your own Collective](https://opencollective.com/create) and contributed by growing the community!
 
-~~~~
+For more info about how you can contribute to Open Collective, check the [contributing page](contributing.md).
+
+### How can I contact you?
+
+Contact us at [support@opencollective.com](mailto:support@opencollective.com) or join our [Slack](https://slack.opencollective.com)!
 
