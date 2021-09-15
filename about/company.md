@@ -11,7 +11,7 @@ We are an American based C corp registered in Delaware. We also have created oth
 
 ### Where are you based?
 
-Our team is distributed between Aix-en-Provence, Auckland, Brussels, Berlin, Guadalajara, New York, Madrid, Paris, Shropshire, Navi Mumbai, Vancouver and Wellington.
+Our team works remotely around the world. Learn more about who works for Open Collective on our [Team page](team.md). 
 
 ### When did you start?
 
