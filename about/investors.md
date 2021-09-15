@@ -1,3 +1,7 @@
+---
+description: Information surrounding our funding and investors
+---
+
 # Investors
 
 We did a first pre-seed round of $500k in October 2015 \([deck](https://www.dropbox.com/s/klwxkewuf9mnjy1/OpenCollective.pdf?dl=0), [SAFE](https://www.ycombinator.com/docs/SAFE_Cap.rtf), $5M cap\) with:
