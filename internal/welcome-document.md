@@ -20,12 +20,6 @@ Some of the information below is included in different parts of this documentati
 * [Engineering Collective](https://docs.opencollective.com/help/internal/welcome-document#engineering-collective)
 * [Checklist](https://docs.opencollective.com/help/internal/welcome-document#onboarding-checklist)
 
-
-
-**Mission**
-
-We are on a mission to enable communities to be sustainable and fundraise in full transparency without having to create a legal entity to do so. 
-
 ### Core Contributors Guidelines
 
 Work in the open. It saves a lot of time. There should be little to no distinction between an internal and external contributor.
