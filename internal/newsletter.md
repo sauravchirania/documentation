@@ -6,7 +6,7 @@ We send a newsletter once a month to our wider community of users and supporters
 
 ### Signups
 
-People can subscribe to the newsletter using the form at the bottom of the homepage.
+Subscribe to the Open Collective newsletter [here](http://eepurl.com/gk99zn). 
 
 ### Import Recipients
 
