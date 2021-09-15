@@ -1,6 +1,4 @@
-# FAQ
-
-## FAQ
+# Fiscal Hosts FAQ
 
 ### What is a Fiscal Host?
 

@@ -87,7 +87,7 @@
 
 ## Fiscal Hosts
 
-* [FAQ](fiscal-hosts/fiscal-hosts.md)
+* [Fiscal Hosts FAQ](fiscal-hosts/fiscal-hosts.md)
 * [Becoming a Fiscal Host](fiscal-hosts/become-a-fiscal-host.md)
 * [Creating a Fiscal Host](fiscal-hosts/create-a-fiscal-host.md)
 * [Fiscal Host Settings](fiscal-hosts/fiscal-host-settings/README.md)
