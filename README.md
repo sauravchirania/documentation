@@ -28,5 +28,3 @@ Use the menu bar on the lefthand side of the screen to browse the various pages.
 
 ![](.gitbook/assets/about_introduction_browsing_sections_2021-08-12.gif)
 
-
-
