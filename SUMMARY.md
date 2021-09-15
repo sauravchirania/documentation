@@ -33,7 +33,7 @@
 
 ## Collectives
 
-* [FAQ](collectives/collectives.md)
+* [Collectives FAQ](collectives/collectives.md)
 * [Creating a Collective](collectives/create-collective.md)
 * [Quick Start Guide](collectives/quick-start-guide.md)
 * [Collective Settings](collectives/collective-settings/README.md)
