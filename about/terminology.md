@@ -1,8 +1,7 @@
 ---
 description: >-
   We have developed some terminology to describe interactions and roles on Open
-  Collective.  Please use these terms when creating issues or support requests,
-  instead of user —everyone is a user!
+  Collective.  Please use these terms when creating issues or support requests.
 ---
 
 # Terminology
@@ -29,17 +28,17 @@ Individual\(s\) who create and/or manage the Organization profile. They have rig
 
 **Funds**
 
-A [Fund](https://github.com/opencollective/documentation/tree/1b6b2a20534e35ca28433008c25dfde7a0e386fa/help/financial-contributors/organizations/funds/README.md), with a capital F, \(as opposed to a [Collective](terminology.md#user)\) is a streamlined, single payer process for supporters. A **Fund** is likely less interested in the 'social' & crowdfunding aspects of fundraising. This type of account will have a more simplified version of our dashboard for those who don't want all the extra features that group-organizing benefits from.
+A [Fund](https://github.com/opencollective/documentation/tree/1b6b2a20534e35ca28433008c25dfde7a0e386fa/help/financial-contributors/organizations/funds/README.md), with a capital F, \(as opposed to a [Collective](terminology.md#user)\) is a streamlined, single-payer process for supporters. A **Fund** is likely less interested in the 'social' & crowdfunding aspects of fundraising. This type of account will have a more simplified version of our dashboard for those who don't want all the extra features that group-organizing benefits from.
 
 ### Fiscal Hosts ![](../.gitbook/assets/fiscal-host%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 A [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) is a type of Organization.
 
-Fiscal hosting enables Collectives to transact financially without needing to legally incorporate. A fiscal host is a legal company or individual who holds a Collective’s funds in their bank account, and can generate invoices and receipts for Financial Contributors. You can think of a fiscal host as an umbrella organization for the Collectives in it.
+Fiscal hosting enables Collectives to transact financially without needing to legally incorporate. A fiscal host is a legal company or individual who holds a Collective’s funds in their bank account and can generate invoices and receipts for Financial Contributors. You can think of a fiscal host as an umbrella organization for the Collectives in it.
 
 #### **Fiscal Host Admin** ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2813%29.png)
 
-Individual\(s\) who create and/or manage the Fiscal Host are responsible for approving new Collectives who want to join the host and paying out expenses approved by Collective admins.
+Individual\(s\) who create and/or manage the Fiscal Host is responsible for approving new Collectives who want to join the host and paying out expenses approved by Collective admins.
 
 Fiscal Host admins want tools and workflows to easily manage their tasks \(paying expenses and approving new Collectives\). They need to charge their fees and keep a useful accounting system. They are often the first point of contact for the Core Contributors of Collectives they host, and many are super-users.
 
@@ -87,7 +86,7 @@ Sponsors often represent companies with accounting and reporting needs. They may
 
 Supports a Collective financially, with a repeating or one-off contribution.
 
-Individual Financial Contributor can find a Collective in many ways:
+Individual Financial contributor can find a Collective in many ways:
 
 * Search from [homepage](https://www.opencollective.com)
 * [Discover page](http://opencollective.com/discover)
