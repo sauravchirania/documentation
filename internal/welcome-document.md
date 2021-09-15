@@ -1,6 +1,6 @@
 # Welcome Document
 
-description: &gt;- Below you’ll find information to help you get started. Please read carefully & feel free to let us know if something isn’t clear enough or missing. You can email Pia directly at [pia@opencollective.com](https://github.com/opencollective/documentation/tree/15ced112abfcb2711748a7352f4cdbcff07092c2/internal/pia@opencollective.com).
+Below you’ll find information to help you get started. Please read carefully & feel free to let us know if something isn’t clear enough or missing. 
 
 ## Welcome Document
 
