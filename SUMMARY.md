@@ -11,7 +11,7 @@
 * [Pricing](about/pricing.md)
 * [Team](about/team.md)
 * [The Open Collective Way](about/the-open-collective-way/README.md)
-  * [Values](about/the-open-collective-way/values.md)
+  * [Mission and Values](about/the-open-collective-way/values.md)
   * [Community Guidelines](about/the-open-collective-way/community-guidelines-1.md)
   * [Core Contributors Guidelines](about/the-open-collective-way/core-contributors-guidelines.md)
   * [Core Contributors: Communication](about/the-open-collective-way/core-contributors-communication.md)

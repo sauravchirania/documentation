@@ -1,4 +1,10 @@
-# Values
+# Mission and Values
+
+## **Mission**
+
+We are on a mission to enable communities to be sustainable and fundraise in full transparency without having to create a legal entity to do so. 
+
+## **Values** 
 
 **Sustainability**: We can’t achieve our mission unless we are sustainable doing it. We take a broad definition of sustainability as financial, collective and individual sustainability.
 
