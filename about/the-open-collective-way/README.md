@@ -8,9 +8,9 @@ description: >-
 
 This section is our core. What our values are, our community guidelines, how we organize ourselves, core contributors guidelines, all the way down to how we compensate ourselves!
 
-## [Values ](values.md)
+## [Mission and Values ](values.md)
 
-The values that underpin Open Collective. 
+The mission and values that underpin Open Collective. 
 
 ## [Community Guidelines ](community-guidelines-1.md)
 
