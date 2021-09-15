@@ -63,7 +63,7 @@
 
 ## Financial Contributors
 
-* [FAQ](financial-contributors/financial-contributors.md)
+* [Financial Contributors FAQ](financial-contributors/financial-contributors.md)
 * [Guest contributions](financial-contributors/guest-contributions.md)
 * [Payments](financial-contributors/payments.md)
 * [Website Badge](financial-contributors/website-badge.md)
@@ -78,7 +78,7 @@
 
 ## Expenses & Getting Paid
 
-* [FAQ](expenses-and-getting-paid/expenses.md)
+* [Expenses FAQ](expenses-and-getting-paid/expenses.md)
 * [Submitting Expenses](expenses-and-getting-paid/submitting-expenses.md)
 * [Virtual Cards](expenses-and-getting-paid/virtual-cards.md)
 * [Expense Comments](expenses-and-getting-paid/expense-comments.md)

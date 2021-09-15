@@ -1,6 +1,4 @@
-# FAQ
-
-## FAQ
+# Expenses FAQ
 
 ### How do I get paid from a Collective?
 

@@ -1,4 +1,4 @@
-# FAQ
+# Financial Contributors FAQ
 
 ## Why should I give to a Collective?
 
