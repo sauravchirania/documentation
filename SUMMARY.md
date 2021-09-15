@@ -15,9 +15,7 @@
   * [Community Guidelines](about/the-open-collective-way/community-guidelines-1.md)
   * [Core Contributors Guidelines](about/the-open-collective-way/core-contributors-guidelines.md)
   * [Core Contributors: Communication](about/the-open-collective-way/core-contributors-communication.md)
-  * [Core Contributors: Expenses](about/the-open-collective-way/core-contributors-expenses.md)
-  * [Core contributors: Leave](about/the-open-collective-way/core-contributors-leave.md)
-  * [Core Contributors: Compensation](about/the-open-collective-way/core-contributors-compensation.md)
+  * [Core Contributors: Expenses, Leave and Compensation](about/the-open-collective-way/core-contributors-expenses.md)
 * [Investors](about/investors.md)
 * [Contributing](about/contributing.md)
 
