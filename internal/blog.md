@@ -4,17 +4,17 @@ description: Info about publishing Open Collective blog posts
 
 # Blog
 
-The Open Collective blog lives at [https://blog.opencollective.com](https://blog.opencollective.com).
+The Open Collective blog lives [here](https://blog.opencollective.com/).
 
 ## Using Ghost
 
-Open Collective uses [Ghost](https://ghost.org/), an open source blogging platform. Reach our Ghost dashboard here: [https://opencollective.ghost.io](https://opencollective.ghost.io/ghost/#/site). 
+Open Collective uses [Ghost](https://ghost.org/), an open-source blogging platform. Reach our Ghost dashboard [here](https://opencollective.ghost.io/ghost/#/site).
 
 #### Shared login account
 
 We use one single team account to log in \(credentials in 1Password\). This is because Ghost charges per active user account, and we don't need multiple accounts for our purposes.
 
-When writing a blog post, the author will default to this generic shared usr account \(called Open Collective\), but it's much better to have a human author attributed. 
+When writing a blog post, the author will default to this generic shared user account \(called Open Collective\), but it's much better to have a human author attributed. 
 
 To set yourself or someone else as the author, select them in the 'authors' dropdown in post settings, then delete the 'Open Collective' author from this field.
 
@@ -44,11 +44,11 @@ In terms of content, anything related to Open Collective, or Hosts and Collectiv
 
 #### Authorship
 
-Select a human author for posts where possible. Otherwise the group authors can be used \(Open Source Collective, Open Collective Foundation, etc\).
+Select a human author for posts where possible. Otherwise, the group authors can be used \(Open Source Collective, Open Collective Foundation, etc\).
 
 #### Tags
 
-All posts must have at least one tag, and ideally at least one of the top-level tags linked in the blog nav bar: Case Studies, News, or How-to. This top-level tag should be the first tag, so that it shows up next to the date in the header. 
+All posts must have at least one tag, and ideally at least one of the top-level tags linked in the blog navbar: Case Studies, News, or How-to. This top-level tag should be the first tag so that it shows up next to the date in the header. 
 
 ![](../.gitbook/assets/screen-shot-2021-07-05-at-10.43.44-pm.png)
 
@@ -84,9 +84,9 @@ The first line after the title is what will get pulled through as the descriptio
 
 ## Scheduling
 
-In general, we try to space posts out a little, so that we don't have a bunch in one week and then none for a couple weeks. The platform newsletter goes out in the middle of each month, but ideally blog posts wouldn't all bunch up trying to meet that deadline. However, we don't follow a strict publishing schedule.
+In general, we try to space posts out a little, so that we don't have a bunch in one week and then none for a couple of weeks. The platform newsletter goes out in the middle of each month, but ideally, blog posts wouldn't all bunch up trying to meet that deadline. However, we don't follow a strict publishing schedule.
 
 ## Blog Bounties
 
-We have a standing offer of $100  for guest posts from any Collective, Host, or other platform user to tell their story of using Open Collective. The $100 bounty is donated to their Collective upon publication \(after review and editing by an OC core staff member\). When making the contribution, select the Open Collective main profile under 'contribute as'.
+We have a standing offer of $100  for guest posts from any Collective, Host, or other platform users to tell their story of using Open Collective. The $100 bounty is donated to their Collective upon publication \(after review and editing by an OC core staff member\). When making the contribution, select the Open Collective main profile under 'contribute as'.
 
