@@ -10,8 +10,7 @@ Some of the information below is included in different parts of this documentati
 
 * [Open Collective Way](../about/the-open-collective-way/)
 * [Core Contributors Guidelines](../about/the-open-collective-way/core-contributors-guidelines.md)
-* Communication
-* [Team Retreats](https://docs.opencollective.com/help/internal/welcome-document#team-retreats) 
+* [Communication](../about/the-open-collective-way/core-contributors-communication.md)
 * [Prioritization Framework](https://docs.opencollective.com/help/internal/welcome-document#prioritization-framework)
 * [Project Templates](https://docs.opencollective.com/help/internal/welcome-document#project-templates)
 * [Leave](https://docs.opencollective.com/help/internal/welcome-document#project-templates)
