@@ -77,9 +77,14 @@ The Internet has been really good at helping people do great things together. Bu
 
 We enable communities to have economic power, so they can sustain themselves and have a larger impact on the world.
 
-### How is it different from other platforms?
+### How is Open Collective different from other platforms?
 
-[Open Collective is different.](../product/comparison.md) It's fully transparent \(you can see where money comes from and where it goes\) and is designed for ongoing communities, not individual creators or one-off campaigns.
+* It's fully transparent \(you can see where money comes from and where it goes\). 
+* Designed for ongoing collaborative communities, not one-off campaigns or individual creators.
+* Open source and designed for financial and technical transparency.
+* Offers fiscal sponsorship as a service, using [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md).
+
+For more information including a full comparison of tech offering please see our [comparison page](../product/comparison.md). 
 
 ### How does it work? <a id="how-does-it-work"></a>
 

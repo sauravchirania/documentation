@@ -1,8 +1,7 @@
 ---
 description: >-
-  We'll be updating our Product Roadmap periodically. You'll also find below
-  guidelines for prioritizing features and projects as well as a template for
-  new projects.
+  You'll find below guidelines for prioritizing features and projects as well as
+  a template for new projects.
 ---
 
 # Roadmap

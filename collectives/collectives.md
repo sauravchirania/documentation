@@ -33,16 +33,6 @@ Some common expenses are hosting costs, documentation, community moderation, pri
 
 For more details about how to spend money, see our documentation about [expenses](../expenses-and-getting-paid/expenses.md).
 
-### How is Open Collective different?
-
-Some things that make Open Collective special:
-
-* Built for ongoing collaborative communities, not one-off campaigns or individual creators.
-* Open source and designed for financial and technical transparency.
-* Offers fiscal sponsorship as a service, using [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md).
-
-For more details, see the [comparison](../product/comparison.md) page.
-
 ### How do I pay people?
 
 Money contributed to a Collective goes to the bank account of the [Fiscal Host](../fiscal-hosts/fiscal-hosts.md). When someone wants to be paid, they [submit an expense](../expenses-and-getting-paid/submitting-expenses.md) through your Collective page. After you approve it, the person is reimbursed via PayPal.
