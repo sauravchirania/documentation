@@ -1,7 +1,3 @@
----
-description: Specific Fiscal Host Documentation
----
-
 # Documentation
 
 The Open Collective Documentation is our main documentation enabling all of our users to successfully use our platform. 
