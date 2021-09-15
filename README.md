@@ -28,35 +28,5 @@ Use the menu bar on the lefthand side of the screen to browse the various pages.
 
 ![](.gitbook/assets/about_introduction_browsing_sections_2021-08-12.gif)
 
-## Overall FAQ
 
-### What’s an Open Collective?
-
-An [Open Collective](product/product.md) is a place for communities to collect and disburse money transparently.
-
-### Who is Open Collective for?
-
-Open Collective is great for collaborative groups, like meetups, open source projects, [and more](collectives/collectives.md#what-is-open-collective-good-for)—and for the [those](financial-contributors/financial-contributors.md) who want to support them.
-
-### How is it different from other platforms?
-
-[Open Collective is different.](product/comparison.md) It's fully transparent \(you can see where money comes from and where it goes\) and is designed for ongoing communities, not individual creators or one-off campaigns.
-
-### Does it work in my country?
-
-People can contribute from anywhere by credit card, with donations denominated in the [currency](product/currencies.md) of the Fiscal Host. Payouts work everywhere our payment providers, Stripe and PayPal, serve.
-
-### Can I get a receipt for my donations?
-
-Yes! One main purpose of Open Collective is to provide unincorporated projects the legal and financial structures to provide [people](financial-contributors/financial-contributors.md) receipts and invoices.
-
-### How can I contact you?
-
-Contact us at [support@opencollective.com](mailto:support@opencollective.com) or join our [Slack](https://slack.opencollective.com)!
-
-### How can I contribute?
-
-We are an open source project and run as an Open Collective ourselves. You can contribute [money](https://opencollective.com/opencollective/donate), [code](contributing/development/) or [translations](contributing/translation.md). And we'd really love it if you [started your own Collective](https://opencollective.com/create) and contributed by growing the community!
-
-For more info about how you can contribute to Open Collective, check the [contributing page](about/contributing.md).
 
