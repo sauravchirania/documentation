@@ -108,6 +108,8 @@ Brussels, Belgium
 
 This map shows the diversity of our team and the truly global approach it takes to bring you Open Collective. 
 
+Our team is distributed between Aix-en-Provence, Auckland, Brussels, Berlin, Guadalajara, New York, Madrid, Paris, Shropshire, Navi Mumbai, Vancouver and Wellington.
+
 English, Spanish, Portuguese, Hebrew, Russian, Japanese, French and German are just some of the languages spoken by our team. 
 
 ![](../.gitbook/assets/about_team_map_2021-08-18.png)
