@@ -32,3 +32,10 @@ Hosts can choose to pause virtual cards if there are any incomplete expenses. Th
 Be aware of your surroundings when viewing a card's details as others may be able to see them.
 {% endhint %}
 
+### **Companies that don't accept Virtual Cards** 
+
+There are a few websites that don't accept prepaid cards. 
+
+* Google 
+* Zipcar
+
