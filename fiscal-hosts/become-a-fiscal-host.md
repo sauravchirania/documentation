@@ -1,7 +1,5 @@
 # Becoming a Fiscal Host
 
-## FAQ
-
 ### Why become a Fiscal Host?
 
 By becoming a Fiscal Host, you can enable Collectives to accept and disburse money in full transparency, without having to create their own legal entity and bank account. Collectives can then pursue their activities, be accountable to funders, and automatically keep good records.
