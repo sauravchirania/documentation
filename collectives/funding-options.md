@@ -10,7 +10,7 @@ Check with your [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) to see if these o
 
 ## Ethical Advertising
 
-Speaking to niche audiences, like developers, in their own environment is one way OSS can leverage the tangible value it provides companies. Examples include CodeFund, Carbon Ads or referral fee solutions like Triplebyte.
+Speaking to niche audiences, like developers, in their own environment is one way OSS can leverage the tangible value it provides companies. Examples include [EthicalAds](https://www.ethicalads.io/), Carbon Ads or referral fee solutions like Triplebyte.
 
 We [wrote a blog post](https://medium.com/open-collective/using-ads-to-sustain-open-source-d048b75d4979) about this if you want to know more.
 

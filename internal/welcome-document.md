@@ -6,14 +6,13 @@ Below you’ll find information to help you get started. Please read carefully &
 
 #### Index
 
-Some of the information below is included in different parts of this documentation. The goal is to provide an easy Welcome Document with all the relevant information new Open Collective Team Members need to get started.
+The goal is to provide an easy Welcome Document with all the relevant information new Open Collective Team Members need to get started. Please click through the links below to ensure you have covered all the relevant areas. 
 
 * [Open Collective Way](../about/the-open-collective-way/)
 * [Core Contributors Guidelines](../about/the-open-collective-way/core-contributors-guidelines.md)
 * [Communication](../about/the-open-collective-way/core-contributors-communication.md)
 * [Project Templates](https://docs.opencollective.com/help/internal/welcome-document#project-templates)
-* [Leave](https://docs.opencollective.com/help/internal/welcome-document#project-templates)
-* [Expenses](https://docs.opencollective.com/help/internal/welcome-document#expenses)
+* [Expenses, leave and compensation](../about/the-open-collective-way/core-contributors-expenses.md)
 * [Design Collective](https://docs.opencollective.com/help/internal/welcome-document#design-collective)
 * [Engineering Collective](https://docs.opencollective.com/help/internal/welcome-document#engineering-collective)
 * [Checklist](https://docs.opencollective.com/help/internal/welcome-document#onboarding-checklist)
@@ -60,44 +59,6 @@ Metrics:
 * Less host admin time spent
 * Way fewer issues with invoices \(fewer expense comments\)
 * Use of the new features \(ex batch expenses\)
-
-### Leave
-
-Vacations:
-
-* 25 days a year, paid
-* Unlimited unpaid leave \(make sure everything is organized and anyone can take on your tasks\). Please note we are a startup and on a constrained budget that can change by the time you are back. Over 3 months unpaid leave, we can’t guarantee that we’ll able to pay you again.
-
-Parental Leave:
-
-* 25 days paid \(your vacations\)
-* 6 months unpaid. Please note that we are a startup that is not sustainable yet and our situation might change but we will strive to pay you again after 6 months of parental unpaid leave.
-
-### Expenses
-
-Open Collective will cover the following expenses:
-
-* Travel, accommodation & meals during retreats.
-* Travel to conferences \(pre-validation required\)
-* Personal development workshop/classes \(pre-validation required\)
-
-Core contributors are responsible for:
-
-* Healthcare
-* Office, Hardware / Internet
-* Commute / Lunches
-
-Core contributors \(& part time contributors\) should submit their invoices to the corresponding collective:
-
-* opencollective.com/opencollective
-* opencollective.com/design
-* opencollective.com/engineering
-
-Please submit your invoices to your relevant collective. Invoices need to be addressed to:
-
-_Attention: Open Collective Inc._
-
-_340 S. Lemon Ave. \#3717, Walnut, Ca. 91789, USA_
 
 ### Design Collective
 
