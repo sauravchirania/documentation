@@ -50,6 +50,10 @@ If you're already in the beta test group, you can follow these instructions:
 
 ![](../../.gitbook/assets/screen-record-from-2020-07-10-13.30.21.gif)
 
+* [ ] Then scroll down to "Live App Settings" and make sure "**Accept payments"** and **"Payouts"** are checked
+
+![](../../.gitbook/assets/image%20%2813%29.png)
+
 * [ ] Now, copy the necessary information to Open Collective.
   * Open a new tab and go to [Open Collective](https://www.opencollective.com).
   * Open your Host collective settings page and click in the _Receiving Money_ option in the menu.
