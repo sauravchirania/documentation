@@ -44,7 +44,7 @@ Guest contributions are not yet supported for recurring contributions or in case
 
 ![Guest contribution form](../.gitbook/assets/image%20%285%29.png)
 
-### Claiming a guest account
+### Claiming a Guest Account
 
 There are two ways to claim a guest account:
 
