@@ -10,9 +10,11 @@ Go to the Collective page of the project you want to support. Select a contribut
 
 ## Where does your contribution go when you give money to a Collective? 
 
-Join Alanna as she runs through the simplified contribution money flow
+Join Alanna as she runs through the simplified and detailed contribution money flow 
 
+{% embed url="https://www.youtube.com/watch?v=mFH5s8UexjY" %}
 
+{% embed url="https://www.youtube.com/watch?v=h-6DIaFnIQk" %}
 
 ## How can I find Collectives to support?
 
