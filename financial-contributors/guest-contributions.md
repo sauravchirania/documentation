@@ -19,7 +19,7 @@ Recurring donations require an Open Collective account.
 
 ![Contributing as a guest: your name is optional, but you need to provide an email address](../.gitbook/assets/contributing-as-a-guest-2021-01-14.png)
 
-5. In **Payment info**, choose your preferred payment method and finish your contribution. You will receive a receipt about your donation soon after.
+5. In **Payment info**, choose your preferred payment method and finish your contribution. You will receive a receipt for your donation soon after.
 
 ![](../.gitbook/assets/thank-you-for-your-support-2021-01-14.png)
 
