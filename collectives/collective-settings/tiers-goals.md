@@ -30,9 +30,7 @@ You can define whether you can to allow custom contributions or not by manipulat
 
 ### Enabling 'Crypto contributions
 
-You can accept contributions using crpytocurrencies by enabling this tier. Note that contributions are settled \(converted\) into your currency on collection. Read more about contributing cryptocurrency.
-
-
+You can accept contributions using cryptocurrencies by enabling this tier. Note that contributions are settled \(converted\) into your currency on collection. Read more about [contributing cryptocurrency](../../financial-contributors/crptocurrencies.md).
 
 ### Creating custom tiers
 
