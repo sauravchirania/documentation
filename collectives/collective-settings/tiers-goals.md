@@ -28,6 +28,12 @@ You can also control contributions and tiers by accessing the **Tiers** section.
 
 You can define whether you can to allow custom contributions or not by manipulating the **Enable custom contributions** checkbox.
 
+### Enabling 'Crypto contributions
+
+You can accept contributions using crpytocurrencies by enabling this tier. Note that contributions are settled \(converted\) into your currency on collection. Read more about contributing cryptocurrency.
+
+
+
 ### Creating custom tiers
 
 You can also create custom tiers on the same page. Click on **add another tier** to activate the following form:

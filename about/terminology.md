@@ -22,7 +22,7 @@ Human beings with names. An individual signs up to Open Collective with their em
 
 An [Organization](../financial-contributors/organizations/) represents a company or legal entity in the world, with a shared identity, bank account, credit card, and resources. This is often how Sponsors engage on the platform.
 
-#### Organization Admins ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2810%29%20%281%29.png)
+#### Organization Admins ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2810%29.png)
 
 Individual\(s\) who create and/or manage the Organization profile. They have rights to edit the settings of the Organization, set up financial contributions to Collectives, and set up gift cards, among other things.
 
@@ -36,7 +36,7 @@ A [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) is a type of Organization.
 
 Fiscal hosting enables Collectives to transact financially without needing to legally incorporate. A fiscal host is a legal company or individual who holds a Collective’s funds in their bank account and can generate invoices and receipts for Financial Contributors. You can think of a fiscal host as an umbrella organization for the Collectives in it.
 
-#### **Fiscal Host Admin** ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2813%29%20%281%29.png)
+#### **Fiscal Host Admin** ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2813%29.png)
 
 Individual\(s\) who create and/or manage the Fiscal Host is responsible for approving new Collectives who want to join the host and paying out expenses approved by Collective admins.
 
@@ -46,7 +46,7 @@ Fiscal Host admins want tools and workflows to easily manage their tasks \(payin
 
 The primary entity most representative of the basis of our platform. A Collective represents a project or group that has a mission or purpose in the world, which they raise and spend funds transparently to achieve.
 
-#### Core Contributors  ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2814%29%20%281%29.png)
+#### Core Contributors  ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2814%29.png)
 
 Individuals who are major contributors and represent the Collective with their face on the Collective page as part of the team.
 
@@ -60,7 +60,7 @@ Core Contributors want to make their communities sustainable financially, so rec
 
 Someone in charge of the financial records for the Collective. They have read access to all financial information \(receipts, invoices, etc\) bot not write access \(they can't approve or pay expenses\).
 
-#### Event Attendee![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2812%29%20%281%29.png)
+#### Event Attendee![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2812%29.png)
 
 Individuals who register to attend a Collective's event. They often arrive through a direct link provided by the event organizers. They want a smooth, hassle-free experience, clear information about the event, and ideally a pathway to stay in touch or become contributors.
 
@@ -82,7 +82,7 @@ A company that supports a Collective financially, often at a higher tier. This i
 
 Sponsors often represent companies with accounting and reporting needs. They may want brand exposure, access to or goodwill from a community, tangible benefits like support, or help with their recruiting efforts.
 
-### **Individual Financial Contributor** ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2815%29%20%281%29.png)
+### **Individual Financial Contributor** ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2815%29.png)
 
 Supports a Collective financially, with a repeating or one-off contribution.
 
@@ -115,7 +115,7 @@ Supporting Collectives by providing the legal and financial infrastructure neede
 
 An individual can contribute with code \(software\) to an open-source project with a Collective
 
-### Service Contributors ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2816%29%20%281%29.png)
+### Service Contributors ![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%282%29%20%2816%29.png)
 
 An individual who contributes time or skills to a Collective's mission.
 
