@@ -174,5 +174,5 @@
 
 ---
 
-* [Contributing Cryptocurrencies](untitled.md)
+* [Contributing Cryptocurrencies](crptocurrencies.md)
 
