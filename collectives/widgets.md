@@ -66,6 +66,8 @@ Example:
 
 ![](../.gitbook/assets/screen-shot-2019-01-24-at-2.50.59-pm.png)
 
+The designs of the buttons are licensed by Open Collective under a Creative Commons Attribution–Share-Alike 4.0 Unported license \(“CC-BY-SA”\). . . . Open Collective, the Open Collective Logo, are trademarks of Open Collective, Inc. and therefore they can’t be modified or used individually, for more info or request reach out to legal@opencollective.com
+
 ## Related:
 
 * Website [badge](../financial-contributors/website-badge.md) showing the Collectives you back
