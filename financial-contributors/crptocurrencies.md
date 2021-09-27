@@ -21,7 +21,7 @@ Contributing crypto' works a little differently from our normal process:
 2. Click 'Contribute' to begin the flow
 3. Select the currency you wish to contribute in and the amount you wish to contribute:
 
-![Select a cryptocurrency and amount to contribute to the Collective](.gitbook/assets/slice-1.png)
+![Select a cryptocurrency and amount to contribute to the Collective](../.gitbook/assets/slice-1.png)
 
 4. We calculate the anticipated contribution amount in the fiat currency used by the host.
 
@@ -35,7 +35,7 @@ Contributing crypto' works a little differently from our normal process:
 
 
 
-![Complete your contribution by transferring the specified currency to the wallet address shown. ](.gitbook/assets/slice-2.png)
+![Complete your contribution by transferring the specified currency to the wallet address shown. ](../.gitbook/assets/slice-2.png)
 
 7. Transfer the amount shown to the wallet address using your chosen wallet provider. 
 

@@ -66,6 +66,7 @@
 * [Financial Contributors FAQ](financial-contributors/financial-contributors.md)
 * [Guest contributions](financial-contributors/guest-contributions.md)
 * [Payments](financial-contributors/payments.md)
+* [Contributing Cryptocurrencies](financial-contributors/crptocurrencies.md)
 * [Website Badge](financial-contributors/website-badge.md)
 * [Receipts](financial-contributors/receipts.md)
 * [Collective to Collective](financial-contributors/collective-to-collective.md)
@@ -171,8 +172,4 @@
 * [Projects](internal/projects/README.md)
   * [Maintainerati Berlin 2019](internal/projects/maintainerati-berlin-2019.md)
   * [Season of Docs 2019](internal/projects/season-of-docs-2019.md)
-
----
-
-* [Contributing Cryptocurrencies](crptocurrencies.md)
 
