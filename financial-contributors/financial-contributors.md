@@ -8,6 +8,12 @@ If you get value out of what a project produces or stands for, support them to m
 
 Go to the Collective page of the project you want to support. Select a contribution tier and set up a recurring or one-time donation.
 
+## Where does your contribution go when you give money to a Collective? 
+
+Join Alanna as she runs through the simplified contribution money flow
+
+
+
 ## How can I find Collectives to support?
 
 Check out the [Discover](https://opencollective.com/discover) page or do a search.
@@ -16,15 +22,15 @@ You can also find open source dependencies using [Back Your Stack](https://backy
 
 ## What payment methods can I use?
 
-You can usually pay by credit card through a Collective's page. Some [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) enable payments via bank transfer, Paypal, or other means for their Collectives, in addition or instead of credit card payments. When you go through the contribution flow, you'll see all the available payment methods for that Collective.
+You can usually pay by credit card through a Collective's page. Some [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) enable payments via bank transfer, Paypal, or other means for their Collectives, in addition to or instead of credit card payments. When you go through the contribution flow, you'll see all the available payment methods for that Collective.
 
-## Are my donations tax deductible?
+## Are my donations tax-deductible?
 
-It depends on the [Fiscal Host ](../fiscal-hosts/fiscal-hosts.md)of the Collective. If the host has tax-exempt status, then your donation can be tax deductible. It also may matter which country the host is in.
+It depends on the [Fiscal Host ](../fiscal-hosts/fiscal-hosts.md)of the Collective. If the host has tax-exempt status, then your donation can be tax-deductible. It also may matter which country the host is in.
 
-The Open Source Collective 501\(c\)\(6\) is a non-profit that serves as fiscal host to most open source software projects on Open Collective. Unfortunately, the IRS does not consider producing open source software to be a charitable activity in and of itself, and therefore does not grant tax exempt status. Donations to Collectives under Open Source Collective 501\(c\)\(6\) are not tax deductible.
+The Open Source Collective 501\(c\)\(6\) is a non-profit that serves as fiscal host to most open source software projects on Open Collective. Unfortunately, the IRS does not consider producing open source software to be a charitable activity in and of itself and therefore does not grant tax-exempt status. Donations to Collectives under Open Source Collective 501\(c\)\(6\) are not tax-deductible.
 
-In contrast, the Open Collective Foundation 501\(c\)\(3\), home to many groups focused on education, outreach, and social impact, does qualify for tax-exempt status. If you donate to a Collective under that host, it's tax deductible in the US.
+In contrast, the Open Collective Foundation 501\(c\)\(3\), home to many groups focused on education, outreach, and social impact does qualify for tax-exempt status. If you donate to a Collective under that host, it's tax-deductible in the US.
 
 ## Can I update the billing address on my receipts?
 
