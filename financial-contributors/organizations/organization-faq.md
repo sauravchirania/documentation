@@ -1,4 +1,4 @@
-# FAQ
+# Organization FAQ
 
 ## Why should we become an Organization?
 

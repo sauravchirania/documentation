@@ -71,7 +71,7 @@
 * [Receipts](financial-contributors/receipts.md)
 * [Collective to Collective](financial-contributors/collective-to-collective.md)
 * [Organizations](financial-contributors/organizations/README.md)
-  * [FAQ](financial-contributors/organizations/organization-faq.md)
+  * [Organization FAQ](financial-contributors/organizations/organization-faq.md)
   * [Funds](financial-contributors/organizations/funds.md)
   * [Bulk Transfers](financial-contributors/organizations/bulk-transfers.md)
   * [Gift Cards](financial-contributors/organizations/gift-cards.md)
