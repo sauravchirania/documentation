@@ -45,7 +45,7 @@ On receipt of your contribution, we will convert your cryptocurrency into the fi
 
 You will receive an email confirming that your contribution has been received and that it has been converted. 
 
-[Read the announcement](https://opencollective.com/opencollective/updates/support-open-source-software-using-crypto)
+[Read the announcement](https://blog.opencollective.com/support-open-source-software-using-crypto/)
 
 
 
