@@ -152,6 +152,5 @@
 
 ## Internal
 
-* [Projects](internal/projects/README.md)
-  * [Season of Docs 2019](internal/projects/season-of-docs-2019.md)
+* [Projects](internal/projects.md)
 
