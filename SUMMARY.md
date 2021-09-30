@@ -153,8 +153,6 @@
 ## Internal
 
 * [Queries](internal/queries/README.md)
-  * [Collectives](internal/queries/collectives.md)
-  * [Connected collective queries](internal/queries/connectedcollective-queries.md)
   * [Hosts](internal/queries/hosts.md)
   * [Analytics](internal/queries/analytics.md)
   * [Emails](internal/queries/emails.md)
