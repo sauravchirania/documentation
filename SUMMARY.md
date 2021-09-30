@@ -150,7 +150,3 @@
   * [Suggesting changes](contributing/documentation/suggesting-changes.md)
 * [Translation](contributing/translation.md)
 
-## Internal
-
-* [Projects](internal/projects.md)
-
