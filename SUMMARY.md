@@ -152,10 +152,7 @@
 
 ## Internal
 
-* [Jobs](internal/jobs/README.md)
-  * [Search & destroy spammers](internal/jobs/search-and-destroy-spammers.md)
 * [Queries](internal/queries/README.md)
-  * [Gift Cards](internal/queries/gift-cards.md)
   * [Transactions](internal/queries/transactions.md)
   * [Ops](internal/queries/ops.md)
   * [Collectives](internal/queries/collectives.md)
