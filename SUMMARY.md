@@ -152,7 +152,6 @@
 
 ## Internal
 
-* [Issue Labels](internal/issue-labels.md)
 * [DNS Troubleshooting](internal/dns-troubleshooting.md)
 * [Developer Guidelines](internal/developer-guidelines.md)
 * [Testing](internal/testing.md)
