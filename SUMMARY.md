@@ -152,8 +152,6 @@
 
 ## Internal
 
-* [DNS Troubleshooting](internal/dns-troubleshooting.md)
-* [Developer Guidelines](internal/developer-guidelines.md)
 * [Testing](internal/testing.md)
 * [Jobs](internal/jobs/README.md)
   * [Enabling Currencies in the Platform](internal/jobs/enabling-currencies-in-the-platform.md)
