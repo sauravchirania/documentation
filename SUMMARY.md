@@ -153,7 +153,6 @@
 ## Internal
 
 * [Queries](internal/queries/README.md)
-  * [Hosts](internal/queries/hosts.md)
   * [Analytics](internal/queries/analytics.md)
   * [Emails](internal/queries/emails.md)
 * [Projects](internal/projects/README.md)
