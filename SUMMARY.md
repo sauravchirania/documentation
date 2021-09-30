@@ -168,3 +168,10 @@
   * [Maintainerati Berlin 2019](internal/projects/maintainerati-berlin-2019.md)
   * [Season of Docs 2019](internal/projects/season-of-docs-2019.md)
 
+## Independent Collectives
+
+* [About Independent Collectives](independent-collectives/about-independent-collectives.md)
+* [Create Independent Collective](independent-collectives/create-independent-collective.md)
+* [Set up Independent Collective](independent-collectives/set-up-independent-collective.md)
+* [Manage Independent Collective](independent-collectives/manage-independent-collective.md)
+
