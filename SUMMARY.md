@@ -153,7 +153,6 @@
 ## Internal
 
 * [Queries](internal/queries/README.md)
-  * [Transactions](internal/queries/transactions.md)
   * [Ops](internal/queries/ops.md)
   * [Collectives](internal/queries/collectives.md)
   * [Connected collective queries](internal/queries/connectedcollective-queries.md)
