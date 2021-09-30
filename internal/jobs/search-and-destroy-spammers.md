@@ -36,7 +36,7 @@ keto, pills, sex, drug, porn, casino, webcam
 
 ### Ban spammers
 
-Refer to [this page](../moderation.md#ban-users-and-collectives-permanently) for more info about banning users and collectives.
+Refer to [this page]() for more info about banning users and collectives.
 
 ## Logs
 

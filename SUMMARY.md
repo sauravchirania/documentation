@@ -142,11 +142,6 @@
 
 ## Internal
 
-* [Scope](internal/internal.md)
-* [Welcome Document](internal/welcome-document.md)
-* [Host Admin Manual](internal/host-admin-manual.md)
-* [Internal moderation tools](internal/moderation.md)
-* [Newsletter](internal/newsletter.md)
 * [Blog](internal/blog.md)
 * [Claiming a pledged collective](internal/claiming-a-pledged-collective.md)
 * [Support](internal/support.md)
