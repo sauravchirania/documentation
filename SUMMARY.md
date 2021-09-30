@@ -153,7 +153,6 @@
 ## Internal
 
 * [Queries](internal/queries/README.md)
-  * [Analytics](internal/queries/analytics.md)
   * [Emails](internal/queries/emails.md)
 * [Projects](internal/projects/README.md)
   * [Maintainerati Berlin 2019](internal/projects/maintainerati-berlin-2019.md)
