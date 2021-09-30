@@ -152,9 +152,6 @@
 
 ## Internal
 
-* [Blog](internal/blog.md)
-* [Claiming a pledged collective](internal/claiming-a-pledged-collective.md)
-* [Support](internal/support.md)
 * [Issue Labels](internal/issue-labels.md)
 * [DNS Troubleshooting](internal/dns-troubleshooting.md)
 * [Developer Guidelines](internal/developer-guidelines.md)

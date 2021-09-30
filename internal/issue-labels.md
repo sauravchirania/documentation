@@ -8,7 +8,7 @@ Bug Feature Enhancement
 
 ### Emergency
 
-These are issues that block critical flows. For example Ledger issues such us \(double charging, no charging, wrong charging, wrong assigning of subscriptions\), Log in issues \(user can't log in, user can't make a contribution\). Expectation of resolving: immediately - On-call schedule applies
+These are issues that block critical flows. For example, Ledger issues such us \(double charging, no charging, wrong charging, wrong assigning of subscriptions\), Log in issues \(user can't log in, user can't make a contribution\). Expectation of resolving: immediately - On-call schedule applies
 
 ### High Priority
 
