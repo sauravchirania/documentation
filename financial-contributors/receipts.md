@@ -28,7 +28,7 @@ You should have received a receipt by email from Open Collective at the time of 
 
 7. Use the Download Receipts to download all receipts from a specific time period.
 
-![](../.gitbook/assets/financial_contributors_receipts_download_receipts_2021-06-22%20%283%29%20%283%29.gif)
+![](../.gitbook/assets/financial_contributors_receipts_download_receipts_2021-06-22%20%283%29%20%283%29%20%283%29.gif)
 
 6. Use the Search Function to find a specific transaction.
 

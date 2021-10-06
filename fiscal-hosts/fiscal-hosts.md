@@ -39,7 +39,7 @@ Some projects can’t be fiscally hosted by the entities Open Collective runs it
 
 ### Do all Collectives need a Fiscal Host?
 
-Every Collective that receives or pays out money needs a fiscal host because they need to connect the host's bank account, Stripe account, and PayPal account to activate Open Collective’s payment features. If you already have a legal company set up, or you are comfortable taking on the responsibility as an individual, you can [fiscally host your own Collective](become-a-fiscal-host.md). If not, you can join an existing host.
+Every Collective that receives or pays out money needs a fiscal host because they need to connect the host's bank account, Stripe account, and PayPal account to activate Open Collective’s payment features. If you already have a legal company set up, or you are comfortable taking on the responsibility as an individual, you can create your own [independent collective](../independent-collectives/about-independent-collectives.md). If not, you can join an existing host.
 
 ### How do I find a Fiscal Host?
 
