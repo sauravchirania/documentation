@@ -8,7 +8,7 @@ description: >-
 
 Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise and share your finances in full transparency.
 
-This is the place to find all help and documentation related to Open Collective. It's a work in progress, so please feel free to give us feedback!
+This is the place to find all help and documentation related to Open Collective. We are always open to suggested changes, so please feel free to give us feedback!
 
 To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, read our [step-by-step guide](contributing/documentation/suggesting-changes.md).
 
