@@ -1,6 +1,10 @@
-# Welcome
+---
+description: >-
+  We are on a mission to help collaborative groups collect and spend money
+  transparently.
+---
 
-### **We are on a mission to help collaborative groups collect and spend money transparently.**
+# Welcome
 
 {% embed url="https://www.youtube.com/watch?v=IBU5fSILAe8" caption="" %}
 
