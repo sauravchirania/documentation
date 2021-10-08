@@ -2,7 +2,7 @@
 
 ## Inside the platform
 
-Collectives have transparent budgets, where all transactions are automatically reported. Everyone can see where money comes from and what it's spent on. The Budget Section on the Collectives Page shows the most recent transacations along side Todays Balance, Total Raised, Total Disbursed and Estimates Annual Budget.
+Collectives have transparent budgets, where all transactions are automatically reported. Everyone can see where the money comes from and what it's spent on. The Budget Section on the Collectives Page shows the most recent transactions alongside Todays Balance, Total Raised, Total Disbursed and Estimates Annual Budget.
 
 ![](../.gitbook/assets/collectives_transparentbudgets_budget_2021-07-6.png)
 
@@ -32,7 +32,7 @@ You can click on View all transactions to view a more detailed breakdown this vi
 
 Download CSV file from /transactions page inside your collective.
 
-![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565897884171_Annotation+on+2019-08-15+at+14-37-36.png)
+![](../.gitbook/assets/collectives_transparent_budget_transaction_spreadsheet_2021-10-08.png)
 
 ## Step 2
 
@@ -49,8 +49,6 @@ Copy the transactions template into your Google Drive
 ### Go to RAW FILE tab
 
 Open the “RAW FILE” tab inside the file.
-
-![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1565898315516_Screen+Shot+2019-08-15+at+14.45.05.png)
 
 ### Import CSV
 
