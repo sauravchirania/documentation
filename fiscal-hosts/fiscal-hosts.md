@@ -2,13 +2,13 @@
 
 ### What is a Fiscal Host?
 
-\_\_[_View our illustrated guide about fiscal hosts_](https://opencollective.com/fiscal-hosting)\_\_
+__[_View our illustrated guide about fiscal hosts_](https://opencollective.com/fiscal-hosting)__
 
 Fiscal hosting enables Collectives to transact financially without needing to legally incorporate. In other contexts, this is sometimes called _fiscal sponsorship_.
 
 A fiscal host is a legal company or individual who holds a Collective’s funds in their bank account and can generate invoices and receipts for supporters and sponsors. You can think of a fiscal host as an umbrella organization for the Collectives in it.
 
-The fiscal host is responsible for taxes, accounting, compliance, financial admin, and paying expenses approved by the Collective’s core contributors \(admins\).
+The fiscal host is responsible for taxes, accounting, compliance, financial admin, and paying expenses approved by the Collective’s core contributors (admins).
 
 The Open Collective platform makes the job of fiscal hosts a lot easier by providing our software platform for tracking budgets and expenses, generating reports, and automating bookkeeping. Fiscal hosts have a dashboard where they can see their Collectives and perform common actions. 
 
@@ -16,20 +16,20 @@ By sharing a host, Collectives are effectively mutualizing the cost and overhead
 
 ### What are some examples of Fiscal Hosts?
 
-Fiscal Hosts can be in any location and take any form of legal entity \(as long as they have a bank account, PayPal account, and Stripe account\). Each one determines its own policies for which Collectives it will host and what fees it will charge.
+Fiscal Hosts can be in any location and take any form of legal entity (as long as they have a bank account, PayPal account, and Stripe account). Each one determines its own policies for which Collectives it will host and what fees it will charge.
 
 Below are the hosts that Open Collective manages, plus some more examples.
 
-| Fiscal Host | Hosted Collectives | Fee |
-| :--- | :--- | :--- |
-| Open Source Collective | Open source projects | 10% |
-| Open Collective Foundation | US-based charity projects | 5% for credit card payments, progressive fee structure for manual payments \(8% down to 4% for larger budgets\) |
-| Open Collective Inc | Our own transparent budget | 0% |
-| Open Collective Europe ASBL | EU-based Collectives | 6% |
-| Open Collective Paris | Paris-based collectives | 0% |
-| Brussels Together | Brussels citizen initiatives | €10/mo |
-| Women Who Code | Local chapters | 10% |
-| Operation Code | Local chapters | 30% |
+| Fiscal Host                 | Hosted Collectives           | Fee                                                                                                           |
+| --------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Open Source Collective      | Open source projects         | 10%                                                                                                           |
+| Open Collective Foundation  | US-based charity projects    | 5% for credit card payments, progressive fee structure for manual payments (8% down to 4% for larger budgets) |
+| Open Collective Inc         | Our own transparent budget   | 0%                                                                                                            |
+| Open Collective Europe ASBL | EU-based Collectives         | 6%                                                                                                            |
+| Open Collective Paris       | Paris-based collectives      | 0%                                                                                                            |
+| Brussels Together           | Brussels citizen initiatives | €10/mo                                                                                                        |
+| Women Who Code              | Local chapters               | 10%                                                                                                           |
+| Operation Code              | Local chapters               | 30%                                                                                                           |
 
 ### Why are there different Fiscal Hosts?
 
@@ -48,4 +48,3 @@ Go to the fiscal host's page and click “Apply”. You can see [all hosts here]
 ### I'm interested in becoming a Fiscal Host
 
 Please see our documentation on [becoming a Fiscal Host](become-a-fiscal-host.md).
-

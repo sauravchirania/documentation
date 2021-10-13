@@ -1,5 +1,5 @@
 ---
-description: 'Instructions on how to safely connect to Wise, f.k.a. TransferWise.'
+description: Instructions on how to safely connect to Wise, f.k.a. TransferWise.
 ---
 
 # Payouts with Wise
@@ -18,7 +18,7 @@ The fees are charged by Wise and its value will vary with the currencies and val
 
 These fees are paid by the collective the expense was submitted for. This means that transactions in Wise will display the fees but that value will also be deducted from the collective balance in our platform as a _payment processor fee_.
 
-![An expense submitted to Open Collective Engineering paid using TransferWise.](../../.gitbook/assets/image%20%2817%29.png)
+![An expense submitted to Open Collective Engineering paid using TransferWise.](<../../.gitbook/assets/image (17).png>)
 
 ## Limitations
 
@@ -47,27 +47,27 @@ These fees are paid by the collective the expense was submitted for. This means 
 
 ## Paying Expenses
 
-Once you're connected to Wise and you start receiving expenses requesting a bank account transfer, you'll be able to automatically pay that from your main Wise balance with a single click. The _Go to Pay_ button in approved expenses displays the Wise icon and by clicking this button you'll open the _Pay expense_ modal.
+Once you're connected to Wise and you start receiving expenses requesting a bank account transfer, you'll be able to automatically pay that from your main Wise balance with a single click. The _Go to Pay _button in approved expenses displays the Wise icon and by clicking this button you'll open the _Pay expense_ modal.
 
 ![Approved Expense submitted with Bank account information.](../../.gitbook/assets/screenshot-from-2021-06-29-16-25-08.png)
 
-In the _Pay expense_ modal you can select if you want to pay it automatically with the integration or pay it manually, effectively marking the expense as paid so you can use any other method you want to settle this expense.
+In the_ Pay expense_ modal you can select if you want to pay it automatically with the integration or pay it manually, effectively marking the expense as paid so you can use any other method you want to settle this expense.
 
 ![Pay expense modal set to pay the expense automatically.](../../.gitbook/assets/screenshot-from-2021-06-29-16-23-02.png)
 
 ### Batching and Paying expenses using OTT
 
-For some accounts \(especialy in Europe and UK\), Wise will require you to authorize the payment using an One-Time Token sent to you through SMS, Email or the Wise app.
+For some accounts (especialy in Europe and UK), Wise will require you to authorize the payment using an One-Time Token sent to you through SMS, Email or the Wise app.
 
 ![You can schedule expenses to manually pay in batches when Wise requires OTT authorization.](../../.gitbook/assets/screenshot-from-2021-06-29-16-11-03.png)
 
-On such case, _Pay expense_ modal displays the _Schedule to Pay with Wise_ button that once clicked marks the expense as _Scheduled for Payment_. This will allow you to batch multiple expense for payment and authorizing all the payments in a single transaction.
+On such case,_ Pay expense_ modal displays the _Schedule to Pay with Wise _button that once clicked marks the expense as _Scheduled for Payment_. This will allow you to batch multiple expense for payment and authorizing all the payments in a single transaction.
 
 In order for paying for the scheduled expenses, the host admin can find the _Pay Batch_ button on a suspended banner in the expenses page in the host dashboard:
 
 ![](../../.gitbook/assets/screenshot-from-2021-06-29-16-18-33.png)
 
-If you click on _Pay Batch_, a confirmation modal will be displayed and if you click _Pay with Wise,_ all scheduled expenses are going to be batched in a single Wise group transaction.
+If you click on _Pay Batch_, a confirmation modal will be displayed and if you click _Pay with Wise, _all scheduled expenses are going to be batched in a single Wise group transaction.
 
 ![](../../.gitbook/assets/screenshot-from-2021-06-29-16-42-45.png)
 
@@ -87,4 +87,3 @@ In order to reduce risks related to having an active API token that is able to c
 
 * `Unable to fund transfer`
   * Double-check if you have enough funds in your Wise balance, you'll be using the balance with the same currency of your OpenCollective account.
-

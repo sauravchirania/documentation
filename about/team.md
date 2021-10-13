@@ -8,98 +8,98 @@ description: >-
 
 ### **Pia Mancini**
 
-Co-founder & CEO  
+Co-founder & CEO\
 Madrid, Spain
 
-[Twitter](https://twitter.com/piamancini%20), [LinkedIn](https://www.linkedin.com/in/piamancini/)
+[Twitter](https://twitter.com/piamancini), [LinkedIn](https://www.linkedin.com/in/piamancini/)
 
 ### **François Hodierne**
 
-CTO  
+CTO\
 Berlin, Germany
 
 [Twitter](https://twitter.com/znarf), [GitHub](https://github.com/znarf), [Linkedin ](https://www.linkedin.com/in/francoishodierne/)
 
 ### **Alanna Irving**
 
-COO  
+COO\
 Wellington, New Zealand
 
 [Website](https://alanna.space), [LinkedIn](https://www.linkedin.com/in/alannairving83/)
 
 ### **Benjamin Nickolls**
 
-CPO  
+CPO\
 Shropshire, United Kingdom
 
 [Twitter](https://twitter.com/BenJam), [GitHub](https://github.com/BenJam), [Linkedin](https://www.linkedin.com/in/benjamuk/)
 
 ### **Benjamin Piouffle**
 
-Software Engineer  
+Software Engineer\
 Aix-en-Provence, France
 
 [Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree), [Linkedin ](https://www.linkedin.com/in/benjaminpiouffle/)
 
 ### **Leo Kewitz**
 
-Software Engineer  
+Software Engineer\
 Brazil
 
 [GitHub](https://github.com/kewitz),[ Linkedin](https://www.linkedin.com/in/kewitz/)
 
 ### **Guillermo Esparza**
 
-Designer  
+Designer\
 Guadalajara, Mexico
 
 [Github](https://github.com/Memo-Es), [Linkedin](https://www.linkedin.com/in/memo-es/)
 
 ### **Alina Manko**
 
-Operations Support and Financial Admin  
+Operations Support and Financial Admin\
 Wellington, New Zealand
 
 [Linkedin ](https://www.linkedin.com/in/alinamanko/)
 
 ### **Amina Kazi**
 
-Designer  
+Designer\
 Navi Mumbai, India
 
 [Linkedin](https://www.linkedin.com/in/amina-kazi-a97b47158/)
 
 ### Shannon Wray
 
-Documentation  
+Documentation\
 Auckland, New Zealand
 
 [Linkedin ](https://www.linkedin.com/in/shannonwray)
 
 ### Kayla 
 
-Admin Support - Open Collective Foundation   
+Admin Support - Open Collective Foundation \
 Mexico
 
 ### Sudharaka Palamakumbura
 
-Software Designer  
+Software Designer\
 Vancouver, British Columbia, Canada 
 
 [Linkedin ](https://www.linkedin.com/in/sudharakap/)
 
 ### Nathan Hewitt
 
-Open Collective Foundation   
+Open Collective Foundation \
 New York, United States
 
-[Linkedin](https://www.linkedin.com/in/nthnh/), [Website](https://natehn.com/)
+[Linkedin](https://www.linkedin.com/in/nthnh/), [Website](https://natehn.com)
 
 ## Advisors
 
 **Xavier Damman**
 
-Original founder  
+Original founder\
 Brussels, Belgium
 
 [Twitter](https://twitter.com/xdamman), [LinkedIn](https://www.linkedin.com/in/xavierdamman)
@@ -112,5 +112,4 @@ Our team is distributed between Aix-en-Provence, Auckland, Brussels, Berlin, Gua
 
 English, Spanish, Portuguese, Hebrew, Russian, Japanese, French and German are just some of the languages spoken by our team. 
 
-![](../.gitbook/assets/about_team_map_2021-08-18.png)
-
+![](../.gitbook/assets/about_team_map\_2021-08-18.png)

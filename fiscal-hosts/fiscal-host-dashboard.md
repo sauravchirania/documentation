@@ -6,7 +6,7 @@
 
 Click the **Dashboard** button on your host page, while logged in as host admin. This button is nested inside the **Actions** menu.
 
-![Dashboard Button on Organization Page](../.gitbook/assets/fiscal_host_fiscal_host_dashboard_dashboard_2021-04-27.gif)
+![Dashboard Button on Organization Page](../.gitbook/assets/fiscal_host_fiscal_host_dashboard_dashboard\_2021-04-27.gif)
 
 ## What can I do on the host dashboard?
 
@@ -18,8 +18,8 @@ Click the **Dashboard** button on your host page, while logged in as host admin.
 
 * **Pending:** expense has been submitted but not yet approved by the Collective's core contributors
 * **Approved:** Core Contributor has confirmed this expense is good to payout
-* **Scheduled for Payment:** Host admin approved and the expense is being batched for payment
-* **Processing:** expense was paid and it is being processed by the payment provider
+* **Scheduled for Payment: **Host admin approved and the expense is being batched for payment
+* **Processing: **expense was paid and it is being processed by the payment provider
 * **Paid:** past expenses already complete
 
 #### Go to Pay
@@ -38,7 +38,7 @@ In the case you're paying with Wise, if you click the action button the expense 
 
 #### Mark as Paid
 
-Green button for manual payments. After paying via another method \(bank transfer, etc\), click this to deduct the amount for the Collective's budget in the system.
+Green button for manual payments. After paying via another method (bank transfer, etc), click this to deduct the amount for the Collective's budget in the system.
 
 #### Edit
 
@@ -79,23 +79,22 @@ Common reasons for a payment to fail after clicking the "Pay with PayPal" button
 
 This section of the dashboard shows all of your incoming contributions. You can filter this section by Period, Amount and Status. 
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](<../.gitbook/assets/image (7).png>)
 
 ### Pending applications
 
 This section on the dashboard shows all of your current pending applications to join your fiscal host. You are able to see the Title, Admins, Purpose, Application message and Email of the Collective. You can then Approve or Reject their application. 
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](<../.gitbook/assets/image (44).png>)
 
 ### Manage hosted Collectives and set custom fees
 
 You can access a list of all your hosted Collectives by clicking on the **Hosted Collectives** tab. With the first dropdown menu, you can sort them by the period of time you've hosted them from the most recent to oldest and oldest to most recent. You can also filter them by fee structure: by **global host fee** or **custom fee**.
 
-![](../.gitbook/assets/fiscal-host_fiscal-host-dashboard_manage_collectives_2020-08-12.png)
+![](../.gitbook/assets/fiscal-host_fiscal-host-dashboard_manage_collectives\_2020-08-12.png)
 
-To add a custom fee to a specific Collective, either find them listed on the page or look for them by name on the search bar. Once you find the right Collective, click on the **Fee structure** button \(the one with a set of lines\).
+To add a custom fee to a specific Collective, either find them listed on the page or look for them by name on the search bar. Once you find the right Collective, click on the **Fee structure** button (the one with a set of lines).
 
-![](../.gitbook/assets/fiscal-host_fiscal-host-dashboard_custom-fees_2020-08-12.gif)
+![](../.gitbook/assets/fiscal-host_fiscal-host-dashboard_custom-fees\_2020-08-12.gif)
 
 You will be prompted to either choose your global fee structure or to create a custom fee for this specific Collective. Don't forget to save your changes!
-

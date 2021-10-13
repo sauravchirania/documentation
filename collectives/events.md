@@ -27,10 +27,10 @@ Log in to your Collective and scroll down to the Events section. Click on the **
 
 You can create several kinds of tickets.
 
-* Type \(supporters, sponsor, or ticket\)
-* Name \(eg, gold sponsor, free ticket, donation, etc\)
-* Description \(what the ticket includes or who it's for\)
-* Amount \(price\) can be free or you can charge
+* Type (supporters, sponsor, or ticket)
+* Name (eg, gold sponsor, free ticket, donation, etc)
+* Description (what the ticket includes or who it's for)
+* Amount (price) can be free or you can charge
 
 You can add more tickets with the "add another ticket" button.
 
@@ -38,7 +38,7 @@ You can add more tickets with the "add another ticket" button.
 
 You'll need to host your image somewhere and link to it with markdown syntax. Use this [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) if you're not sure how. The basic format is:
 
-```text
+```
 ![](https://img.url)
 ```
 
@@ -57,7 +57,7 @@ You will now be able to edit your event.
 
 To delete, scroll down to the bottom and click "delete event".
 
-### **How can I set an admin for my event?** 
+### **How can I set an admin for my event? **
 
 Events inherit the admins of the Collective.
 
@@ -71,4 +71,3 @@ If you want to email your event's attendees, you can do so by using the "Updates
 
 1. If not done already, go to your Settings and enable Updates under Profile Page
 2. Go back to your profile and click on "Create update"
-

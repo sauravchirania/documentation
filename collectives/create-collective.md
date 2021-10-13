@@ -2,17 +2,16 @@
 
 Open Collective allows you to create a transparent funding page for your project in just a few clicks. No need to incorporate, hire a lawyer and accountant, or define organizational roles!
 
-Once you've registered on Open Collective, reveal the dropdown menu by clicking on your username, then click on the **+ New** button under the **My Collectives** section.
+Once you've registered on Open Collective, reveal the dropdown menu by clicking on your username, then click on the **+ New **button under the **My Collectives **section.
 
-![Adding a collective](../.gitbook/assets/collectives_creating_a_collective_2021-05-31.png)
+![Adding a collective](../.gitbook/assets/collectives_creating_a_collective\_2021-05-31.png)
 
 Then, select the category that best describes your Collective.
 
-![&apos;Create a Collective&apos; page showing three categories for Collectives: open source projects, community, and climate initiatives.](../.gitbook/assets/collectives_creatingacollective_createacollective_2021-07-5.png)
+!['Create a Collective' page showing three categories for Collectives: open source projects, community, and climate initiatives.](../.gitbook/assets/collectives_creatingacollective_createacollective\_2021-07-5.png)
 
-If you are not creating an [open-source Collective,](https://www.oscollective.org/) you will be immediately directed to a Collective creation form, where you will be asked for your **Collective name**, **URL slug** of choice, and a **brief description** of your Collective's activities. 
+If you are not creating an [open-source Collective,](https://www.oscollective.org) you will be immediately directed to a Collective creation form, where you will be asked for your **Collective name**, **URL slug** of choice, and a **brief description** of your Collective's activities. 
 
-![](../.gitbook/assets/collectives_creating-a-collective_form_2020-03-23.png)
+![](../.gitbook/assets/collectives_creating-a-collective_form\_2020-03-23.png)
 
-If you are creating a Collective for an **open-source project**, you will be directed to a verification process to join the [Open Source Collective](https://www.oscollective.org/) fiscal host. [More info about that here](osc-verification/).
-
+If you are creating a Collective for an **open-source project**, you will be directed to a verification process to join the [Open Source Collective](https://www.oscollective.org) fiscal host. [More info about that here](osc-verification/).
