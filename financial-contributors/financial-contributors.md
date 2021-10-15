@@ -20,7 +20,7 @@ Join Alanna as she runs through the simplified and detailed contribution money f
 
 Check out the [Discover](https://opencollective.com/discover) page or do a search.
 
-You can also find open source dependencies using [Back Your Stack](https://backyourstack.com/).
+You can also find open source dependencies using [Back Your Stack](https://backyourstack.com).
 
 ## What payment methods can I use?
 
@@ -30,9 +30,9 @@ You can usually pay by credit card through a Collective's page. Some [Fiscal Hos
 
 It depends on the [Fiscal Host ](../fiscal-hosts/fiscal-hosts.md)of the Collective. If the host has tax-exempt status, then your donation can be tax-deductible. It also may matter which country the host is in.
 
-The Open Source Collective 501\(c\)\(6\) is a non-profit that serves as fiscal host to most open source software projects on Open Collective. Unfortunately, the IRS does not consider producing open source software to be a charitable activity in and of itself and therefore does not grant tax-exempt status. Donations to Collectives under Open Source Collective 501\(c\)\(6\) are not tax-deductible.
+The Open Source Collective 501(c)(6) is a non-profit that serves as fiscal host to most open source software projects on Open Collective. Unfortunately, the IRS does not consider producing open source software to be a charitable activity in and of itself and therefore does not grant tax-exempt status. Donations to Collectives under Open Source Collective 501(c)(6) are not tax-deductible.
 
-In contrast, the Open Collective Foundation 501\(c\)\(3\), home to many groups focused on education, outreach, and social impact does qualify for tax-exempt status. If you donate to a Collective under that host, it's tax-deductible in the US.
+In contrast, the Open Collective Foundation 501(c)(3), home to many groups focused on education, outreach, and social impact does qualify for tax-exempt status. If you donate to a Collective under that host, it's tax-deductible in the US.
 
 ## Can I update the billing address on my receipts?
 
@@ -47,14 +47,3 @@ If both Collectives are in the same [Fiscal Host](../fiscal-hosts/fiscal-hosts.m
 To make a Collective-to-Collective donation, go to the page of the Collective and select your contribution amount. You will be given the option to donate from any Collective you are a core contributor of.
 
 ![](../.gitbook/assets/image-2.png)
-
-## Can I leave a message with my donation?
-
-Yes, you will be given the option to write a note with your contribution on the "success" page.
-
-![](../.gitbook/assets/image%20%2846%29.png)
-
-If you want to add a public message to a past contribution, you can do so by going to the collective's page **Contributors** section. Inside your own card you'll see a link titled with `Leave a public message`.
-
-![](../.gitbook/assets/peek-10-03-2020-10-23.gif)
-
