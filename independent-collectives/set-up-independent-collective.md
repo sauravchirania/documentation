@@ -1,12 +1,10 @@
-# Set up Independent Collective
-
-## Set up an Independent Collective
+# Independent Collective Setup
 
 Now your Independent Collective has been created. At this point some extra options will have appeared in your settings menu.
 
 ### Legal name
 
-If the name of your Collective is not the same as the name of the owner of the bank account holding its funds \(person or company\), you should specify that owner's name in the legal name field. You can do this in the Info section. 
+If the name of your Collective is not the same as the name of the owner of the bank account holding its funds (person or company), you should specify that owner's name in the legal name field. You can do this in the Info section. 
 
 For example, the Collective may be named for a specific project, but the holder of the funds might be a person or company associated with the project that has another name.
 
@@ -25,4 +23,3 @@ To enable people to contribute to your Collective, you need to set up ways that 
 ![](../.gitbook/assets/screen-shot-2021-09-30-at-2.43.14-pm.png)
 
 If you wish to receive money via PayPal, please [contact support](mailto:support@opencollective.com) as this feature is still in beta.
-

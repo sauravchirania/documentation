@@ -112,9 +112,9 @@
 ## Independent Collectives
 
 * [About Independent Collectives](independent-collectives/about-independent-collectives.md)
-* [Create Independent Collective](independent-collectives/create-independent-collective.md)
-* [Set up Independent Collective](independent-collectives/set-up-independent-collective.md)
-* [Managing an Independent Collective](independent-collectives/manage-independent-collective/README.md)
+* [Create an Independent Collective](independent-collectives/create-independent-collective.md)
+* [Independent Collective Setup](independent-collectives/set-up-independent-collective.md)
+* [Independent Collective Management](independent-collectives/manage-independent-collective/README.md)
   * [Money coming in: Contributions](independent-collectives/manage-independent-collective/money-coming-in-contributions.md)
   * [Money going out: Expenses](independent-collectives/manage-independent-collective/money-going-out-expenses.md)
 * [Close an Independent Collective](independent-collectives/close-an-independent-collective.md)
