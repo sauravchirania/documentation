@@ -4,7 +4,7 @@ You can specify an expense policy, which appears on the right of the submit expe
 
 To update your expense policy, go to your Collective's page, click on the settings button and go to the **Policies** page.
 
-![](../../.gitbook/assets/collectives_expensepolicy_settings_2021-7-6.png)
+![](../../.gitbook/assets/collectives\_expensepolicy\_settings\_2021-7-6.png)
 
 ## Examples
 
@@ -16,9 +16,14 @@ To update your expense policy, go to your Collective's page, click on the settin
 
 > Feel free to expense a public transport for a conference/meetup as a community member, or for things like stickers. For core members, transport/stay for things like TC39 meetings. For other expenses you can ask. Otherwise, we plan on spending most of the money trying to pay people full time.
 
+## Limit Who Can Submit Expenses
+
+At the bottom of the Policies Settings screen, you'll see an option to "Only allow expenses to be created by Team Members and Financial Contributors (they may invited expenses from other payees)." Ticking this will limit who can see the "Submit Expense" button.
+
+![](<../../.gitbook/assets/Screen Shot 2021-10-22 at 11.38.39 AM.png>)
+
 ## Fiscal Host Expense Policy
 
 Your Fiscal Host can also set an [expense policy](../../fiscal-hosts/fiscal-host-settings/#expenses). It will appear on the submit expense page, underneath the Collective policy.
 
 Often times, Collective expense policies are focused on what categories of things are allowed as expenses, while the Fiscal Host policy pertains to required documentation, like details on invoices.
-
