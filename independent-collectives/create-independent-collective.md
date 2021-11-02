@@ -8,12 +8,12 @@
 
 2\. Once your page is created, click "Start Accepting Contributions".
 
-![](../.gitbook/assets/IndependentCollective_CreateIndependentCollective_startacceptingcontributions\_2021-10-13.png)
+![](../.gitbook/assets/IndependentCollective\_CreateIndependentCollective\_startacceptingcontributions\_2021-10-13.png)
 
-3\. Then select "Ourselves".
+3\. Then select "Independent Collective".
 
-![](../.gitbook/assets/screen-shot-2021-09-30-at-2.31.11-pm.png)
+![](<../.gitbook/assets/Screen Shot 2021-11-02 at 2.48.49 PM.png>)
 
-Or, an alternative way to achieve the same thing is to go to Settings > Fiscal Host. Here you can select "Ourselves" and then click "Yes hold money for one Collective in our own bank account".
+Or, an alternative way to achieve the same thing is to go to Settings > Fiscal Host. Here you can select "Ourselves" and then click "Yes, Activate Independent Collective".
 
-![](../.gitbook/assets/screen-shot-2021-09-30-at-2.38.36-pm.png)
+![](<../.gitbook/assets/Screen Shot 2021-11-02 at 2.52.09 PM.png>)
