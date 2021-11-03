@@ -1,8 +1,8 @@
 # Money going out: Expenses
 
-To spend money from your Collective balance, the payee needs to [submit an expense](../../expenses-and-getting-paid/submitting-expenses.md). 
+To spend money from your Collective balance, the payee needs to [submit an expense](../../expenses-and-getting-paid/submitting-expenses.md).&#x20;
 
-To see all expenses for your Collective, click 'Expenses' under the 'Budget' menu. 
+To see all expenses for your Collective, click 'Expenses' under the 'Budget' menu.&#x20;
 
 ![](../../.gitbook/assets/screen-shot-2021-09-30-at-3.20.52-pm.png)
 
@@ -38,11 +38,11 @@ If you wish to represent expenses previously paid but don't need to actually mov
 
 ## Platform Settlement Expenses
 
-A special type of expense is created when you owe Open Collective money from platform tips. Platform tips are an optional amount added on top of contributions and added funds. 
+A special type of expense is created when you owe Open Collective money from platform tips. Platform tips are an optional amount added on top of contributions and added funds.&#x20;
 
-When a payment with a tip goes through Stripe, the tip is automatically diverted to Open Collective and you don't need to do anything. 
+When a payment with a tip goes through Stripe, the tip is automatically diverted to Open Collective and you don't need to do anything.&#x20;
 
-If a tip is made with a bank transfer transaction, the money including the tip tip will arrive in your bank account. Similarly, if you give a tip when [adding funds manually](money-coming-in-contributions.md#add-funds-manually), it represents money sitting in your bank account already. Therefore, Open Collective has to submit an expense to get paid.
+If a tip is made with a bank transfer transaction, the money—including the tip—will arrive in your bank account. Similarly, if you give a tip when [adding funds manually](money-coming-in-contributions.md#add-funds-manually), it represents money sitting in your bank account already. Therefore, Open Collective has to submit an expense to get paid.
 
 Platform Settlement Expenses will automatically appear once per month if any tips are due to be transferred to Open Collective. You can proceed to approve and pay it like any other expense.
 
