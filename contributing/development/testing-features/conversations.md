@@ -9,9 +9,9 @@ description: >-
 {% hint style="info" %}
 **Prerequisite : Enable conversations**
 
-* For newly created collectives, conversations are enabled by default!
-* Otherwise go to the settings page \(`/{collective}/edit`\), click on **Conversations** and **enable**
-{% endhint %}
+- For newly created collectives, conversations are enabled by default!
+- Otherwise go to the settings page \(`/{collective}/admin`\), click on **Conversations** and **enable**
+  {% endhint %}
 
 ## Create conversations
 
@@ -20,6 +20,3 @@ Go to `/{collective}/conversations/new`
 ## View conversations list
 
 Go to `/{collective}/conversations`
-
-
-
