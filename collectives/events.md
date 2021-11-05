@@ -14,11 +14,11 @@ This functionality is still in it's experimental phase.
 
 Log in to your Collective and scroll down to the Events section. Click on the **Create Event** button.
 
-![](../.gitbook/assets/collectives_events_creating-a-event.png)
+![](../.gitbook/assets/collectives\_events\_creating-a-event.png)
 
 * **URL:** the online address your event will have - very important so you don't get a [404 error](events.md#i-cant-see-my-event-listed-or-get-a-404-error).
 * **Name** of the event
-* **Description:** purpose, schedule, etc
+* **Description:** purpose, schedule, etc. Use something short (less than 255 characters). You'll be able to set a longer description directly on the event page after its creation.
 * **Start** date & time
 * **End** date & time
 * **Location:** the address will load a map
@@ -61,9 +61,15 @@ To delete, scroll down to the bottom and click "delete event".
 
 Events inherit the admins of the Collective.
 
-### **I can't see my event listed or get a 404 error**
+### **How can I set a longer description?**
 
-You probably forgot to set the URL field when creating the event. Just write to us at [support@opencollective.com](mailto:support@opencollective.com) and we will fix it. Sorry for the inconvenience this may cause you—we are working on improving this.
+You'll be able to set a longer description from your profile page. Scroll down to the about section, and either click on "Add a description" or the edit icon if one is already set.
+
+![](<../.gitbook/assets/image (16).png>)
+
+****
+
+
 
 ## Email Attendees
 
