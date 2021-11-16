@@ -10,7 +10,11 @@
 
 Select who you'd like to pay as—yourself as an individual, or an [Organization](organizations/) or [Collective](../collectives/collectives.md) you manage.
 
-You can also contribute anonymously by making an incognito contribution. If you chose to contribute as "incognito", your financial contribution will not show up publicly linked to your profile. However, administrators can privately see which profiles are attached to incognito contributions.
+You can also contribute anonymously by making an incognito contribution. If you chose to contribute as "incognito", your financial contribution will not show up publicly linked to your profile. However, administrators can privately see which profiles are attached to incognito contributions.&#x20;
+
+You can find the option to donate incognito (anonymously) on the second step of the contributions page:
+
+![](<../.gitbook/assets/Screen Shot 2021-11-17 at 11.14.35 AM.png>)
 
 #### Payment info
 
@@ -32,7 +36,7 @@ You will be charged when you first contribute, and then on the 1st of each month
 
 ## Contributing as a guest
 
-If you start the contribution flow (ie. [http://opencollective.com/babel/donate](http://opencollective.com/babel/donate)) while being logged out, the system will allow you to continue without signing in/up, just by providing your email address.
+If you start the contribution flow (ie. [http://opencollective.com/babel/donate](http://opencollective.com/babel/donate)) while being logged out, the system will allow you to continue without signing in/up, just by providing your email address. Note that guest accounts are not automatically anonymous- you need to not put your name in under "Full Name," i.e. write "guest" or "anonymous," otherwise it will show up along with the transaction. For information about submitting a contribution anonymously (incognito) if you already have an Open Collective profile, [see above](https://docs.opencollective.com/help/financial-contributors/payments#profile).&#x20;
 
 {% hint style="info" %}
 Above a certain amount, the system will ask you additional information such as your physicall address. This information is required for legal purpose, and stays private.
