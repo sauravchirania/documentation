@@ -66,7 +66,7 @@
 * [Financial Contributors FAQ](financial-contributors/financial-contributors.md)
 * [Guest contributions](financial-contributors/guest-contributions.md)
 * [Payments](financial-contributors/payments.md)
-* [Contributing Cryptocurrencies](financial-contributors/crptocurrencies.md)
+* [Crypto Contributions](financial-contributors/crypto.md)
 * [Website Badge](financial-contributors/website-badge.md)
 * [Receipts](financial-contributors/receipts.md)
 * [Collective to Collective](financial-contributors/collective-to-collective.md)

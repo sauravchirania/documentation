@@ -10,19 +10,19 @@ Collective Goals will be sent in the emails sent to your contributors, and you c
 
 To create your own Collective goals, go to your Collective profile, click on **Settings** and then on **Collective Goals**.
 
-![](../../.gitbook/assets/collectives_customize_collective_2021-05-31.png)
+![](../../.gitbook/assets/collectives\_customize\_collective\_2021-05-31.png)
 
-![](../../.gitbook/assets/collectives_collectives_goals_and_tiers_2021-05-31.png)
+![](../../.gitbook/assets/collectives\_collectives\_goals\_and\_tiers\_2021-05-31.png)
 
 To create a goal, give it a **title**, categorize it as either a goal **balance** or **yearly budget,** specify the **amount** you need and add a **description**. Don't forget to **save** your changes when you're done!
 
-![](../../.gitbook/assets/collectives_collective-goals-and-tiers_collective-goal-customization_2020-08-12.png)
+![](../../.gitbook/assets/collectives\_collective-goals-and-tiers\_collective-goal-customization\_2020-08-12.png)
 
 ## Tiers
 
 You can also control contributions and tiers by accessing the **Tiers** section.
 
-![](../../.gitbook/assets/collectives_collective-goals-and-tiers_collective-tiers-settings_2020-08-12.png)
+![](../../.gitbook/assets/collectives\_collective-goals-and-tiers\_collective-tiers-settings\_2020-08-12.png)
 
 ### Enabling flexible contributions
 
@@ -30,13 +30,13 @@ You can define whether you can to allow flexible contributions or not by manipul
 
 ### Enabling 'Crypto contributions
 
-You can accept contributions using cryptocurrencies by enabling this tier. Note that contributions are settled \(converted\) into your currency on collection. Read more about [contributing cryptocurrency](../../financial-contributors/crptocurrencies.md).
+You can accept contributions using cryptocurrencies by enabling this tier. Note that contributions are settled (converted) into your currency on collection. Read more about [contributing cryptocurrency](../../financial-contributors/crypto.md).
 
 ### Creating custom tiers
 
 You can also create custom tiers on the same page. Click on **add another tier** to activate the following form:
 
-![](../../.gitbook/assets/collective_collective_goals_and_tiers_2021-05-31.png)
+![](../../.gitbook/assets/collective\_collective\_goals\_and\_tiers\_2021-05-31.png)
 
 ### Configuration for Tiers
 
@@ -74,13 +74,13 @@ The minimum amount allowed for this contribution, if any.
 
 #### **Available quantity**
 
-For limited edition contributions \(such as special edition items, one-time events, etc\).
+For limited edition contributions (such as special edition items, one-time events, etc).
 
 #### **Button text**
 
-The action word on the Tier card users click \(such as donate, join, contribute\). You can also add emojis if you wish!
+The action word on the Tier card users click (such as donate, join, contribute). You can also add emojis if you wish!
 
-![Example of a Tier with an emoji](../../.gitbook/assets/collectives_tiers-and-goals_tiers-emoji-button.png)
+![Example of a Tier with an emoji](../../.gitbook/assets/collectives\_tiers-and-goals\_tiers-emoji-button.png)
 
 #### **Goal**
 
@@ -90,11 +90,11 @@ Target amount you're trying to raise in this Tier.
 
 If you want to force the creation of a page for this tier. Here's what it looks like:
 
-![](../../.gitbook/assets/collectives_tiers-and-goals_tiers-standalone-page.png)
+![](../../.gitbook/assets/collectives\_tiers-and-goals\_tiers-standalone-page.png)
 
 You can access it from your Collective page by clicking on **Read more**.
 
-![](../../.gitbook/assets/collectives_tiers-and-goals_tiers-read-more.png)
+![](../../.gitbook/assets/collectives\_tiers-and-goals\_tiers-read-more.png)
 
 To add more Tiers, click the blue "add another tier" button.
 
@@ -108,7 +108,7 @@ An example is [Babel's Base Support Sponsor](https://opencollective.com/babel#co
 
 Here is a template for a basic support tier for your collective:
 
-> Become a Base Support Sponsor with a yearly donation of $24,000 \($2k/month paid in full upfront\). Get your logo on our README on Github and on the front page of our website, as well as access to up to 2 hours of support per month. Support will be remote with the option of a share screen or via private chat.
+> Become a Base Support Sponsor with a yearly donation of $24,000 ($2k/month paid in full upfront). Get your logo on our README on Github and on the front page of our website, as well as access to up to 2 hours of support per month. Support will be remote with the option of a share screen or via private chat.
 
 With the above tier example, your responsibilities as a Collective are:
 
@@ -117,7 +117,7 @@ With the above tier example, your responsibilities as a Collective are:
 
 The Sponsor's responsibilities are:
 
-* Contacting you with via the specified channels 
+* Contacting you with via the specified channels&#x20;
 * Limiting their support requirements to the time slots specified
 * Scheduling the time slots at least a week in advance
 
@@ -127,7 +127,7 @@ The Sponsor's responsibilities are:
 
 #### How do I define the price?
 
-It depends on a lot of things but mainly on how critical is your open source project to the organization \(which is arguably quite subjective\). We recommend to start at $500/month with a yearly commitment \($6k up front\) for access to two hours of support a month. As you grow, you can start increasing the price.
+It depends on a lot of things but mainly on how critical is your open source project to the organization (which is arguably quite subjective). We recommend to start at $500/month with a yearly commitment ($6k up front) for access to two hours of support a month. As you grow, you can start increasing the price.
 
 #### Why a yearly commitment?
 
@@ -139,13 +139,12 @@ By subscribing to a support tier, you not only get private time for your team to
 
 #### Do I get an invoice?
 
-Yes, you will receive an invoice emitted by the host of the collective \(for example, [Open Source Collective 501c6](https://opencollective.com/opensource)\).
+Yes, you will receive an invoice emitted by the host of the collective (for example, [Open Source Collective 501c6](https://opencollective.com/opensource)).
 
-#### Can I do a Purchase Order \(PO\)?
+#### Can I do a Purchase Order (PO)?
 
 Hosts can work with you to go through your Purchase Order process. Just reach out to us: [support@opencollective.com](mailto:support@opencollective.com).
 
 #### What if we never were provided with support?
 
-Please reach out to us and we will work it out \([support@opencollective.com](https://github.com/opencollective/documentation/tree/1b6b2a20534e35ca28433008c25dfde7a0e386fa/collectives/support@opencollective.com)\).
-
+Please reach out to us and we will work it out ([support@opencollective.com](https://github.com/opencollective/documentation/tree/1b6b2a20534e35ca28433008c25dfde7a0e386fa/collectives/support@opencollective.com)).
