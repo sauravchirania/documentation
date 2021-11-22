@@ -39,3 +39,4 @@ There are a few websites that don't accept prepaid cards.&#x20;
 * Google&#x20;
 * Zipcar
 * DigitalOcean
+* Sendle
