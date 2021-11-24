@@ -8,9 +8,13 @@ If you get value out of what a project produces or stands for, support them to m
 
 Go to the Collective page of the project you want to support. Select a contribution tier and set up a recurring or one-time donation.
 
-## Where does your contribution go when you give money to a Collective? 
+## What is a platform tip?
 
-Join Alanna as she runs through the simplified and detailed contribution money flow 
+Open Collective does not charge fees directly to Collectives. The platform is supported by voluntary payments added to contributions at checkout called "Platform Tips". Tips enable us to keep building and improving the software that powers it all.
+
+## Where does your contribution go when you give money to a Collective?&#x20;
+
+Join Alanna as she runs through the simplified and detailed contribution money flow&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=mFH5s8UexjY" %}
 
@@ -38,7 +42,7 @@ In contrast, the Open Collective Foundation 501(c)(3), home to many groups focus
 
 Yes. To do so, go to your Profile and click on the gear icon next to your avatar. You will find an Address field on the first page:
 
-![](../.gitbook/assets/financial-contributors_address.jpeg)
+![](../.gitbook/assets/financial-contributors\_address.jpeg)
 
 ## Can my Collective give to another Collective?
 
