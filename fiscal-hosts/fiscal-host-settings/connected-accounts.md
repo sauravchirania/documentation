@@ -12,27 +12,17 @@ Click on **Connect Twitter**. You will be prompted to either directly authorize 
 
 Connecting your account will provide you a few automation options based on how many financial contributors Collectives you host have reached:
 
-![Options for activating automated tweets whenever a Collective you host reach 10, 100 and 1,000 financial contributors.](../../.gitbook/assets/fiscal-host_fiscal-host-settings_settings-connected-accounts-settings\_2020-07-13.png)
+![Options for activating automated tweets whenever a Collective you host reach 10, 100 and 1,000 financial contributors.](../../.gitbook/assets/fiscal-host\_fiscal-host-settings\_settings-connected-accounts-settings\_2020-07-13.png)
 
-## Receiving donations through PayPal
+## Receiving contributions through PayPal
 
 {% hint style="info" %}
-This feature is currently in **Beta** test, read more about it below.
+This feature is currently in **beta**, meaning it's still being tested. To turn on PayPal contributions, [email support](mailto:support@opencollective.com).
 {% endhint %}
-
-### The Beta test
-
-We're currently testing this feature with the help of selected Host collectives.
-
-If you're interested in testing this feature, please reach out through [support@opencollective.com](mailto:support@opencollective.com). If you're already testing the feature and wish to leave the test, you can also send an email to support.
 
 ### Fees
 
-#### What are the fees involved?
-
-There are payment processor fees charged by PayPal and if you're subjected to, the platform fees charged by Open Collective.
-
-The payment processor fees will be automatically deducted from the original charge but as of now, the platform fees can not be automatically deducted. For the current beta, this debt will be settled once a month through an invoice we'll send you.
+Payment processor fees charged by PayPal will be automatically deducted. If any platform tips or platform share is paid through PayPal, it will go to your account and will be paid later, via the monthly settlement expense.
 
 ### Connecting PayPal
 
