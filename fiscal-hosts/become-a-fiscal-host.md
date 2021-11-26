@@ -4,7 +4,7 @@
 
 By becoming a Fiscal Host, you can enable Collectives to accept and disburse money in full transparency, without the Collectives having to create their own legal entity and bank account. Collectives can then pursue their activities, be accountable to funders, and automatically keep good records.
 
-You can be a Fiscal Host for lots of Collectives or just for your own Collective.
+Fiscal Hosts provide an umbrella structure for _multiple Collectives_ to operate. If you only want to have a single Collective plugged into your own bank account, create an [Independent Collective](broken-reference) instead.
 
 ### What kinds of things are Fiscal Hosts used for?
 
@@ -46,10 +46,15 @@ To be a Fiscal Host, you need:
 
 * A legal entity
 * A bank account
-* A Stripe account (optional, to enable credit card payments)
-* A PayPal account (optional, for incoming or outgoing payments)
+* Payment processor merchant accounts (Stripe, Wise, PayPal), if you wish to use the integrations and automations which rely on them (optional)
 * Someone to serve as admin (or multiple admins)
 
-Individuals can be Fiscal Hosts using personal bank accounts, but you will be personally responsible for any tax and legal implications. Most fiscal hosts for larger numbers of Collectives operate through a legal entity.
+### Fees
 
-### [Ready to create a Fiscal Host?](create-a-fiscal-host.md)
+Open Collective is free for Collectives, and for Hosts who do not charge a Host Fee to the Collectives they Host. If you do opt to charge a Host Fee, then 15% of that revenue will be charged as the Platform Share. I.e, if you charge a 10% Host Fee and your Collectives bring in $1,000, Host Fees will be $100 and of that 15% ($15) goes to Open Collective.
+
+This model is designed to keep fees low for users without revenue and share back with the platform from revenue created on the platform, enabling us to continue to build and improve Open Collective for everyone.&#x20;
+
+[More info](https://opencollective.com/pricing) about pricing.
+
+## [Ready to create a Fiscal Host?](create-a-fiscal-host.md)
