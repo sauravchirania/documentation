@@ -17,7 +17,7 @@ openssl genrsa -out private.pem 2048
 openssl rsa -pubout -in private.pem -out public.pem
 ```
 
-After that, you can encode the private key using **base64 **and save it as an environment variable:
+After that, you can encode the private key using **base64** and save it as an environment variable:
 
 ```
 TRANSFERWISE_PRIVATE_KEY=$(cat private.pem | base64 -w 0)

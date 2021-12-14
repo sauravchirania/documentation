@@ -14,7 +14,7 @@ Virtual cards can be used to make purchases on behalf of your collective. Each c
 
 Please note that our payments provider Privacy.com does not accept payments to money transfer services like PayPal, Payoneer or Paysend. Attempts to pay for services via these providers will be declined.
 
-_In addition, some providers — most notably Google — do not accept virtual cards as a legitimate payment mechanism. We are monitoring this situation while the service is in Beta. _
+_In addition, some providers — most notably Google — do not accept virtual cards as a legitimate payment mechanism. We are monitoring this situation while the service is in Beta._&#x20;
 
 ## Viewing card details
 
@@ -32,7 +32,7 @@ Hosts can choose to pause virtual cards if there are any incomplete expenses. Th
 Be aware of your surroundings when viewing a card's details as others may be able to see them.
 {% endhint %}
 
-### **Companies that don't accept Virtual Cards **
+### **Companies that don't accept Virtual Cards**&#x20;
 
 There are a few websites that don't accept prepaid cards.&#x20;
 

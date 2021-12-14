@@ -57,7 +57,7 @@ You will now be able to edit your event.
 
 To delete, scroll down to the bottom and click "delete event".
 
-### **How can I set an admin for my event? **
+### **How can I set an admin for my event?**&#x20;
 
 Events inherit the admins of the Collective.
 
@@ -65,7 +65,7 @@ Events inherit the admins of the Collective.
 
 You'll be able to set a longer description from your profile page. Scroll down to the about section, and either click on "Add a description" or the edit icon if one is already set.
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 ****
 

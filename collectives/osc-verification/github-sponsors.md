@@ -17,10 +17,10 @@ _Note: Transaction data about the funds you receive through GitHub Sponsors will
 Open Source Collective projects can use Open Collective to receive GitHub Sponsors funds by following these steps:
 
 1. Confirm that you have a **GitHub organization** (not an individual user account). You can create a GitHub organization by following [this guide](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch).
-2. [Create a Collective](https://opencollective.com/opensource/apply) for your open source project if you don't already have one. You will need to use [Open Source Collective](https://opencollective.com/opensource) as your fiscal host. _Note: Open Collective also has a thing called "Organizations" but this is unrelated. You need an Organization on the GitHub side and a Collective on the Open Collective side. _
-3. Visit [github.com/sponsors](http://github.com/sponsors) and sign your Github organization up for the Sponsors waitlist.  
+2. [Create a Collective](https://opencollective.com/opensource/apply) for your open source project if you don't already have one. You will need to use [Open Source Collective](https://opencollective.com/opensource) as your fiscal host. _Note: Open Collective also has a thing called "Organizations" but this is unrelated. You need an Organization on the GitHub side and a Collective on the Open Collective side._&#x20;
+3. Visit [github.com/sponsors](http://github.com/sponsors) and sign your Github organization up for the Sponsors waitlist. &#x20;
 
-✔️ Select: "This organization is using a fiscal host" and select Open Source Collective from the menu.  
+✔️ Select: "This organization is using a fiscal host" and select Open Source Collective from the menu. &#x20;
 
 ✔️ For non-profit status, answer: “Yes, this organization has nonprofit status but cannot receive tax-deductible donations from individuals (e.g., 501c6)”
 
@@ -42,13 +42,13 @@ As Open Source Collective is a US entity, select **United States**.
 
 Enter **your own phone number and email**, which will be used to verify the account and to send updates.
 
-![](../../.gitbook/assets/github_stripe\_1.png)
+![](../../.gitbook/assets/github\_stripe\_1.png)
 
 ### Verify your phone number
 
 Next, you will be asked to verify the phone number you gave:
 
-![](../../.gitbook/assets/github_stripe\_2.png)
+![](../../.gitbook/assets/github\_stripe\_2.png)
 
 Once the phone number is verified, you will start filling out details about the fiscal host, Open Source Collective.
 
@@ -60,7 +60,7 @@ This next section is asking questions about the business. As a Collective fiscal
 * Doing business as: `Name of your Collective`
 * Business website: `https://opencollective.com/your_collective`
 
-![](../../.gitbook/assets/github_stripe\_3.png)
+![](../../.gitbook/assets/github\_stripe\_3.png)
 
 If you are asked for an EIN or "commercial registry number", put in OSC's EIN: **82-2037583**.
 
@@ -72,7 +72,7 @@ If you are asked for an EIN or "commercial registry number", put in OSC's EIN: *
 
 Next, you will be filling out details as the acting executive for the Collective. Use your personal information on this page.
 
-![](../../.gitbook/assets/github_stripe\_4.png)
+![](../../.gitbook/assets/github\_stripe\_4.png)
 
 ### Payout details
 
@@ -81,7 +81,7 @@ Finally, you will input bank account information. Funds you receive through GitH
 * Routing number: `123205054`
 * Account Number: `4869374308`
 
-![](../../.gitbook/assets/github_stripe\_5.png)
+![](../../.gitbook/assets/github\_stripe\_5.png)
 
 After that, you should be all set! ✌️😎
 

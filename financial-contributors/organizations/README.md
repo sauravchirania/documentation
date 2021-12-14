@@ -15,7 +15,7 @@ An Organization is a profile that represents a company or entity instead of an i
 
 ### **If you already have an individual profile**
 
-Go to your profile menu (top right) and look for the My Organizations section. Click "**+"**. 
+Go to your profile menu (top right) and look for the My Organizations section. Click "**+"**.&#x20;
 
 ![User menu - click on "+" to create a new organization](<../../.gitbook/assets/image (45).png>)
 
@@ -37,7 +37,7 @@ Use the cog icon next to the organization that you want to edit.
 
 
 
-From there you can change your **Info**, add or remove **Team members**, create or edit your **Expenses Policy**,** **manage your **Payment Methods**, **Gift Cards**, **Connected Accounts**, **Webhooks** and to access **Advanced** settings.
+From there you can change your **Info**, add or remove **Team members**, create or edit your **Expenses Policy**, **** manage your **Payment Methods**, **Gift Cards**, **Connected Accounts**, **Webhooks** and to access **Advanced** settings.
 
 Don't forget to **save your changes**!
 

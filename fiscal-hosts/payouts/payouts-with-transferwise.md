@@ -32,7 +32,7 @@ These fees are paid by the collective the expense was submitted for. This means 
 ## Connecting Wise
 
 * Go to [Open Collective](https://www.opencollective.com).
-* Open your Host collective settings page and click on the _Sending Money_ option in the menu. ![](../../.gitbook/assets/kapture-2020-05-13-at-10.15.15.gif)   
+* Open your Host collective settings page and click on the _Sending Money_ option in the menu. ![](../../.gitbook/assets/kapture-2020-05-13-at-10.15.15.gif)  &#x20;
 * Click on _Connect Wise_ button;
 
 ![](../../.gitbook/assets/screenshot-from-2021-05-12-18-46-55.png)
@@ -47,11 +47,11 @@ These fees are paid by the collective the expense was submitted for. This means 
 
 ## Paying Expenses
 
-Once you're connected to Wise and you start receiving expenses requesting a bank account transfer, you'll be able to automatically pay that from your main Wise balance with a single click. The _Go to Pay _button in approved expenses displays the Wise icon and by clicking this button you'll open the _Pay expense_ modal.
+Once you're connected to Wise and you start receiving expenses requesting a bank account transfer, you'll be able to automatically pay that from your main Wise balance with a single click. The _Go to Pay_ button in approved expenses displays the Wise icon and by clicking this button you'll open the _Pay expense_ modal.
 
 ![Approved Expense submitted with Bank account information.](../../.gitbook/assets/screenshot-from-2021-06-29-16-25-08.png)
 
-In the_ Pay expense_ modal you can select if you want to pay it automatically with the integration or pay it manually, effectively marking the expense as paid so you can use any other method you want to settle this expense.
+In the _Pay expense_ modal you can select if you want to pay it automatically with the integration or pay it manually, effectively marking the expense as paid so you can use any other method you want to settle this expense.
 
 ![Pay expense modal set to pay the expense automatically.](../../.gitbook/assets/screenshot-from-2021-06-29-16-23-02.png)
 
@@ -61,13 +61,13 @@ For some accounts (especialy in Europe and UK), Wise will require you to authori
 
 ![You can schedule expenses to manually pay in batches when Wise requires OTT authorization.](../../.gitbook/assets/screenshot-from-2021-06-29-16-11-03.png)
 
-On such case,_ Pay expense_ modal displays the _Schedule to Pay with Wise _button that once clicked marks the expense as _Scheduled for Payment_. This will allow you to batch multiple expense for payment and authorizing all the payments in a single transaction.
+On such case, _Pay expense_ modal displays the _Schedule to Pay with Wise_ button that once clicked marks the expense as _Scheduled for Payment_. This will allow you to batch multiple expense for payment and authorizing all the payments in a single transaction.
 
 In order for paying for the scheduled expenses, the host admin can find the _Pay Batch_ button on a suspended banner in the expenses page in the host dashboard:
 
 ![](../../.gitbook/assets/screenshot-from-2021-06-29-16-18-33.png)
 
-If you click on _Pay Batch_, a confirmation modal will be displayed and if you click _Pay with Wise, _all scheduled expenses are going to be batched in a single Wise group transaction.
+If you click on _Pay Batch_, a confirmation modal will be displayed and if you click _Pay with Wise,_ all scheduled expenses are going to be batched in a single Wise group transaction.
 
 ![](../../.gitbook/assets/screenshot-from-2021-06-29-16-42-45.png)
 

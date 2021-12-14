@@ -12,15 +12,15 @@
 
 1. Go to your Collective page and click the gear next to your Collective logo.
 
-![Settings location on Collective page](../../.gitbook/assets/collectives_team_settings\_2021-04-27.png)
+![Settings location on Collective page](../../.gitbook/assets/collectives\_team\_settings\_2021-04-27.png)
 
-2\. Head to the **Team** tab. Here you can add, remove, or change people and roles. 
+2\. Head to the **Team** tab. Here you can add, remove, or change people and roles.&#x20;
 
-![](../../.gitbook/assets/collectives_team_teamtab\_2021-08-31.png)
+![](../../.gitbook/assets/collectives\_team\_teamtab\_2021-08-31.png)
 
-3\. Click the Invite Team Member button 
+3\. Click the Invite Team Member button&#x20;
 
-![](../../.gitbook/assets/collectives_team_inviteteammember\_2021-08-31.png)
+![](../../.gitbook/assets/collectives\_team\_inviteteammember\_2021-08-31.png)
 
 {% hint style="info" %}
 Only **Admins** can edit the Collective and approve expenses. Be sure to select the right role option.
@@ -28,15 +28,15 @@ Only **Admins** can edit the Collective and approve expenses. Be sure to select 
 
 4\. This will then bring up a form in which you can search or invite a new user. Once you are done, click on **Save** at the bottom of the page.
 
-![](../../.gitbook/assets/collectives_team_inviteauser\_2021-08-31.gif)
+![](../../.gitbook/assets/collectives\_team\_inviteauser\_2021-08-31.gif)
 
-5\. Users will receive an invite to join the Collective. They will not be displayed publicly until this invitation is accepted. You will then see the new user that you have invited as pending until the invitation is accepted. 
+5\. Users will receive an invite to join the Collective. They will not be displayed publicly until this invitation is accepted. You will then see the new user that you have invited as pending until the invitation is accepted.&#x20;
 
-![](../../.gitbook/assets/collectives_team_inviteduser\_2021-08-31.png)
+![](../../.gitbook/assets/collectives\_team\_inviteduser\_2021-08-31.png)
 
-6\. To edit a Team Member click the edit (pencil) button. This will allow you to edit the user's permissions and remove a user if you wish. 
+6\. To edit a Team Member click the edit (pencil) button. This will allow you to edit the user's permissions and remove a user if you wish.&#x20;
 
-![](../../.gitbook/assets/collectives_team_edituser\_2021-08-31.png)
+![](../../.gitbook/assets/collectives\_team\_edituser\_2021-08-31.png)
 
 ## Re-send email invitations
 
@@ -52,8 +52,8 @@ If they still can't find them, the easiest way to re-trigger the emails is:
 {% hint style="danger" %}
 ### Troubleshooting:
 
-* The first thing to try is to check your spam folder. 
-* If there is still no invite email, follow the instructions above to resend. ** **
+* The first thing to try is to check your spam folder.&#x20;
+* If there is still no invite email, follow the instructions above to resend. ****&#x20;
 * **Make sure you clicked 'Save' at the bottom of the Add Admin page.**
 * Email [support@opencollective.com](mailto:%20support@opencollective.com)
 {% endhint %}

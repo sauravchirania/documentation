@@ -28,11 +28,11 @@ Before starting the process to change Fiscal Hosts, get in touch with your new F
 
 **1.** [Zero the balance](collective-settings/zero-collective-balance.md) of your Collective
 
-**2. **Go to your Collective page, click on the gear icon and head to the Fiscal Host page.
+**2.** Go to your Collective page, click on the gear icon and head to the Fiscal Host page.
 
 **3.** Remove your current Fiscal Host.
 
-![](../.gitbook/assets/collectives_change-a-fiscal-host.png)
+![](../.gitbook/assets/collectives\_change-a-fiscal-host.png)
 
 **4.** Select **Create a fiscal host** (if you want to set up your own), **Apply to an existing host** (if you'll be hosted by another entity), or visit the page of the Fiscal Host you wish to join and click on the Apply button.
 
